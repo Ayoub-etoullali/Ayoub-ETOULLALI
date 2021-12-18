@@ -4,7 +4,7 @@
   
   [![Linkedin Badge](https://img.shields.io/badge/-ayoub.etoullali-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayoub-etoullali/) [![Mail Badge](https://img.shields.io/badge/-ayoub.etoullali-C70000?style=flat&labelColor=C70000&logo=gmail&logoColor=white)](ayoub.etoullali2002@gmail.com)
  
-  [![Facebook Badge](https://img.shields.io/badge/-ayoub.etoullali-001890?style=flat&labelColor=001890&logo=facebook&logoColor=white)](https://www.facebook.com/ayoub.etou) [![Mail Badge](https://img.shields.io/badge/-@ayoub.etoullali-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.facebook.com/ayoub-etoullali) [![Mail Badge](https://img.shields.io/badge/-ayoub.etoullali-408CE2?style=flat&labelColor=408CE2&logo=twitter&logoColor=white)](https://twitter.com/AEtoullali)
+  [![Facebook Badge](https://img.shields.io/badge/-ayoub.etoullali-001890?style=flat&labelColor=001890&logo=facebook&logoColor=white)](https://www.facebook.com/ayoub.etou) [![Mail Badge](https://img.shields.io/badge/-@ayoub.etoullali-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.facebook.com/ayoub_etoullali) [![Mail Badge](https://img.shields.io/badge/-ayoub.etoullali-408CE2?style=flat&labelColor=408CE2&logo=twitter&logoColor=white)](https://twitter.com/AEtoullali)
 </p>
 
 <img align="right" src="https://media3.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47hdfkq1r2galv27743y9m1l2h1l3suy4h78xnuon1&rid=giphy.gif&ct=g" />
