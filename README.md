@@ -2,7 +2,7 @@
 
 <p align='center'>
   
-[![Linkedin Badge](https://img.shields.io/badge/-Abderrahmane.Ettounani-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abderrahmane-et-tounani-21348020b/) [![Mail Badge](https://img.shields.io/badge/-@Abderrahmane.ettounani-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/ettounani99/) [![Mail Badge](https://img.shields.io/badge/-Abderrahmane.ettounani-c0392b?style=flat&labelColor=c0392b&logo=twitter&logoColor=white)](https://twitter.com/TounaniEt)
+[![Linkedin Badge](https://img.shields.io/badge/-Ayoub-etoullali-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Ayoub-etoulali/) [![Mail Badge](https://img.shields.io/badge/-@Abderrahmane.ettounani-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/ettounani99/) [![Mail Badge](https://img.shields.io/badge/-Abderrahmane.ettounani-c0392b?style=flat&labelColor=c0392b&logo=twitter&logoColor=white)](https://twitter.com/TounaniEt)
  
 </p>
 
