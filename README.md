@@ -9,15 +9,15 @@
 
 
 I'm Ayoub Etoullali, a <em>Big Data and Cloud Computing Engineering Student at <a href="https://www.enset-media.ac.ma/">Enset Mohammedia</a><br/>
-Immensely passionate about web development and related technologies,
-and I aim to use my skills to enhance and improve the lives of people.
-I am a coding enthusiast, and I love to tinker with tech.
+Immensely passionate about web development and related technologies,<br/>
+and I aim to use my skills to enhance and improve the lives of people.<br/>
+I am a coding enthusiast, and I love to tinker with tech.<br/>
 
 - 🔭 I’m currently preparing my engineering degree!!
 - 👯 I love to meet new people!!!
 - 💬 Ask me about web developement!!!
 
-
+<br/>
 
 ## Top Technologies
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
