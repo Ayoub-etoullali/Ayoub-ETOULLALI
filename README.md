@@ -14,10 +14,9 @@ and I aim to use my skills to enhance and improve the lives of people.
 I am a coding enthusiast, and I love to tinker with tech.
 
 - 🔭 I’m currently preparing my engineering degree!!
-- 🌱 I’m currently Learning NodeJs!! 
 - 👯 I love to meet new people!!!
 - 💬 Ask me about web developement!!!
-- ⚡ Fun fact: I'm a javascript lover!!
+
 
 
 ## Top Technologies
