@@ -11,12 +11,10 @@
 I'm Ayoub Etoullali, a <em>Big Data and Cloud Computing Engineering Student at <a href="https://www.enset-media.ac.ma/">Enset Mohammedia</a>
   
   <br/>
-  <br/>
 
 Immensely passionate about web development and related technologies, and I aim to use my skills to enhance and improve the lives of people.<br/>
 I am a coding enthusiast, and I love to tinker with tech.
   
-  <br/>
   <br/>
 
 
@@ -24,7 +22,6 @@ I am a coding enthusiast, and I love to tinker with tech.
 - 👯 I love to meet new people!!!
 - 💬 Ask me about web developement!!!
 
-<br/>
 <br/>
   
 
