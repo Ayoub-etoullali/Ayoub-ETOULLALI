@@ -8,9 +8,17 @@
 <img align="right" src="https://media3.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47hdfkq1r2galv27743y9m1l2h1l3suy4h78xnuon1&rid=giphy.gif&ct=g" />
 
 
-I'm Ayoub Etoullali, a <em>Big Data and Cloud Computing Engineering Student at <a href="https://www.enset-media.ac.ma/">Enset Mohammedia</a><br/>
+I'm Ayoub Etoullali, a <em>Big Data and Cloud Computing Engineering Student at <a href="https://www.enset-media.ac.ma/">Enset Mohammedia</a>
+  
+  <br/>
+  <br/>
+
 Immensely passionate about web development and related technologies, and I aim to use my skills to enhance and improve the lives of people.<br/>
-I am a coding enthusiast, and I love to tinker with tech.<br/>
+I am a coding enthusiast, and I love to tinker with tech.
+  
+  <br/>
+  <br/>
+
 
 - 🔭 I’m currently preparing my engineering degree!!
 - 👯 I love to meet new people!!!
