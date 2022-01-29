@@ -12,7 +12,8 @@ I'm Ayoub Etoullali, a <em>Big Data and Cloud Computing Engineering Student at <
   
   <br/>
 
-Immensely passionate about web development and related technologies, and I aim to use my skills to enhance and improve the lives of people.<br/>
+  
+Immensely passionate about the field of computer science & mathematics and related technologies, and I aim to use my skills to enhance and improve the lives of people.<br/>
 I am a coding enthusiast, and I love to tinker with tech.
   
   <br/>
