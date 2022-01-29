@@ -21,7 +21,8 @@ I am a coding enthusiast, and I love to tinker with tech.
 
 - 🔭 I’m currently preparing my engineering degree!!
 - 👯 I love to meet new people!!!
-- 💬 Ask me about web developement!!!
+- 💬 Ask me about computer science & mathematics !!!
+
 
 <br/>
   
