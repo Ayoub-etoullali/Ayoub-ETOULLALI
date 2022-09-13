@@ -32,7 +32,6 @@ I am a coding enthusiast, and I love to tinker with tech.
 ![C](https://img.shields.io/badge/-black?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/++-blue.svg?style=flat&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![JavaScript](https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg)
 ![Php](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)
 <!--![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)-->
 
@@ -40,7 +39,7 @@ I am a coding enthusiast, and I love to tinker with tech.
 ![Html](https://img.shields.io/badge/-html-black?style=flat-square&logo=html5)
 ![Css](https://img.shields.io/badge/-css-black?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-black?style=flat-square&logo=bootstrap)
-![a](https://github.com/jmnote/z-icons/blob/master/16x16/bootstrap.png)
+![a](https://img.icons8.com/color/2x/java-coffee-cup-logo--v2.png)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
   
   Technologie de Back-end 
