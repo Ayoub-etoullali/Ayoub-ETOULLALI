@@ -33,17 +33,18 @@ I am a coding enthusiast, and I love to tinker with tech.
 ![Php](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-black?style=flat-square&logo=bootstrap)
 ![C](https://img.shields.io/badge/-c-black?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=cplusplus)
 
-![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
+<!--![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)-->
 ![Html](https://img.shields.io/badge/-html-black?style=flat-square&logo=html5)
 ![Css](https://img.shields.io/badge/-css-black?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/-sass-black?style=flat-square&logo=sass)
+<!--![Sass](https://img.shields.io/badge/-sass-black?style=flat-square&logo=sass)-->
 ![Git](https://img.shields.io/badge/-git-black?style=flat-square&logo=git)
 
 ![Mysql](https://img.shields.io/badge/-mysql-black?style=flat-square&logo=mysql)
 ![Github](https://img.shields.io/badge/-github-black?style=flat-square&logo=github)
-/*//<!--[Laravel](https://img.shields.io/badge/-laravel-black?style=flat-square&logo=laravel)-->*/
-![Styled](https://img.shields.io/badge/-styledComponents-black?style=flat-square&logo=styledComponents)
+<!--![Laravel](https://img.shields.io/badge/-laravel-black?style=flat-square&logo=laravel)-->
+<!--![Styled](https://img.shields.io/badge/-styledComponents-black?style=flat-square&logo=styledComponents)>
   
   
  ##
