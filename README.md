@@ -42,7 +42,7 @@ I am a coding enthusiast, and I love to tinker with tech.
 
 ![Mysql](https://img.shields.io/badge/-mysql-black?style=flat-square&logo=mysql)
 ![Github](https://img.shields.io/badge/-github-black?style=flat-square&logo=github)
-![Laravel](https://img.shields.io/badge/-laravel-black?style=flat-square&logo=laravel)
+/*//<!--[Laravel](https://img.shields.io/badge/-laravel-black?style=flat-square&logo=laravel)-->*/
 ![Styled](https://img.shields.io/badge/-styledComponents-black?style=flat-square&logo=styledComponents)
   
   
