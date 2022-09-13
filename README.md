@@ -35,24 +35,22 @@ I am a coding enthusiast, and I love to tinker with tech.
 ![Php](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)
 <!--![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)-->
 
-  Technologie de Front-end
+  Technologie de Front-end 
 ![Html](https://img.shields.io/badge/-html-black?style=flat-square&logo=html5)
 ![Css](https://img.shields.io/badge/-css-black?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-black?style=flat-square&logo=bootstrap)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
   
-  Technologie de Back-end
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  Technologie de Back-end 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
   
-  Gestion de base de données
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  Gestion de base de données 
 ![Mysql](https://img.shields.io/badge/-mysql-black?style=flat-square&logo=mysql)
   
 
-  Systeme d'exploitation
-![Windows XP](https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white)
+  Systeme d'exploitation 
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   
 <!--![Sass](https://img.shields.io/badge/-sass-black?style=flat-square&logo=sass)-->
