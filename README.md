@@ -43,6 +43,7 @@ I am a coding enthusiast, and I love to tinker with tech.
   
   Technologie de Back-end 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
   
   Gestion de base de données 
@@ -56,6 +57,8 @@ I am a coding enthusiast, and I love to tinker with tech.
 <!--![Sass](https://img.shields.io/badge/-sass-black?style=flat-square&logo=sass)-->
 <!--![Styled](https://img.shields.io/badge/-styledComponents-black?style=flat-square&logo=styledComponents)-->
 <!--![Laravel](https://img.shields.io/badge/-laravel-black?style=flat-square&logo=laravel)-->
+  
+  
   
   
 ![Git](https://img.shields.io/badge/-git-black?style=flat-square&logo=git)
