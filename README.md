@@ -32,6 +32,7 @@ I am a coding enthusiast, and I love to tinker with tech.
 ![C](https://img.shields.io/badge/-black?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/++-blue.svg?style=flat&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![JavaScript](https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg)
 ![Php](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)
 <!--![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)-->
 
