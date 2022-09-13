@@ -39,6 +39,7 @@ I am a coding enthusiast, and I love to tinker with tech.
 ![Html](https://img.shields.io/badge/-html-black?style=flat-square&logo=html5)
 ![Css](https://img.shields.io/badge/-css-black?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-black?style=flat-square&logo=bootstrap)
+  https://github.com/jmnote/z-icons/blob/master/16x16/bootstrap.png
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
   
   Technologie de Back-end 
