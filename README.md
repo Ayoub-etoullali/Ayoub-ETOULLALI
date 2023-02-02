@@ -35,8 +35,6 @@ I am a coding enthusiast, and I love to tinker with tech.
 ![Php](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
 ![]J2EE](https://www.nicepng.com/png/detail/854-8546612_java-ee-java-ee-logo-svg.png)
-![]J2EE](https://img.shields.io/badge/-J2EE-black?style=flat-square&logo=J2EE)
-![]J2EE](https://img.shields.io/badge/-J2EE-blue)
 
   XML et Web Sémantique ![XML](https://img.shields.io/badge/-XML-brown)
 
@@ -63,10 +61,10 @@ I am a coding enthusiast, and I love to tinker with tech.
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-  Développement Mobile
+  Développement Mobile 
 ![Android](https://img.shields.io/badge/Android-white?style=flat-square&logo=android&logoColor=green)
   
-  Développement Desktop
+  Développement Desktop 
 ![JavaFX](https://img.shields.io/badge/JavaFX-white)
 
 
