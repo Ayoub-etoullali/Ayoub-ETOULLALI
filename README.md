@@ -36,7 +36,8 @@ I am a coding enthusiast, and I love to tinker with tech.
 ![Java](https://img.shields.io/badge/-Java-black)
 ![J2EE](https://img.shields.io/badge/-J2EE-black)
 
-  XML et Web Sémantique  ![XML](https://img.shields.io/badge/-XML-brown)
+  XML et Web Sémantique  
+![XML](https://img.shields.io/badge/-XML-brown)
 
   Technologie de Front-end  
 ![Html](https://img.shields.io/badge/-html-black?style=flat-square&logo=html5)
@@ -50,9 +51,10 @@ I am a coding enthusiast, and I love to tinker with tech.
 ![Express JS](https://img.shields.io/badge/Express%20JS-404D59?style=flat-square&logo=Express)
 ![Prisma](https://img.shields.io/badge/Prisma-blue?style=flat-square&logo=Prisma)
 
-  CMS Drupal  ![Drupal](https://img.shields.io/badge/-Drupal-blue?style=flat-square&logo=drupal)
+  CMS Drupal  
+![Drupal](https://img.shields.io/badge/-Drupal-blue?style=flat-square&logo=drupal)
   
-  Gestion de base de données 
+  Gestion de base de données  
 ![Mysql](https://img.shields.io/badge/-mysql-black?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-B50C00?style=flat-square&logo=redis&logoColor=white)
