@@ -33,27 +33,44 @@ I am a coding enthusiast, and I love to tinker with tech.
 ![C++](https://img.shields.io/badge/++-blue.svg?style=flat&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Php](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)
-<!--![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)-->
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
+![]J2EE](https://www.nicepng.com/png/detail/854-8546612_java-ee-java-ee-logo-svg.png)
+![]J2EE](https://img.shields.io/badge/-J2EE-black?style=flat-square&logo=J2EE)
+![]J2EE](https://img.shields.io/badge/-J2EE-blue)
+
+  XML et Web Sémantique ![XML](https://img.shields.io/badge/-XML-brown)
 
   Technologie de Front-end 
 ![Html](https://img.shields.io/badge/-html-black?style=flat-square&logo=html5)
 ![Css](https://img.shields.io/badge/-css-black?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-black?style=flat-square&logo=bootstrap)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat-square&logo=jquery)
   
   Technologie de Back-end 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node%20JS-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express JS](https://img.shields.io/badge/Express%20JS-404D59?style=flat-square&logo=Express)
+![Prisma](https://img.shields.io/badge/Prisma-blue?style=flat-square&logo=Prisma)
+
+  CMS Drupal ![Drupal](https://img.shields.io/badge/-Drupal-blue?style=flat-square&logo=drupal)
   
   Gestion de base de données 
 ![Mysql](https://img.shields.io/badge/-mysql-black?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-B50C00?style=flat-square&logo=redis&logoColor=white)
   
+  Administration systèmes 
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-  Systeme d'exploitation 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  Développement Mobile
+![Android](https://img.shields.io/badge/Android-white?style=flat-square&logo=android&logoColor=green)
   
+  Développement Desktop
+![JavaFX](https://img.shields.io/badge/JavaFX-white)
+
+
+
 <!--![Sass](https://img.shields.io/badge/-sass-black?style=flat-square&logo=sass)-->
 <!--![Styled](https://img.shields.io/badge/-styledComponents-black?style=flat-square&logo=styledComponents)-->
 <!--![Laravel](https://img.shields.io/badge/-laravel-black?style=flat-square&logo=laravel)-->
