@@ -5,9 +5,10 @@
 </h1>
 
 <p align='center'>
+  
   [![Linkedin Badge](https://img.shields.io/badge/-ayoub.etoullali-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayoub-etoullali/) [![Mail Badge](https://img.shields.io/badge/-ayoub.etoullali-C70000?style=flat&labelColor=C70000&logo=gmail&logoColor=white)](https://ayoub.etoullali2002@gmail.com)
   [![Facebook Badge](https://img.shields.io/badge/-ayoub.etoullali-001890?style=flat&labelColor=001890&logo=facebook&logoColor=white)](https://www.facebook.com/ayoub.etou) [![Mail Badge](https://img.shields.io/badge/-@ayoub.etoullali-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/ayoub_etoullali) [![Mail Badge](https://img.shields.io/badge/-ayoub.etoullali-408CE2?style=flat&labelColor=408CE2&logo=twitter&logoColor=white)](https://twitter.com/AEtoullali)
-  </p>
+</p>
 <br/>
 
 <img align="right" height="250" width="400" alt="GIF" src="GIF/code1.gif"/>
