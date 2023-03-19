@@ -81,43 +81,43 @@ I'm<strong> Ayoub Etoullali</strong>, a <em>Big Data and Cloud Computing Enginee
     <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
     <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/800px-PHP-logo.svg.png">
     <img height="30" width="30" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png">
-    <img height="40" width="40" src="https://smartgraphe.com/wp-content/uploads/2017/02/java_ee.jpg">
-    <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-    <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">
+    <img height="30" width="30" src="https://smartgraphe.com/wp-content/uploads/2017/02/java_ee.jpg">
+    <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+    <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">
   
   **XML et Web Sémantique**  
-    <img height="40" width="40" src="https://www.ggctools.com/assets/image/img/xml1.png">
+    <img height="30" width="30" src="https://www.ggctools.com/assets/image/img/xml1.png">
   
   **Technologie de Front-end**   
-    <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-    <img height="40" width="40" src="https://grafikart.fr/uploads/icons/css.svg">
-    <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
-    <img height="40" width="40" src="https://blog.octo.com/wp-content/uploads/2015/12/react-logo-1000-transparent.png">
-    <img height="40" width="40" src="https://avatars.githubusercontent.com/u/70142?s=280&v=4">
+    <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+    <img height="30" width="30" src="https://grafikart.fr/uploads/icons/css.svg">
+    <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
+    <img height="30" width="30" src="https://blog.octo.com/wp-content/uploads/2015/12/react-logo-1000-transparent.png">
+    <img height="30" width="30" src="https://avatars.githubusercontent.com/u/70142?s=280&v=4">
    
   **Technologie de Back-end**  
-    <img height="40" width="40" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">
-    <img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT14U4J0XYAmbVs9BCCAQYvdTsGBGTGfxuPSxQ84K7jON-vBCfthFibip6wd_JF5Jsv5ow&usqp=CAU">
-    <img height="40" width="40" src="https://avatars.githubusercontent.com/u/17219288?s=280&v=4">
+    <img height="30" width="30" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">
+    <img height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT14U4J0XYAmbVs9BCCAQYvdTsGBGTGfxuPSxQ84K7jON-vBCfthFibip6wd_JF5Jsv5ow&usqp=CAU">
+    <img height="30" width="30" src="https://avatars.githubusercontent.com/u/17219288?s=280&v=4">
 
   **CMS Drupal**  
-    <img height="40" width="40" src="https://drupalize.me/sites/default/files/page_images/wordmark2_blue_rgb.png">
+    <img height="30" width="30" src="https://drupalize.me/sites/default/files/page_images/wordmark2_blue_rgb.png">
   
   **Gestion de base de données**  
-    <img height="40" width="40" src="https://kinsta.com/wp-content/uploads/2019/04/mysql-logo-1.svg">
-    <img height="40" width="40" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld">
-    <img height="40" width="40" src="https://www.liblogo.com/img-logo/re310r405-redis-logo-redis-original-wordmark-logo-free-icon-of-devicon.png">
+    <img height="30" width="30" src="https://kinsta.com/wp-content/uploads/2019/04/mysql-logo-1.svg">
+    <img height="30" width="30" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld">
+    <img height="30" width="30" src="https://www.liblogo.com/img-logo/re310r405-redis-logo-redis-original-wordmark-logo-free-icon-of-devicon.png">
   
   **Administration systèmes**  
-    <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png">
-    <img height="40" width="40" src="https://logos-world.net/wp-content/uploads/2020/09/Linux-Logo-1996-present.png">
-    <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png">
+    <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png">
+    <img height="30" width="30" src="https://logos-world.net/wp-content/uploads/2020/09/Linux-Logo-1996-present.png">
+    <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png">
       
   **Développement Mobile**  
-    <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">
+    <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">
   
   **Développement Desktop**  
-    <img height="40" width="40" src="https://i0.wp.com/gluonhq.com/wp-content/uploads/2015/09/javafx_logo1.jpg?fit=404%2C375&ssl=1">
+    <img height="30" width="30" src="https://i0.wp.com/gluonhq.com/wp-content/uploads/2015/09/javafx_logo1.jpg?fit=404%2C375&ssl=1">
 
   <br>
       
