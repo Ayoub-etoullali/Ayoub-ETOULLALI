@@ -71,7 +71,6 @@ I'm<strong> Ayoub Etoullali</strong>, a <em>Big Data and Cloud Computing Enginee
 -->
   
   ## Top Technologies
-  #
   **Language de programmation**  
     <code><img height="40" width="40" src="https://cms-informatic.com/wp-content/uploads/2020/01/logo-langage-C-300x300.png"></code>
     <code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
@@ -90,7 +89,6 @@ I'm<strong> Ayoub Etoullali</strong>, a <em>Big Data and Cloud Computing Enginee
     <code><img height="40" width="40" src="https://grafikart.fr/uploads/icons/css.svg"></code>
     <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
     <code><img height="40" width="40" src="https://blog.octo.com/wp-content/uploads/2015/12/react-logo-1000-transparent.png"></code>
-    <code><img height="40" width="40" src="https://www.shariqueweb.com/wp-content/uploads/2015/06/jquery-600x400.png"></code>
     <code><img height="40" width="40" src="https://avatars.githubusercontent.com/u/70142?s=280&v=4"></code>
   
   **Technologie de Back-end**  
