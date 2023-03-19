@@ -18,15 +18,14 @@
 - 🔭 I'm Ayoub Etoullali, a <em>Big Data and Cloud Computing Engineering Student at <a href="https://www.enset-media.ac.ma/">Enset Mohammedia</a>
 - 🔭 I’m currently preparing my engineering degree!! 
 - 👯 I love to meet new people!!!
-- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 computer science & mathematics [here](https://www.linkedin.com/in/ayoub-etoullali/) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
+- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 computer science & mathematics [here](https://www.linkedin.com/in/ayoub-etoullali/) ! 
+  𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 - ⚡ I’m currently working on myself
 
-<br/>
+<br/><br/><br/>
   
   Immensely passionate about the field of computer science & mathematics and related technologies, and I aim to use my skills to enhance and improve the lives of people.<br/>
 I am a coding enthusiast, and I love to tinker with tech.
-  
-  <br/><br/><br/><br/>
   
   ## Top Technologies
   Language de programmation  
@@ -103,8 +102,6 @@ I am a coding enthusiast, and I love to tinker with tech.
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=Ayoub-etoullali&theme=react-dark&hide_border=true&area=true)
 
 <h4 align="center">
-  
-<br>
 
 ###### Me as a JSON object
 ```json
