@@ -79,18 +79,14 @@ I'm<strong> Ayoub Etoullali</strong>, a <em>Big Data and Cloud Computing Enginee
     <img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png">
     <img height="40" width="40" src="https://smartgraphe.com/wp-content/uploads/2017/02/java_ee.jpg">
     <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-    <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">
-
-  **XML et Web Sémantique**  
-    <img height="40" width="40" src="https://www.ggctools.com/assets/image/img/xml1.png">
-  
-  **Technologie de Front-end**   
+    <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"> | **XML et Web Sémantique**  
+    <img height="40" width="40" src="https://www.ggctools.com/assets/image/img/xml1.png">  |  **Technologie de Front-end**   
     <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
     <img height="40" width="40" src="https://grafikart.fr/uploads/icons/css.svg">
     <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
     <img height="40" width="40" src="https://blog.octo.com/wp-content/uploads/2015/12/react-logo-1000-transparent.png">
-    <img height="40" width="40" src="https://avatars.githubusercontent.com/u/70142?s=280&v=4">
-  
+    <img height="40" width="40" src="https://avatars.githubusercontent.com/u/70142?s=280&v=4"> |
+   |---|---|---|
   **Technologie de Back-end**  
     <img height="40" width="40" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">
     <img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT14U4J0XYAmbVs9BCCAQYvdTsGBGTGfxuPSxQ84K7jON-vBCfthFibip6wd_JF5Jsv5ow&usqp=CAU">
