@@ -114,21 +114,17 @@ I'm<strong> Ayoub Etoullali</strong>, a <em>Big Data and Cloud Computing Enginee
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayoub-etoullali" alt="Ayoub-etoullali" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoub-etoullali" alt="Ayoub-etoullali" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayoub-etoullali" alt="Ayoub-etoullali" /> |   |---|---|---|
 -->
 <!--
-<div align='right' width='20%'>
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ayoub-etoullali&theme=dark&background=000000)](https://github-readme-streak-stats.herokuapp.com?user=Ayoub-etoullali&theme=dark&background=000000)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoub-etoullali&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align='right' width='20%'> -->
 
   <img src="https://github-readme-stats.vercel.app/api?username=Ayoub-etoullali&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Ayoub-etoullali" />
-  <!--![Most commit langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ayoub-etoullali&theme=github_dark)
-</div>## Top Technologies-->
   
-   <img align='right' src="https://github-readme-streak-stats.herokuapp.com?user=Ayoub-etoullali&theme=dark&background=000000" alt="Ayoub-etoullali" /> <br>
+   <!--<img align='right' src="https://github-readme-streak-stats.herokuapp.com?user=Ayoub-etoullali&theme=dark&background=000000" alt="Ayoub-etoullali" />-->
   
-   <!--<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoub-etoullali&layout=compact&theme=vision-friendly-dark" alt="Ayoub-etoullali" /> -->
+   <!--<!--<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoub-etoullali&layout=compact&theme=vision-friendly-dark" alt="Ayoub-etoullali" /> -->
   
   <!--<img align='right' height="250" width="400" src="https://github-readme-stats.vercel.app/api?username=Ayoub-etoullali&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Ayoub-etoullali" />-->
+  
+  ## Top Technologies
   
   **Language de programmation**  
     <img height="30" width="30" src="https://cms-informatic.com/wp-content/uploads/2020/01/logo-langage-C-300x300.png">
@@ -140,6 +136,8 @@ I'm<strong> Ayoub Etoullali</strong>, a <em>Big Data and Cloud Computing Enginee
     <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
     <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">
   
+  <img align='right' src="https://github-readme-streak-stats.herokuapp.com?user=Ayoub-etoullali&theme=dark&background=000000" alt="Ayoub-etoullali" />
+  
   **XML et Web Sémantique**  
     <img height="30" width="30" src="https://www.ggctools.com/assets/image/img/xml1.png">
   
@@ -150,6 +148,8 @@ I'm<strong> Ayoub Etoullali</strong>, a <em>Big Data and Cloud Computing Enginee
     <img height="30" width="30" src="https://blog.octo.com/wp-content/uploads/2015/12/react-logo-1000-transparent.png">
     <img height="30" width="30" src="https://avatars.githubusercontent.com/u/70142?s=280&v=4">
    
+  <img align='right' height="250" width="400" src="https://github-readme-stats.vercel.app/api?username=Ayoub-etoullali&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Ayoub-etoullali" />
+  
   **Technologie de Back-end**  
     <img height="30" width="30" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">
     <img height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT14U4J0XYAmbVs9BCCAQYvdTsGBGTGfxuPSxQ84K7jON-vBCfthFibip6wd_JF5Jsv5ow&usqp=CAU">
