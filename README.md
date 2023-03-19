@@ -110,6 +110,7 @@ I'm<strong> Ayoub Etoullali</strong>, a <em>Big Data and Cloud Computing Enginee
   ]
   "gmail":"ayoub.etoullali2002@gmail.com"
   "linkedIn": "https://www.linkedin.com/in/ayoub-etoullali/",
+  "Github": "https://github.com/Ayoub-etoullali"
 }
 ```
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayoub-etoullali" alt="taffah-achraf" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoub-etoullali" alt="taffah-achraf" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayoub-etoullali" alt="Ayoub-etoullali" /> |
