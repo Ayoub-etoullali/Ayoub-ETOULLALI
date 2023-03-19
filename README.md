@@ -12,8 +12,6 @@
 
 <img align="right" height="250" width="400" alt="GIF" src="GIF/code1.gif"/>
 I'm<strong> Ayoub Etoullali</strong>, a <em>Big Data and Cloud Computing Engineering Student at <a href="https://www.enset-media.ac.ma/">Enset Mohammedia</a> 
-  
-  </br>
 
   🔭 I’m currently preparing my engineering degree!! <br>
   👯 I love to meet new people <br>
