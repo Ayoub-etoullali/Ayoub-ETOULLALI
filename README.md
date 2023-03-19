@@ -88,9 +88,7 @@ I'm<strong> Ayoub Etoullali</strong>, a <em>Big Data and Cloud Computing Enginee
   **Technologie de Front-end**   
     <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
     <code><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919826.png"></code>
-    <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
-    <code><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919826.png">
-    </code><code><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919826.png"></code>
+    <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
     <code><img height="40" width="40" src="https://faq.o2switch.fr/_media/tuto-rapide/o2switch-deployer-react.js.png"></code>
     <code><img height="40" width="40" src="https://www.joykal.com/wp-content/uploads/2019/09/jquery.png"></code>
   
