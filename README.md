@@ -59,7 +59,10 @@ I'm<strong> Ayoub Etoullali</strong>, a <em>Big Data and Cloud Computing Enginee
 
   <br>
   
-  ## Top Technologies
+  <h1 align="center">
+  Top &lt;Technologies/&gt;!
+  <img src="https://i.gifer.com/origin/a9/a9176696b8740c402d84b55374ea0107_w200.gif" width="40px" />
+</h1>
   
   <img align='right' src="https://github-readme-streak-stats.herokuapp.com?user=Ayoub-etoullali&theme=dark&background=000000" alt="Ayoub-etoullali" />
   
