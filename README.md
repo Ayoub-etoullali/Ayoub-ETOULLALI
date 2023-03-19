@@ -118,6 +118,8 @@ I'm<strong> Ayoub Etoullali</strong>, a <em>Big Data and Cloud Computing Enginee
 
   ## Top Technologies
   
+  <br>
+  
   <img align='right' src="https://github-readme-streak-stats.herokuapp.com?user=Ayoub-etoullali&theme=dark&background=000000" alt="Ayoub-etoullali" />
   
    <!--<img align='right' src="https://github-readme-streak-stats.herokuapp.com?user=Ayoub-etoullali&theme=dark&background=000000" alt="Ayoub-etoullali" />-->
@@ -152,8 +154,6 @@ I'm<strong> Ayoub Etoullali</strong>, a <em>Big Data and Cloud Computing Enginee
     <img height="30" width="30" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">
     <img height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT14U4J0XYAmbVs9BCCAQYvdTsGBGTGfxuPSxQ84K7jON-vBCfthFibip6wd_JF5Jsv5ow&usqp=CAU">
     <img height="30" width="30" src="https://avatars.githubusercontent.com/u/17219288?s=280&v=4">
-
-  <img align='right' height="250" width="400" src="https://github-readme-stats.vercel.app/api?username=Ayoub-etoullali&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Ayoub-etoullali" />
   
   **CMS Drupal**  
     <img height="30" width="30" src="https://drupalize.me/sites/default/files/page_images/wordmark2_blue_rgb.png">
@@ -167,6 +167,8 @@ I'm<strong> Ayoub Etoullali</strong>, a <em>Big Data and Cloud Computing Enginee
     <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png">
     <img height="30" width="30" src="https://logos-world.net/wp-content/uploads/2020/09/Linux-Logo-1996-present.png">
     <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png">
+  
+  <img align='right' height="250" width="400" src="https://github-readme-stats.vercel.app/api?username=Ayoub-etoullali&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Ayoub-etoullali" />
       
   **Développement Mobile**  
     <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">
