@@ -116,6 +116,8 @@ I'm<strong> Ayoub Etoullali</strong>, a <em>Big Data and Cloud Computing Enginee
 <!--
 <div align='right' width='20%'> -->
 
+    ## Top Technologies
+  
   <img src="https://github-readme-stats.vercel.app/api?username=Ayoub-etoullali&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Ayoub-etoullali" />
   
    <!--<img align='right' src="https://github-readme-streak-stats.herokuapp.com?user=Ayoub-etoullali&theme=dark&background=000000" alt="Ayoub-etoullali" />-->
@@ -123,8 +125,6 @@ I'm<strong> Ayoub Etoullali</strong>, a <em>Big Data and Cloud Computing Enginee
    <!--<!--<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoub-etoullali&layout=compact&theme=vision-friendly-dark" alt="Ayoub-etoullali" /> -->
   
   <!--<img align='right' height="250" width="400" src="https://github-readme-stats.vercel.app/api?username=Ayoub-etoullali&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Ayoub-etoullali" />-->
-  
-  ## Top Technologies
   
   **Language de programmation**  
     <img height="30" width="30" src="https://cms-informatic.com/wp-content/uploads/2020/01/logo-langage-C-300x300.png">
@@ -147,14 +147,14 @@ I'm<strong> Ayoub Etoullali</strong>, a <em>Big Data and Cloud Computing Enginee
     <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
     <img height="30" width="30" src="https://blog.octo.com/wp-content/uploads/2015/12/react-logo-1000-transparent.png">
     <img height="30" width="30" src="https://avatars.githubusercontent.com/u/70142?s=280&v=4">
-   
-  <img align='right' height="250" width="400" src="https://github-readme-stats.vercel.app/api?username=Ayoub-etoullali&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Ayoub-etoullali" />
   
   **Technologie de Back-end**  
     <img height="30" width="30" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">
     <img height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT14U4J0XYAmbVs9BCCAQYvdTsGBGTGfxuPSxQ84K7jON-vBCfthFibip6wd_JF5Jsv5ow&usqp=CAU">
     <img height="30" width="30" src="https://avatars.githubusercontent.com/u/17219288?s=280&v=4">
 
+  <img align='right' height="250" width="400" src="https://github-readme-stats.vercel.app/api?username=Ayoub-etoullali&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Ayoub-etoullali" />
+  
   **CMS Drupal**  
     <img height="30" width="30" src="https://drupalize.me/sites/default/files/page_images/wordmark2_blue_rgb.png">
   
