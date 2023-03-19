@@ -71,27 +71,62 @@ I'm<strong> Ayoub Etoullali</strong>, a <em>Big Data and Cloud Computing Enginee
 -->
   
   ## Top Technologies
-  **Language de programmation ** 
-  <code><img height="40" width="40" src="https://cms-informatic.com/wp-content/uploads/2020/01/logo-langage-C-300x300.png"></code>
-  <code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
-  <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-  <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/800px-PHP-logo.svg.png"></code>
-<code><img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+  #
+  **Language de programmation**  
+    <code><img height="40" width="40" src="https://cms-informatic.com/wp-content/uploads/2020/01/logo-langage-C-300x300.png"></code>
+    <code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
+    <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"</code>
+    <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/800px-PHP-logo.svg.png"></code>
+    <code><img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"></code>
+    <code><img height="40" width="40" src="https://smartgraphe.com/wp-content/uploads/2017/02/java_ee.jpg"></code>
+    <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+    <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+  **XML et Web Sémantique**  
+    <code><img height="40" width="40" src="https://cdn5.vectorstock.com/i/1000x1000/03/64/xml-file-document-icon-vector-24690364.jpg"></code>
+  
+  **Technologie de Front-end**   
+    <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+    <code><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919826.png"></code>
+    <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
+    <code><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919826.png">
+    </code><code><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919826.png"></code>
+    <code><img height="40" width="40" src="https://faq.o2switch.fr/_media/tuto-rapide/o2switch-deployer-react.js.png"></code>
+    <code><img height="40" width="40" src="https://www.joykal.com/wp-content/uploads/2019/09/jquery.png"></code>
+  
+  **Technologie de Back-end**  
+    <code><img height="40" width="40" src="https://cdn-ak.f.st-hatena.com/images/fotolife/d/daihase/20190809/20190809120056.png"></code>
+    <code><img height="40" width="40" src="https://w7.pngwing.com/pngs/212/722/png-transparent-web-development-express-js-javascript-software-framework-laravel-world-wide-web-purple-blue-text.png"></code>
+    <code><img height="40" width="40" src="https://res.cloudinary.com/practicaldev/image/fetch/s--iDkWTEBC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/3bzg30pauwbl828gcl84.png"></code>
 
+  **CMS Drupal**  
+    <code><img height="40" width="40" src="https://drupalize.me/sites/default/files/page_images/wordmark2_blue_rgb.png"></code>
+  
+  **Gestion de base de données**  
+    <code><img height="40" width="40" src="https://kinsta.com/wp-content/uploads/2019/04/mysql-logo-1.svg"></code>
+    <code><img height="40" width="40" src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png"></code>
+    <code><img height="40" width="40" src="https://w7.pngwing.com/pngs/428/940/png-transparent-logo-redis-redis-icon-thumbnail.png"></code>
+  
+  **Administration systèmes**  
+    <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png"></code>
+    <code><img height="40" width="40" src="https://www.freepnglogos.com/uploads/linux-png/difference-between-linux-and-window-operating-system-3.png"></code>
+    <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
+      
+  **Développement Mobile**  
+    <code><img height="40" width="40" src="https://www.lebigdata.fr/wp-content/uploads/2021/07/Android-logo.jpg"></code>
+    <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+  
+  **Développement Desktop**  
+    <code><img height="40" width="40" src="https://i0.wp.com/gluonhq.com/wp-content/uploads/2015/09/javafx_logo1.jpg?fit=404%2C375&ssl=1"></code>
 
-# 
-  <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-
+      
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+
+<!--
+</code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
+-->
 
   <br/>
   
