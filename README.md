@@ -136,7 +136,7 @@ I'm<strong> Ayoub Etoullali</strong>, a <em>Big Data and Cloud Computing Enginee
     <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
     <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">
   
-  <img align='right' src="[https://github-readme-streak-stats.herokuapp.com?user=Ayoub-etoullali&theme=dark&background=000000](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoub-etoullali&layout=compact&theme=vision-friendly-dark)" alt="Ayoub-etoullali" />
+  <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoub-etoullali&layout=compact&theme=vision-friendly-dark" alt="Ayoub-etoullali" />
   
   **XML et Web Sémantique**  
     <img height="30" width="30" src="https://www.ggctools.com/assets/image/img/xml1.png">
