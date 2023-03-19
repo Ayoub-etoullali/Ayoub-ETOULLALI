@@ -68,7 +68,7 @@ I'm<strong> Ayoub Etoullali</strong>, a <em>Big Data and Cloud Computing Enginee
   
 ![Git](https://img.shields.io/badge/-git-black?style=flat-square&logo=git)
 ![Github](https://img.shields.io/badge/-github-black?style=flat-square&logo=github)
-  <code><img height="40" width="40" src="https://img.shields.io/badge/-github-black?style=flat-square"></code>
+  <code><img height="40" width="40" src="https://img.shields.io/badge/--black?style=flat-square&logo=github"></code>
   
 <!-- **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 
