@@ -18,11 +18,11 @@
 - 🔭 I'm Ayoub Etoullali, a <em>Big Data and Cloud Computing Engineering Student at <a href="https://www.enset-media.ac.ma/">Enset Mohammedia</a>
 - 🔭 I’m currently preparing my engineering degree!! 
 - 👯 I love to meet new people!!!
-- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 computer science & mathematics [here](https://www.linkedin.com/in/ayoub-etoullali/) ! 
+- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 computer science & mathematics [here](https://www.linkedin.com/in/ayoub-etoullali/) ! <br>
   𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 - ⚡ I’m currently working on myself
 
-<br/>
+<br/><br/>
   
   Immensely passionate about the field of computer science & mathematics and related technologies, <br/>
   and I aim to use my skills to enhance and improve the lives of people.<br/>
