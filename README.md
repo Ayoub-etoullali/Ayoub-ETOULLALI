@@ -161,6 +161,7 @@ I'm<strong> Ayoub Etoullali</strong>, a <em>Big Data and Cloud Computing Enginee
 -->
 
 <div align='center' width='50%'>
+  
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ayoub-etoullali&theme=dark&background=000000)](https://github-readme-streak-stats.herokuapp.com?user=Ayoub-etoullali&theme=dark&background=000000)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoub-etoullali&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
