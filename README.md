@@ -70,6 +70,10 @@ I'm<strong> Ayoub Etoullali</strong>, a <em>Big Data and Cloud Computing Enginee
 ![Github](https://img.shields.io/badge/-github-black?style=flat-square&logo=github)
 -->
   
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ayoub-etoullali" alt="Ayoub-etoullali" /></a> </p>
+  
+  <br>
+  
   ## Top Technologies
   **Language de programmation**  
     <img height="40" width="40" src="https://cms-informatic.com/wp-content/uploads/2020/01/logo-langage-C-300x300.png">
@@ -119,8 +123,6 @@ I'm<strong> Ayoub Etoullali</strong>, a <em>Big Data and Cloud Computing Enginee
       
 <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png">
 <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png">
-
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ayoub-etoullali" alt="Ayoub-etoullali" /></a> </p>
   
 <!--
 </code>
