@@ -74,6 +74,55 @@ I'm<strong> Ayoub Etoullali</strong>, a <em>Big Data and Cloud Computing Enginee
     
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ayoub-etoullali" alt="Ayoub-etoullali" /></a> </p>
   
+  <!-- top-->
+  
+<!--
+</code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+-->
+
+  <br/> <!--<h4 align="center">-->
+  
+  <div align='center'> <kbd>Me as a JSON object</kbd> </div>
+  
+```json
+{
+  "name": "Ayoub ETOULLALI",
+  "age": 21,
+  "studies": "Big Data & Cloud Computing Engineering Student",
+  "profile": "Software engineer",
+  "interests": ["Problem Solving","Software dev"]
+  "speak": [
+    "Arabic",
+    "French"
+    "English"
+  ]
+  "gmail":"ayoub.etoullali2002@gmail.com"
+  "linkedIn": "https://www.linkedin.com/in/ayoub-etoullali/",
+  "Github": "https://github.com/Ayoub-etoullali"
+}
+```
+  
+  ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=Ayoub-etoullali&theme=react-dark&hide_border=true&area=true)
+  
+  <!--
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayoub-etoullali&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Ayoub-etoullali" />  | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayoub-etoullali&show_icons=true&locale=en" alt="Ayoub-etoullali" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayoub-etoullali&" alt="Ayoub-etoullali" /> | 
+  |---|---|---|
+-->
+  
+<!--
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayoub-etoullali" alt="Ayoub-etoullali" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoub-etoullali" alt="Ayoub-etoullali" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayoub-etoullali" alt="Ayoub-etoullali" /> |   |---|---|---|
+-->
+
+<div align='right' width='50%'>
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ayoub-etoullali&theme=dark&background=000000)](https://github-readme-streak-stats.herokuapp.com?user=Ayoub-etoullali&theme=dark&background=000000)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoub-etoullali&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayoub-etoullali&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Ayoub-etoullali" />
+  <!--![Most commit langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ayoub-etoullali&theme=github_dark)-->
+</div>
   ## Top Technologies
   **Language de programmation**  
     <img height="30" width="30" src="https://cms-informatic.com/wp-content/uploads/2020/01/logo-langage-C-300x300.png">
@@ -123,54 +172,6 @@ I'm<strong> Ayoub Etoullali</strong>, a <em>Big Data and Cloud Computing Enginee
       
 <img height="20" width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png">
 <img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png">
-  
-<!--
-</code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
--->
-
-  <br/> <!--<h4 align="center">-->
-  
-  <div align='center'> <kbd>Me as a JSON object</kbd> </div>
-  
-```json
-{
-  "name": "Ayoub ETOULLALI",
-  "age": 21,
-  "studies": "Big Data & Cloud Computing Engineering Student",
-  "profile": "Software engineer",
-  "interests": ["Problem Solving","Software dev"]
-  "speak": [
-    "Arabic",
-    "French"
-    "English"
-  ]
-  "gmail":"ayoub.etoullali2002@gmail.com"
-  "linkedIn": "https://www.linkedin.com/in/ayoub-etoullali/",
-  "Github": "https://github.com/Ayoub-etoullali"
-}
-```
-  
-  ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=Ayoub-etoullali&theme=react-dark&hide_border=true&area=true)
-  
-  <!--
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayoub-etoullali&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Ayoub-etoullali" />  | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayoub-etoullali&show_icons=true&locale=en" alt="Ayoub-etoullali" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayoub-etoullali&" alt="Ayoub-etoullali" /> | 
-  |---|---|---|
--->
-  
-<!--
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayoub-etoullali" alt="Ayoub-etoullali" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoub-etoullali" alt="Ayoub-etoullali" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayoub-etoullali" alt="Ayoub-etoullali" /> |   |---|---|---|
--->
-
-<div align='center' width='50%'>
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ayoub-etoullali&theme=dark&background=000000)](https://github-readme-streak-stats.herokuapp.com?user=Ayoub-etoullali&theme=dark&background=000000)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoub-etoullali&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayoub-etoullali&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Ayoub-etoullali" />
-  <!--![Most commit langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ayoub-etoullali&theme=github_dark)-->
-</div>
   
   
 ### “First, solve the problem. Then, write the code.” – John Johnson
