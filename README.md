@@ -8,6 +8,7 @@
 
 <img align="right" height="250" width="400" alt="GIF" src="GIF/code1.gif"/>
 
+<br/>
 
 - 🔭 𝙸'am Ayoub ETOULLALI from Morocco..
 - 🔭 I’m currently preparing my engineering degree!! 
@@ -15,7 +16,7 @@
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://www.linkedin.com/in/ayoub-etoullali/) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 - ⚡ I’m currently working on myself
 
-<br/><br/><br/>
+<br/><br/><br/><br/>
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 
