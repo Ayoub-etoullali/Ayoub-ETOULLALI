@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="GIF/Earth.gif" width="24px">
-  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+  𝐇i, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
   <img src="GIF/Hi.gif" width="40px" />
 </h1>
 
@@ -9,8 +9,10 @@
 
 <img align="right" height="250" width="400" alt="GIF" src="GIF/code1.gif"/>
 
-- 🔭 𝙸'am Ayoub ETOULLALI from Morocco..**
-- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
+
+- 🔭 𝙸'am Ayoub ETOULLALI from Morocco..
+- 🔭 I’m currently preparing my engineering degree!! 
+- 👯 I love to meet new people!!!
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://www.linkedin.com/in/ayoub-etoullali/) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 - ⚡ I’m currently working on myself
 
@@ -54,16 +56,15 @@
 {
   "name": "Ayoub ETOULLALI",
   "age": 21,
-  "studies": "a Big Data and Cloud Computing Engineering Student",
+  "studies": "Big Data & Cloud Computing Engineering Student",
   "profile": "Software engineer",
   "interests": ["Problem Solving","Software dev"]
   "speak": [
     "Arabic",
     "French"
     "English"
-  ],
+  ]
   "gmail":"ayoub.etoullali2002@gmail.com"
-  "github": "https://github.com/Ayoub-etoullali",
   "linkedIn": "https://www.linkedin.com/in/ayoub-etoullali/",
 }
 ```
@@ -74,5 +75,5 @@
 
 </div>
 
-#
-
+##
+  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
