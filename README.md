@@ -22,8 +22,6 @@ I'm<strong> Ayoub Etoullali</strong>, a <em>Big Data and Cloud Computing Enginee
   Immensely passionate about the field of computer science & mathematics and related technologies, and I aim to use my skills to enhance and improve the lives of people.<br/>
   I am a coding enthusiast, and I love to tinker with tech.
  
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ayoub-etoullali" alt="Ayoub-etoullali" /></a> </p>
-  
   <!--
   ## Top Technologies
   Language de programmation  
@@ -122,6 +120,8 @@ I'm<strong> Ayoub Etoullali</strong>, a <em>Big Data and Cloud Computing Enginee
 <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png">
 <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png">
 
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ayoub-etoullali" alt="Ayoub-etoullali" /></a> </p>
+  
 <!--
 </code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
@@ -151,11 +151,11 @@ I'm<strong> Ayoub Etoullali</strong>, a <em>Big Data and Cloud Computing Enginee
   "Github": "https://github.com/Ayoub-etoullali"
 }
 ```
-  
+  <!--
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayoub-etoullali&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Ayoub-etoullali" />  | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayoub-etoullali&show_icons=true&locale=en" alt="Ayoub-etoullali" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayoub-etoullali&" alt="Ayoub-etoullali" /> | 
   |---|---|---|
+-->
   
-  #
 <!--
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayoub-etoullali" alt="Ayoub-etoullali" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoub-etoullali" alt="Ayoub-etoullali" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayoub-etoullali" alt="Ayoub-etoullali" /> |   |---|---|---|
 -->
@@ -169,6 +169,7 @@ I'm<strong> Ayoub Etoullali</strong>, a <em>Big Data and Cloud Computing Enginee
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayoub-etoullali&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Ayoub-etoullali" />
   <!--![Most commit langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ayoub-etoullali&theme=github_dark)-->
 </div>
+  
   
 ### “First, solve the problem. Then, write the code.” – John Johnson
 
