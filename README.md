@@ -22,6 +22,8 @@ I'm<strong> Ayoub Etoullali</strong>, a <em>Big Data and Cloud Computing Enginee
   Immensely passionate about the field of computer science & mathematics and related technologies, and I aim to use my skills to enhance and improve the lives of people.<br/>
   I am a coding enthusiast, and I love to tinker with tech.
  
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ayoub-etoullali" alt="Ayoub-etoullali" /></a> </p>
+  
   <!--
   ## Top Technologies
   Language de programmation  
@@ -150,7 +152,7 @@ I'm<strong> Ayoub Etoullali</strong>, a <em>Big Data and Cloud Computing Enginee
 }
 ```
   
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayoub-etoullali&show_icons=true&locale=en&layout=compact" alt="Ayoub-etoullali" />  | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayoub-etoullali&show_icons=true&locale=en" alt="Ayoub-etoullali" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayoub-etoullali&" alt="Ayoub-etoullali" /> | 
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayoub-etoullali&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Ayoub-etoullali" />  | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayoub-etoullali&show_icons=true&locale=en" alt="Ayoub-etoullali" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayoub-etoullali&" alt="Ayoub-etoullali" /> | 
   |---|---|---|
   
   #
@@ -158,6 +160,15 @@ I'm<strong> Ayoub Etoullali</strong>, a <em>Big Data and Cloud Computing Enginee
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayoub-etoullali" alt="Ayoub-etoullali" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoub-etoullali" alt="Ayoub-etoullali" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayoub-etoullali" alt="Ayoub-etoullali" /> |   |---|---|---|
 -->
 
+<!--
+<div align='center' width='50%'>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ayoub-etoullali&theme=dark&background=000000)](https://github-readme-streak-stats.herokuapp.com?user=0ussamaBernou&theme=dark&background=000000)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoub-etoullali&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+  ![Most commit langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ayoub-etoullali&theme=github_dark)
+</div>
+-->
 ### “First, solve the problem. Then, write the code.” – John Johnson
 
 ##
