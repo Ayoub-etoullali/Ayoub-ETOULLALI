@@ -10,7 +10,7 @@
   [![Facebook Badge](https://img.shields.io/badge/-ayoub.etoullali-001890?style=flat&labelColor=001890&logo=facebook&logoColor=white)](https://www.facebook.com/ayoub.etou) [![Mail Badge](https://img.shields.io/badge/-@ayoub.etoullali-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/ayoub_etoullali) [![Mail Badge](https://img.shields.io/badge/-ayoub.etoullali-408CE2?style=flat&labelColor=408CE2&logo=twitter&logoColor=white)](https://twitter.com/AEtoullali)
 </p> <br>
 
-<img align="right" height="250" width="400" alt="GIF" src="GIF/code1-unscreen.gif"/>
+<img align="right" height="250" width="400" alt="GIF" src="GIF/code-unscreen.gif"/>
 I'm<strong> Ayoub Etoullali</strong>, a <em>Big Data and Cloud Computing Engineering Student at <a href="https://www.enset-media.ac.ma/">Enset Mohammedia</a> 
 
   🔭 I’m currently preparing my engineering degree!! <br>
