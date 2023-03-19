@@ -21,7 +21,8 @@ I'm<strong> Ayoub Etoullali</strong>, a <em>Big Data and Cloud Computing Enginee
   
   Immensely passionate about the field of computer science & mathematics and related technologies, and I aim to use my skills to enhance and improve the lives of people.<br/>
   I am a coding enthusiast, and I love to tinker with tech.
-  
+ 
+  <!--
   ## Top Technologies
   Language de programmation  
 ![C](https://img.shields.io/badge/-black?style=flat-square&logo=c)
@@ -64,33 +65,36 @@ I'm<strong> Ayoub Etoullali</strong>, a <em>Big Data and Cloud Computing Enginee
   Développement Desktop  
 ![JavaFX](https://img.shields.io/badge/JavaFX-white)
 
-<br/>
   
 ![Git](https://img.shields.io/badge/-git-black?style=flat-square&logo=git)
 ![Github](https://img.shields.io/badge/-github-black?style=flat-square&logo=github)
-  <code><img height="40" width="40" src="https://img.shields.io/badge/--black?style=flat-square&logo=github"></code>
+-->
   
-<!-- **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
-
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+  ## Top Technologies
+  **Language de programmation** 
+<code><img height="40" width="40" src=""></code>
+  <code><img height="40" width="40" src=""></code>
+  <code><img height="40" width="40" src="https://cms-informatic.com/wp-content/uploads/2020/01/logo-langage-C-300x300.png"></code>
+<code><img height="40" width="40" src="https://user-images.githubusercontent.com/92756846/226181185-a3f9bfb8-0890-40fa-aa27-a93ec80bc186.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
-#
+
+# 
+  <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1PKsfJXnxOqnTRiIZ8VcdJDYBXD-qZnnpw&usqp=CAU"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
--->
+
+  <br/>
   
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=Ayoub-etoullali&theme=react-dark&hide_border=true&area=true)
 
