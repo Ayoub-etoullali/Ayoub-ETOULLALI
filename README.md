@@ -83,40 +83,41 @@ I'm<strong> Ayoub Etoullali</strong>, a <em>Big Data and Cloud Computing Enginee
     <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 
   **XML et Web Sémantique**  
-    <code><img height="40" width="40" src="https://cdn5.vectorstock.com/i/1000x1000/03/64/xml-file-document-icon-vector-24690364.jpg"></code>
+    <code><img height="40" width="40" src="https://www.ggctools.com/assets/image/img/xml1.png"></code>
   
   **Technologie de Front-end**   
     <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-    <code><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919826.png"></code>
+    <code><img height="40" width="40" src="https://grafikart.fr/uploads/icons/css.svg"></code>
     <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-    <code><img height="40" width="40" src="https://faq.o2switch.fr/_media/tuto-rapide/o2switch-deployer-react.js.png"></code>
-    <code><img height="40" width="40" src="https://www.joykal.com/wp-content/uploads/2019/09/jquery.png"></code>
+    <code><img height="40" width="40" src="https://blog.octo.com/wp-content/uploads/2015/12/react-logo-1000-transparent.png"></code>
+    <code><img height="40" width="40" src="https://www.shariqueweb.com/wp-content/uploads/2015/06/jquery-600x400.png"></code>
+    <code><img height="40" width="40" src="https://avatars.githubusercontent.com/u/70142?s=280&v=4"></code>
   
   **Technologie de Back-end**  
-    <code><img height="40" width="40" src="https://cdn-ak.f.st-hatena.com/images/fotolife/d/daihase/20190809/20190809120056.png"></code>
-    <code><img height="40" width="40" src="https://w7.pngwing.com/pngs/212/722/png-transparent-web-development-express-js-javascript-software-framework-laravel-world-wide-web-purple-blue-text.png"></code>
-    <code><img height="40" width="40" src="https://res.cloudinary.com/practicaldev/image/fetch/s--iDkWTEBC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/3bzg30pauwbl828gcl84.png"></code>
+    <code><img height="40" width="40" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"></code>
+    <code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT14U4J0XYAmbVs9BCCAQYvdTsGBGTGfxuPSxQ84K7jON-vBCfthFibip6wd_JF5Jsv5ow&usqp=CAU"></code>
+    <code><img height="40" width="40" src="https://avatars.githubusercontent.com/u/17219288?s=280&v=4"></code>
 
   **CMS Drupal**  
     <code><img height="40" width="40" src="https://drupalize.me/sites/default/files/page_images/wordmark2_blue_rgb.png"></code>
   
   **Gestion de base de données**  
     <code><img height="40" width="40" src="https://kinsta.com/wp-content/uploads/2019/04/mysql-logo-1.svg"></code>
-    <code><img height="40" width="40" src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png"></code>
-    <code><img height="40" width="40" src="https://w7.pngwing.com/pngs/428/940/png-transparent-logo-redis-redis-icon-thumbnail.png"></code>
+    <code><img height="40" width="40" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld"></code>
+    <code><img height="40" width="40" src="https://www.liblogo.com/img-logo/re310r405-redis-logo-redis-original-wordmark-logo-free-icon-of-devicon.png"></code>
   
   **Administration systèmes**  
     <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png"></code>
-    <code><img height="40" width="40" src="https://www.freepnglogos.com/uploads/linux-png/difference-between-linux-and-window-operating-system-3.png"></code>
+    <code><img height="40" width="40" src="https://logos-world.net/wp-content/uploads/2020/09/Linux-Logo-1996-present.png"></code>
     <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
       
   **Développement Mobile**  
-    <code><img height="40" width="40" src="https://www.lebigdata.fr/wp-content/uploads/2021/07/Android-logo.jpg"></code>
     <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
   
   **Développement Desktop**  
     <code><img height="40" width="40" src="https://i0.wp.com/gluonhq.com/wp-content/uploads/2015/09/javafx_logo1.jpg?fit=404%2C375&ssl=1"></code>
 
+  <br>
       
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
