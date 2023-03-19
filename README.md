@@ -116,9 +116,9 @@ I'm<strong> Ayoub Etoullali</strong>, a <em>Big Data and Cloud Computing Enginee
 <!--
 <div align='right' width='20%'> -->
 
-    ## Top Technologies
+  ## Top Technologies
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayoub-etoullali&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Ayoub-etoullali" />
+  <img align='right' src="https://github-readme-streak-stats.herokuapp.com?user=Ayoub-etoullali&theme=dark&background=000000" alt="Ayoub-etoullali" />
   
    <!--<img align='right' src="https://github-readme-streak-stats.herokuapp.com?user=Ayoub-etoullali&theme=dark&background=000000" alt="Ayoub-etoullali" />-->
   
