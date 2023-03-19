@@ -22,10 +22,11 @@
   𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 - ⚡ I’m currently working on myself
 
-<br/><br/><br/>
+<br/>
   
-  Immensely passionate about the field of computer science & mathematics and related technologies, and I aim to use my skills to enhance and improve the lives of people.<br/>
-I am a coding enthusiast, and I love to tinker with tech.
+  Immensely passionate about the field of computer science & mathematics and related technologies, <br/>
+  and I aim to use my skills to enhance and improve the lives of people.<br/>
+  I am a coding enthusiast, and I love to tinker with tech.
   
   ## Top Technologies
   Language de programmation  
@@ -70,8 +71,6 @@ I am a coding enthusiast, and I love to tinker with tech.
 ![JavaFX](https://img.shields.io/badge/JavaFX-white)
 
 <br/>
-<br/>
-<br/>
   
 ![Git](https://img.shields.io/badge/-git-black?style=flat-square&logo=git)
 ![Github](https://img.shields.io/badge/-github-black?style=flat-square&logo=github)
@@ -97,8 +96,7 @@ I am a coding enthusiast, and I love to tinker with tech.
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
 -->
-<br>
-
+  
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=Ayoub-etoullali&theme=react-dark&hide_border=true&area=true)
 
 <h4 align="center">
