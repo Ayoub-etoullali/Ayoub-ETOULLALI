@@ -60,8 +60,8 @@ I'm<strong> Ayoub Etoullali</strong>, a <em>Big Data and Cloud Computing Enginee
   <br>
   
   <h1 align="center">
-  Top &lt;Technologies/&gt;!
-  <img src="https://i.gifer.com/origin/a9/a9176696b8740c402d84b55374ea0107_w200.gif" width="40px" />
+  Top &lt;Technologies/&gt;
+  <img src="https://media3.giphy.com/media/U4FkC2VqpeNRHjTDQ5/200w.gif?cid=6c09b952ol40hlym7qtm7x5jwzvtpn7lbmrxmvnh6ir7ib46&rid=200w.gif&ct=g" width="40px" />
 </h1>
   
   <img align='right' src="https://github-readme-streak-stats.herokuapp.com?user=Ayoub-etoullali&theme=dark&background=000000" alt="Ayoub-etoullali" />
