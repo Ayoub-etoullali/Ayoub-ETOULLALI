@@ -46,8 +46,6 @@ I'm<strong> Ayoub Etoullali</strong>, a <em>Big Data and Cloud Computing Enginee
 
   <br/>
   
-  ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=Ayoub-etoullali&theme=react-dark&hide_border=true&area=true)
-  
   <!--
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayoub-etoullali&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Ayoub-etoullali" />  | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayoub-etoullali&show_icons=true&locale=en" alt="Ayoub-etoullali" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayoub-etoullali&" alt="Ayoub-etoullali" /> | 
   |---|---|---|
@@ -58,6 +56,7 @@ I'm<strong> Ayoub Etoullali</strong>, a <em>Big Data and Cloud Computing Enginee
 -->
 <!--
 <div align='right' width='20%'> -->
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ayoub-etoullali" alt="Ayoub-etoullali" /></a> </p>
 
   ## Top Technologies
   
@@ -118,7 +117,7 @@ I'm<strong> Ayoub Etoullali</strong>, a <em>Big Data and Cloud Computing Enginee
   
   <br>
   
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ayoub-etoullali" alt="Ayoub-etoullali" /></a> </p>
+  ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=Ayoub-etoullali&theme=react-dark&hide_border=true&area=true)
   
 ### “First, solve the problem. Then, write the code.” – John Johnson
 
