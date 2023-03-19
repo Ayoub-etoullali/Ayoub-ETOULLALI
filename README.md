@@ -23,66 +23,7 @@ I'm<strong> Ayoub Etoullali</strong>, a <em>Big Data and Cloud Computing Enginee
   I am a coding enthusiast, and I love to tinker with tech.
  
   <br>
-  
-  <!--
-  ## Top Technologies
-  Language de programmation  
-![C](https://img.shields.io/badge/-black?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/++-blue.svg?style=flat&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Php](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)
-![Java](https://img.shields.io/badge/-Java-black)
-![J2EE](https://img.shields.io/badge/-J2EE-black)
-
-  XML et Web Sémantique  
-![XML](https://img.shields.io/badge/-XML-brown)
-
-  Technologie de Front-end  
-![Html](https://img.shields.io/badge/-html-black?style=flat-square&logo=html5)
-![Css](https://img.shields.io/badge/-css-black?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-bootstrap-black?style=flat-square&logo=bootstrap)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat-square&logo=jquery)
-  
-  Technologie de Back-end  
-![NodeJS](https://img.shields.io/badge/Node%20JS-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Express JS](https://img.shields.io/badge/Express%20JS-404D59?style=flat-square&logo=Express)
-![Prisma](https://img.shields.io/badge/Prisma-blue?style=flat-square&logo=Prisma)
-
-  CMS Drupal  
-![Drupal](https://img.shields.io/badge/-Drupal-blue?style=flat-square&logo=drupal)
-  
-  Gestion de base de données  
-![Mysql](https://img.shields.io/badge/-mysql-black?style=flat-square&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-B50C00?style=flat-square&logo=redis&logoColor=white)
-  
-  Administration systèmes  
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-  Développement Mobile  
-![Android](https://img.shields.io/badge/Android-white?style=flat-square&logo=android&logoColor=green)
-  
-  Développement Desktop  
-![JavaFX](https://img.shields.io/badge/JavaFX-white)
-
-  
-![Git](https://img.shields.io/badge/-git-black?style=flat-square&logo=git)
-![Github](https://img.shields.io/badge/-github-black?style=flat-square&logo=github)
--->
     
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ayoub-etoullali" alt="Ayoub-etoullali" /></a> </p>
-  
-  <!-- top-->
-  
-<!--
-</code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
--->
-
-  <br/> <!--<h4 align="center">-->
-  
   <div align='center'> <kbd>Me as a JSON object</kbd> </div>
   
 ```json
@@ -102,6 +43,8 @@ I'm<strong> Ayoub Etoullali</strong>, a <em>Big Data and Cloud Computing Enginee
   "Github": "https://github.com/Ayoub-etoullali"
 }
 ```
+
+  <br/>
   
   ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=Ayoub-etoullali&theme=react-dark&hide_border=true&area=true)
   
@@ -119,12 +62,6 @@ I'm<strong> Ayoub Etoullali</strong>, a <em>Big Data and Cloud Computing Enginee
   ## Top Technologies
   
   <img align='right' src="https://github-readme-streak-stats.herokuapp.com?user=Ayoub-etoullali&theme=dark&background=000000" alt="Ayoub-etoullali" />
-  
-   <!--<img align='right' src="https://github-readme-streak-stats.herokuapp.com?user=Ayoub-etoullali&theme=dark&background=000000" alt="Ayoub-etoullali" />-->
-  
-   <!--<!--<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoub-etoullali&layout=compact&theme=vision-friendly-dark" alt="Ayoub-etoullali" /> -->
-  
-  <!--<img align='right' height="250" width="400" src="https://github-readme-stats.vercel.app/api?username=Ayoub-etoullali&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Ayoub-etoullali" />-->
   
   **Language de programmation**  
     <img height="30" width="30" src="https://cms-informatic.com/wp-content/uploads/2020/01/logo-langage-C-300x300.png">
@@ -179,6 +116,9 @@ I'm<strong> Ayoub Etoullali</strong>, a <em>Big Data and Cloud Computing Enginee
 <img height="20" width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png">
 <img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png">
   
+  <br>
+  
+    <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ayoub-etoullali" alt="Ayoub-etoullali" /></a> </p>
   
 ### “First, solve the problem. Then, write the code.” – John Johnson
 
