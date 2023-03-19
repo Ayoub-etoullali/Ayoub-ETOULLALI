@@ -1,93 +1,106 @@
-## Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>! 👋
-
-<p align='center'>
-  
-  [![Linkedin Badge](https://img.shields.io/badge/-ayoub.etoullali-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayoub-etoullali/) [![Mail Badge](https://img.shields.io/badge/-ayoub.etoullali-C70000?style=flat&labelColor=C70000&logo=gmail&logoColor=white)](https://ayoub.etoullali2002@gmail.com)
-  [![Facebook Badge](https://img.shields.io/badge/-ayoub.etoullali-001890?style=flat&labelColor=001890&logo=facebook&logoColor=white)](https://www.facebook.com/ayoub.etou) [![Mail Badge](https://img.shields.io/badge/-@ayoub.etoullali-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/ayoub_etoullali) [![Mail Badge](https://img.shields.io/badge/-ayoub.etoullali-408CE2?style=flat&labelColor=408CE2&logo=twitter&logoColor=white)](https://twitter.com/AEtoullali)
-</p>
-<img align="right" src="https://media3.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47hdfkq1r2galv27743y9m1l2h1l3suy4h78xnuon1&rid=giphy.gif&ct=g" />
-
-
-I'm Ayoub Etoullali, a <em>Big Data and Cloud Computing Engineering Student at <a href="https://www.enset-media.ac.ma/">Enset Mohammedia</a>
-  
-  <br/>
-
-  
-Immensely passionate about the field of computer science & mathematics and related technologies, and I aim to use my skills to enhance and improve the lives of people.<br/>
-I am a coding enthusiast, and I love to tinker with tech.
-  
-  <br/>
-
-
-- 🔭 I’m currently preparing my engineering degree!!
-- 👯 I love to meet new people!!!
-- 💬 Ask me about computer science & mathematics !!!
-
+<h1 align="center">
+  <img src="GIF/Earth.gif" width="24px">
+  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+  <img src="GIF/Hi.gif" width="40px" />
+</h1>
 
 <br/>
-  
+<br/>
 
-## Top Technologies
-  Language de programmation  
-![C](https://img.shields.io/badge/-black?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/++-blue.svg?style=flat&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Php](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)
-![Java](https://img.shields.io/badge/-Java-black)
-![J2EE](https://img.shields.io/badge/-J2EE-black)
+<img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"/>
 
-  XML et Web Sémantique  
-![XML](https://img.shields.io/badge/-XML-brown)
+- 🔭 𝙸'am Achraf TAFFAH from Casablanca, Morocco..**
+- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
+- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/TAFFAHACHRAF) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
+- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.**
+- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜.***
 
-  Technologie de Front-end  
-![Html](https://img.shields.io/badge/-html-black?style=flat-square&logo=html5)
-![Css](https://img.shields.io/badge/-css-black?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-bootstrap-black?style=flat-square&logo=bootstrap)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat-square&logo=jquery)
-  
-  Technologie de Back-end  
-![NodeJS](https://img.shields.io/badge/Node%20JS-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Express JS](https://img.shields.io/badge/Express%20JS-404D59?style=flat-square&logo=Express)
-![Prisma](https://img.shields.io/badge/Prisma-blue?style=flat-square&logo=Prisma)
+<br/>
 
-  CMS Drupal  
-![Drupal](https://img.shields.io/badge/-Drupal-blue?style=flat-square&logo=drupal)
-  
-  Gestion de base de données  
-![Mysql](https://img.shields.io/badge/-mysql-black?style=flat-square&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-B50C00?style=flat-square&logo=redis&logoColor=white)
-  
-  Administration systèmes  
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 
-  Développement Mobile  
-![Android](https://img.shields.io/badge/Android-white?style=flat-square&logo=android&logoColor=green)
-  
-  Développement Desktop  
-![JavaFX](https://img.shields.io/badge/JavaFX-white)
-
-
-
-<!--![Sass](https://img.shields.io/badge/-sass-black?style=flat-square&logo=sass)-->
-<!--![Styled](https://img.shields.io/badge/-styledComponents-black?style=flat-square&logo=styledComponents)-->
-<!--![Laravel](https://img.shields.io/badge/-laravel-black?style=flat-square&logo=laravel)-->
-  
 <br/>
 <br/>
-<br/>
-  
-  
-  
-![Git](https://img.shields.io/badge/-git-black?style=flat-square&logo=git)
-![Github](https://img.shields.io/badge/-github-black?style=flat-square&logo=github)
-  
-  
- ##
-  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
+<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
+#
+
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1PKsfJXnxOqnTRiIZ8VcdJDYBXD-qZnnpw&usqp=CAU"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
 
 
 
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=TAFFAHACHRAF&theme=react-dark&hide_border=true&area=true)
+
+<h4 align="center">
+  
+```diff
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+@@       o o                                           @@
+@@       | |                                           @@
+@@      _L_L_                                          @@
+@@   ❮\/__-__\/❯ Programming isn't about what you know @@
+@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
+@@   ❮/ \`-'/ \❯                                       @@
+@@     _/`U'\_                                         @@
+@@    ( .   . )     .----------------------------.     @@
+@@   / /     \ \    | while( ! (succed=try() ) ) |     @@
+@@   \ |  ,  | /    '----------------------------'     @@
+@@    \|=====|/                                        @@
+@@     |_.^._|                                         @@
+@@     | |"| |                                         @@
+@@     ( ) ( )   Testing leads to failure              @@
+@@     |_| |_|   and failure leads to understanding    @@
+@@ _.-' _j L_ '-._                                     @@
+@@(___.'     '.___)                                    @@
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+```
+<br>
+
+###### Me as a JSON object
+```json
+{
+  "name": "TAFFAH ACHRAF",
+  "age": 21.5,
+  "studies": "Computer science engineering, Software engineering",
+  "profile": "Software engineer",
+  "interests": ["Software dev"],
+  "speak": [
+    "Arabic",
+    "English",
+    "French"
+  ],
+  "All":"https://taffah-achraf.netlify.app"
+  "github": "https://github.com/TAFFAHACHRAF/TAFFAHACHRAF/",
+  "linkedIn": "linkedin.com/in/achraf-taffah-b679a01aa/",
+  "youtube": "https://www.youtube.com/channel/UCxoar6KFc6u3beif_e4y3lw"
+}
+```
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=TAFFAHACHRAF" alt="taffah-achraf" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAFFAHACHRAF" alt="taffah-achraf" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TAFFAHACHRAF" alt="taffah-achraf" /> |
+|---|---|---|
+
+<!--<img align="center" src="https://raw.githubusercontent.com/3imed-jaberi/3imed-jaberi/master/assets/code.gif" alt="taffah-achraf" />-->
+
+### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+
+</div>
+
+#
 
