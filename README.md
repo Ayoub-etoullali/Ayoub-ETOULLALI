@@ -71,8 +71,6 @@ I'm<strong> Ayoub Etoullali</strong>, a <em>Big Data and Cloud Computing Enginee
 ![Git](https://img.shields.io/badge/-git-black?style=flat-square&logo=git)
 ![Github](https://img.shields.io/badge/-github-black?style=flat-square&logo=github)
 -->
-  
-  <div align='center'>
     
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ayoub-etoullali" alt="Ayoub-etoullali" /></a> </p>
   
@@ -133,9 +131,7 @@ I'm<strong> Ayoub Etoullali</strong>, a <em>Big Data and Cloud Computing Enginee
 
   <br/> <!--<h4 align="center">-->
   
-
-  
-<kbd>Me as a JSON object</kbd> 
+  <div align='center'> <kbd>Me as a JSON object</kbd> </div>
   
 ```json
 {
@@ -154,7 +150,6 @@ I'm<strong> Ayoub Etoullali</strong>, a <em>Big Data and Cloud Computing Enginee
   "Github": "https://github.com/Ayoub-etoullali"
 }
 ```
-  </div>
   
   ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=Ayoub-etoullali&theme=react-dark&hide_border=true&area=true)
   
