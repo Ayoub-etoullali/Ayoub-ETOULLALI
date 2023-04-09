@@ -11,13 +11,14 @@
 </div> <br>
 
 <img align="right" height="250" width="400" alt="GIF" src="GIF/code1.gif"/>
-I'm<strong> Ayoub Etoullali</strong>, a <em>Big Data and Cloud Computing Engineering Student at <a href="https://www.enset-media.ac.ma/">Enset Mohammedia</a> 
-
+<!-- I'm<strong> Ayoub Etoullali</strong>, a <em>Big Data and Cloud Computing Engineering Student at <a href="https://www.enset-media.ac.ma/">Enset Mohammedia</a> -->
+I'm<strong> Ayoub Etoullali</strong>, a passionate software developer with more than 2 years of experience, currently I am an engineering student at <a href="https://www.enset-media.ac.ma/">Enset Mohammedia</a> in <em>Big Data & Cloud Computing</em> field. 
   <br>🔭 I’m currently preparing my engineering degree!! <br>
   👯 I love to meet new people <br>
   💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 computer science & mathematics [here](https://www.linkedin.com/in/ayoub-etoullali/) ! <br>
       𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙. <br>
   ⚡ I’m currently working on myself
+  👯 I am the type of person who enjoys solving problems using technology tools in order to make human lives easier and valuable.
   
   Immensely passionate about the field of computer science & mathematics and related technologies, and I aim to use my skills to enhance and improve the lives of people.<br/>
   I am a coding enthusiast, and I love to tinker with tech.
