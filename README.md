@@ -19,7 +19,7 @@
   👯 I love to meet new people <br>
   💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 computer science & mathematics [here](https://www.linkedin.com/in/ayoub-etoullali/) ! <br>
       𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙. <br>
-  ⚡ I’m currently working on myself
+  ⚡ I’m currently working on myself <br>
   👯 I am the type of person who enjoys solving problems using technology tools in order to make human lives easier and valuable.
   
   Immensely passionate about the field of computer science & mathematics and related technologies, and I aim to use my skills to enhance and improve the lives of people.<br/>
