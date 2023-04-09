@@ -24,6 +24,7 @@ I'm<strong> Ayoub Etoullali</strong>, a passionate software developer with more 
   
   Immensely passionate about the field of computer science & mathematics and related technologies, and I aim to use my skills to enhance and improve the lives of people.<br/>
   I am a coding enthusiast, and I love to tinker with tech.
+  <!-- I believe in the power of knowledge sharing and exchanging, this why I am contributing to this amazing community. -->
  
   <br>
     
