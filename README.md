@@ -139,6 +139,11 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
   ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=Ayoub-etoullali&theme=react-dark&hide_border=true&area=true)
   -->
 
+  <p align="center"> 
+<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayoub-etoullali&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="Ayoub-etoullali" /> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ayoub-etoullali&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="Ayoub-etoullali" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayoub-etoullali&theme=highcontrast&hide_border=true" alt="Ayoub-etoullali"/>
+</p>
+
 ### “First, solve the problem. Then, write the code.” – John Johnson
 
 ##
