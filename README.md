@@ -28,7 +28,7 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
   Immensely passionate about the field of computer science & mathematics and related technologies, and I aim to use my skills to enhance and improve the lives of people.<br/>
   I am a coding enthusiast, and I love to tinker with tech.
   <!-- I believe in the power of knowledge sharing and exchanging, this why I am contributing to this amazing community. -->
- 
+
   <br>
     
   <div align='center'> <kbd>Me as a JSON object</kbd> </div>
