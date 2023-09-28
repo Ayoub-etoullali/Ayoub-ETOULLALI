@@ -106,8 +106,6 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
     <img height="30" width="30" src="https://kinsta.com/wp-content/uploads/2019/04/mysql-logo-1.svg">
     <img height="30" width="30" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld">
     <img height="30" width="30" src="https://www.liblogo.com/img-logo/re310r405-redis-logo-redis-original-wordmark-logo-free-icon-of-devicon.png">
-
-  <img align='right' height="70%" width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayoub-etoullali&theme=github-compact" alt="Ayoub-etoullali" />
     
   **Administration systèmes**  
     <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png">
@@ -116,6 +114,8 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
       
   **Développement Mobile**  
     <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">
+
+  <img align='right' height="75%" width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayoub-etoullali&theme=github-compact" alt="Ayoub-etoullali" />
   
   **Développement Desktop**  
     <img height="30" width="30" src="https://i0.wp.com/gluonhq.com/wp-content/uploads/2015/09/javafx_logo1.jpg?fit=404%2C375&ssl=1">
@@ -126,8 +126,6 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
 <img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png">
   
   <br>
-  
-  ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=ayoub-etoullali&theme=github-compact)
 
 ### “First, solve the problem. Then, write the code.” – John Johnson
 
