@@ -107,7 +107,7 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
     <img height="30" width="30" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld">
     <img height="30" width="30" src="https://www.liblogo.com/img-logo/re310r405-redis-logo-redis-original-wordmark-logo-free-icon-of-devicon.png">
 
-  <img align='right' src="https://github-readme-activity-graph.vercel.app/graph?username=ayoub-etoullali&theme=github-compact" alt="Ayoub-etoullali" />
+  <img align='right' height="70%" width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayoub-etoullali&theme=github-compact" alt="Ayoub-etoullali" />
     
   **Administration systèmes**  
     <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png">
