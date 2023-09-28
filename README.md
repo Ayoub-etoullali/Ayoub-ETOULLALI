@@ -52,11 +52,13 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
 
   <br/>
   
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayoub-etoullali&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Ayoub-etoullali" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayoub-etoullali&show_icons=true&locale=en" alt="Ayoub-etoullali" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayoub-etoullali" alt="Ayoub-etoullali" /> |
-  |---|---|---|
-  
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayoub-etoullali&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Ayoub-etoullali" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayoub-etoullali&show_icons=true&locale=en" alt="Ayoub-etoullali" /> |
+  |---|---|
+
+  <!--
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayoub-etoullali" alt="Ayoub-etoullali" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub-etoullali" alt="Ayoub-etoullali" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayoub-etoullali" alt="ayoub-etoullali" /> |   
   |---|---|---|
+  -->
 
   <!--
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ayoub-etoullali" alt="Ayoub-etoullali" /></a> </p>
