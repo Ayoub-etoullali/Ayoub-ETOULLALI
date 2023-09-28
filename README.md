@@ -67,8 +67,7 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
   
   <h1 align="center">
   Top &lt;Technologies/&gt;
-  <img src="https://i.giphy.com/media/U4FkC2VqpeNRHjTDQ5/200w.gif" />
-  <img src="https://media3.giphy.com/media/U4FkC2VqpeNRHjTDQ5/200w.gif?cid=6c09b952ol40hlym7qtm7x5jwzvtpn7lbmrxmvnh6ir7ib46&rid=200w.gif&ct=g" />
+  <!-- <img src="https://i.giphy.com/media/U4FkC2VqpeNRHjTDQ5/200w.gif" /> -->
 </h1>
     
   **Language de programmation**  
@@ -126,9 +125,7 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
   
   <br>
   
-  <!-- 
   ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=Ayoub-etoullali&theme=react-dark&hide_border=true&area=true)
-  -->
 
 ### “First, solve the problem. Then, write the code.” – John Johnson
 
