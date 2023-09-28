@@ -67,8 +67,8 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
   
   <h1 align="center">
   Top &lt;Technologies/&gt;
-  <img src="https://i.giphy.com/media/U4FkC2VqpeNRHjTDQ5/200w.gif" width="40px" />
-  <img src="https://media3.giphy.com/media/U4FkC2VqpeNRHjTDQ5/200w.gif?cid=6c09b952ol40hlym7qtm7x5jwzvtpn7lbmrxmvnh6ir7ib46&rid=200w.gif&ct=g" width="40px" />
+  <img src="https://i.giphy.com/media/U4FkC2VqpeNRHjTDQ5/200w.gif" />
+  <img src="https://media3.giphy.com/media/U4FkC2VqpeNRHjTDQ5/200w.gif?cid=6c09b952ol40hlym7qtm7x5jwzvtpn7lbmrxmvnh6ir7ib46&rid=200w.gif&ct=g" />
 </h1>
     
   **Language de programmation**  
