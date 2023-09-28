@@ -111,12 +111,12 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
     <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png">
     <img height="30" width="30" src="https://logos-world.net/wp-content/uploads/2020/09/Linux-Logo-1996-present.png">
     <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png">
+
+  <img align='right' height="75%" width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayoub-etoullali&theme=github-compact" alt="Ayoub-etoullali" />
       
   **Développement Mobile**  
     <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">
 
-  <img align='right' height="75%" width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayoub-etoullali&theme=github-compact" alt="Ayoub-etoullali" />
-  
   **Développement Desktop**  
     <img height="30" width="30" src="https://i0.wp.com/gluonhq.com/wp-content/uploads/2015/09/javafx_logo1.jpg?fit=404%2C375&ssl=1">
 
