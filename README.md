@@ -60,7 +60,6 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
   |---|---|---|
   -->
 
-  <!--
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ayoub-etoullali" alt="Ayoub-etoullali" /></a> </p>
 
   <br>
@@ -70,9 +69,7 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
   <img src="https://media3.giphy.com/media/U4FkC2VqpeNRHjTDQ5/200w.gif?cid=6c09b952ol40hlym7qtm7x5jwzvtpn7lbmrxmvnh6ir7ib46&rid=200w.gif&ct=g" width="40px" />
 </h1>
   
-  <!-- 
   <img align='right' src="https://github-readme-streak-stats.herokuapp.com?user=Ayoub-etoullali&theme=dark&background=000000" alt="Ayoub-etoullali" />
-  -->
   
   **Language de programmation**  
     <img height="30" width="30" src="https://cms-informatic.com/wp-content/uploads/2020/01/logo-langage-C-300x300.png">
