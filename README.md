@@ -11,10 +11,8 @@
 </div> <br>
 
 <img align="right" height="250" width="400" alt="GIF" src="GIF/code1.gif"/>
- <!-- I'm<strong> Ayoub Etoullali</strong>, a <em>Big Data and Cloud Computing</em> Engineering Student at <a href="https://www.enset-media.ac.ma/">Enset Mohammedia</a> 
-  -->
-  
-<h3 align="center">Software Engineer | Data Scientist | Business intelligence  </h3>
+
+<h3 align="center"> Data Scientist | Software Engineer | Business intelligence  </h3>
   
 I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engineering student at <a href="https://www.enset-media.ac.ma/">Enset Mohammedia</a> in <em>Big Data and Cloud Computing</em> field. 
 
@@ -36,10 +34,10 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
 ```json
 {
   "name": "Ayoub ETOULLALI",
-  "age": 21,
+  "age": 22,
   "studies": "Big Data & Cloud Computing Engineering Student",
-  "profile": "Software engineer",
-  "interests": ["Problem Solving","Software dev"]
+  "profile": "Data Enthusiast",
+  "interests": ["Chess","Problem Solving","Design"]
   "speak": [
     "Arabic",
     "French"
@@ -47,24 +45,20 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
   ]
   "gmail":"ayoub.etoullali2002@gmail.com"
   "linkedIn": "https://www.linkedin.com/in/ayoub-etoullali/",
-  "Github": "https://github.com/Ayoub-etoullali"
+  "Github": "https://github.com/Ayoub-etoullali",
+  "Portfolio": "https://ayoub-etoullali.netlify.app/"
 }
 ```
 
   <br/>
   
-  <!--
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayoub-etoullali&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Ayoub-etoullali" />  | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayoub-etoullali&show_icons=true&locale=en" alt="Ayoub-etoullali" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayoub-etoullali&" alt="Ayoub-etoullali" /> | 
   |---|---|---|
--->
   
-<!--
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayoub-etoullali" alt="Ayoub-etoullali" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoub-etoullali" alt="Ayoub-etoullali" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayoub-etoullali" alt="Ayoub-etoullali" /> |   |---|---|---|
--->
 
   <!--
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ayoub-etoullali" alt="Ayoub-etoullali" /></a> </p>
-  -->
 
   <br>
   
