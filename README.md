@@ -61,9 +61,12 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
   |---|---|---|
   -->
 
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ayoub-etoullali&theme=flat" alt="Ayoub-etoullali" /></a> </p>
+  <p align="center"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=Ayoub-etoullali&theme=flat" alt="Ayoub-etoullali" />
+    </a> 
+  </p>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=Ayoub-etoullali&theme=flat" alt="Ayoub-etoullali" />
 
   <br>
   
