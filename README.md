@@ -69,9 +69,9 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
   
   <h1 align="center">
   Top &lt;Technologies/&gt;
+  <img src="https://i.gifer.com/origin/a9/a9176696b8740c402d84b55374ea0107_w200.gif" alt="gif" height="30" width="30"/>
   </h1>
 
-  <img src="https://i.gifer.com/origin/a9/a9176696b8740c402d84b55374ea0107_w200.gif" alt="gif"/>
     
   **Language de programmation**  
     <img height="30" width="30" src="https://cms-informatic.com/wp-content/uploads/2020/01/logo-langage-C-300x300.png">
