@@ -66,13 +66,10 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
       <img src="https://github-profile-trophy.vercel.app/?username=Ayoub-etoullali&theme=flat" alt="Ayoub-etoullali" />
     </a> 
   </p>
-
-
-  <br>
   
   <h1 align="center">
   Top &lt;Technologies/&gt;
-  <!-- <img src="https://i.giphy.com/media/U4FkC2VqpeNRHjTDQ5/200w.gif" /> -->
+  <img src="https://i.giphy.com/media/U4FkC2VqpeNRHjTDQ5/200w.gif" />
 </h1>
     
   **Language de programmation**  
