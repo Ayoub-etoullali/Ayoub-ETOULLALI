@@ -35,9 +35,9 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
 {
   "name": "Ayoub ETOULLALI",
   "age": 22,
-  "studies": "Big Data & Cloud Computing Engineering Student",
+  "studies": "Big Data & Cloud Computing",
   "profile": "Data Enthusiast",
-  "interests": ["Chess","Problem Solving","Design"]
+  "interests": ["Competition & Hackathon","Problem Solving","Chess","Mind Game",,"Design"]
   "speak": [
     "Arabic",
     "French"
