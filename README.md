@@ -101,7 +101,7 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
     
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/grafana.png" alt="grafana"/>
   
-  **Artificial Intelligence** <img width="30" height="30" src="https://img.icons8.com/external-itim2101-fill-itim2101/64/000000/external-artificial-intelligence-artificial-intelligence-itim2101-fill-itim2101-3.png" alt="external-artificial-intelligence-artificial-intelligence-itim2101-fill-itim2101-3"/>
+  **Artificial Intelligence** <img width="64" height="64" src="https://img.icons8.com/external-itim2101-fill-itim2101/64/000000/external-artificial-intelligence-artificial-intelligence-itim2101-fill-itim2101-3.png" alt="external-artificial-intelligence-artificial-intelligence-itim2101-fill-itim2101-3"/>
     
     AI and Multi-agent Systems, Artificial Neural Networks (ANNs), Recurrent Neural Networks (RNNs), Natural Language Processing (NLP)
   
