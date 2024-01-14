@@ -82,8 +82,9 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
     <img height="30" width="30" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png">
     <img width="30" height="30" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-scala-a-general-purpose-programming-language-with-strong-static-type-system-logo-shadow-tal-revivo.png" alt="external-scala-a-general-purpose-programming-language-with-strong-static-type-system-logo-shadow-tal-revivo"/>
     <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-    <!-- <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">
-         <img height="30" width="30" src="https://smartgraphe.com/wp-content/uploads/2017/02/java_ee.jpg"> 
+    <!-- 
+    <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">
+    <img height="30" width="30" src="https://smartgraphe.com/wp-content/uploads/2017/02/java_ee.jpg"> 
      -->
     
   <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoub-etoullali&layout=compact&theme=vision-friendly-dark" alt="Ayoub-etoullali" />
@@ -111,8 +112,12 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
   
   **Gestion de base de données**  
     <img height="30" width="30" src="https://kinsta.com/wp-content/uploads/2019/04/mysql-logo-1.svg">
+    <img width="30" height="30" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
     <img height="30" width="30" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld">
     <img height="30" width="30" src="https://www.liblogo.com/img-logo/re310r405-redis-logo-redis-original-wordmark-logo-free-icon-of-devicon.png">
+    <img width="30" height="30" src="https://img.icons8.com/color/48/redis--v1.png" alt="redis--v1"/>
+    <img width="30" height="30" src="https://dv495y1g0kef5.cloudfront.net/training/nosql_hbase/img/hbase_logo.png" alt="redis--v1"/>
+    <img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/1200px-Cassandra_logo.svg.png" alt="redis--v1"/>
     
   **Administration systèmes**  
     <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png">
