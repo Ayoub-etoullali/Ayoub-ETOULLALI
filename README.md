@@ -118,14 +118,16 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
   **Modeling** <img width="30" height="30" src="https://img.icons8.com/stickers/100/static-view-level2.png" alt="static-view-level2"/>
 
     Merise, UML, Figma
+    
   **DevOps – MLOps**
     <img width="48" height="48" src="https://img.icons8.com/color/48/docker.png" alt="docker"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/kubernetes.png" alt="kubernetes"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/jenkins.png" alt="jenkins"/>
   
   **API Testing**
-
-    Postman, Swagger, FastAPI
+    <img width="48" height="48" src="https://www.svgrepo.com/show/354202/postman-icon.svg"/>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/000000/cloud-function.png" alt="cloud-function"/>
+    <img width="48" height="48" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg"/>
   
   **Cloud Computing**
     <img width="48" height="48" src="https://img.icons8.com/color/48/ibm.png" alt="ibm"/>
@@ -151,8 +153,7 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
   **Ethics and Confidentiality of Data**
 
   **Architecture JEE**
-  
-  <img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>
   
   **Front-End Technology**   
     <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
