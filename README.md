@@ -114,10 +114,11 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
     <img height="30" width="30" src="https://kinsta.com/wp-content/uploads/2019/04/mysql-logo-1.svg">
     <img width="30" height="30" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
     <img height="30" width="30" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld">
-    <img height="30" width="30" src="https://www.liblogo.com/img-logo/re310r405-redis-logo-redis-original-wordmark-logo-free-icon-of-devicon.png">
     <img width="30" height="30" src="https://img.icons8.com/color/48/redis--v1.png" alt="redis--v1"/>
     <img width="30" height="30" src="https://dv495y1g0kef5.cloudfront.net/training/nosql_hbase/img/hbase_logo.png" alt="redis--v1"/>
+    <img width="30" height="30" src="https://seeklogo.com/images/H/hbase-logo-386B408382-seeklogo.com.png" alt="redis--v1"/>
     <img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/1200px-Cassandra_logo.svg.png" alt="redis--v1"/>
+    <img width="30" height="30" src="https://www.nextplatform.com/wp-content/uploads/2023/01/apache-cassandra-logo-1024x907.jpg" alt="redis--v1"/>
     
   **Administration systèmes**  
     <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png">
