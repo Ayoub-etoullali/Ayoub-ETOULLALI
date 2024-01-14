@@ -94,20 +94,20 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
   *Data Manipulation* <img width="20" height="20" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-data-science-data-analytics-flaticons-lineal-color-flat-icons-5.png" alt="external-data-science-data-analytics-flaticons-lineal-color-flat-icons-5"/>
   
   <img width="30" height="30" src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png"/>
-  <img width="30" height="30" src="https://studyopedia.com/wp-content/uploads/2023/07/scipy.png"/>
-  <img width="30" height="30" src="https://miro.medium.com/v2/resize:fit:1080/1*_oSOImPmBFeKj8vqE4FCkQ.jpeg"/>
-  <img width="30" height="30" src="https://banner2.cleanpng.com/20180420/pke/kisspng-plotly-data-visualization-chart-javascript-hottest-5ada70131b6602.3118492415242649791122.jpg"/>
-  <img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png"/>
-  <img width="30" height="30" src="https://miro.medium.com/v2/resize:fit:720/0*2LQ7VkdK9d2WaPVJ.png"/>
-  <img width="30" height="30" src=""/>
-  <img width="30" height="30" src=""/>
+    <img width="30" height="30" src="https://studyopedia.com/wp-content/uploads/2023/07/scipy.png"/>
+    <img width="30" height="30" src="https://miro.medium.com/v2/resize:fit:1080/1*_oSOImPmBFeKj8vqE4FCkQ.jpeg"/>
+    <img width="30" height="30" src="https://banner2.cleanpng.com/20180420/pke/kisspng-plotly-data-visualization-chart-javascript-hottest-5ada70131b6602.3118492415242649791122.jpg"/>
+    <img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png"/>
+    <img width="30" height="30" src="https://miro.medium.com/v2/resize:fit:720/0*2LQ7VkdK9d2WaPVJ.png"/>
+    <img width="30" height="30" src=""/>
+    <img width="30" height="30" src=""/>
     
   *Data Visualization* <img width="20" height="20" src="https://img.icons8.com/external-smashingstocks-flat-smashing-stocks/66/external-Data-Visualization-smooth-conceptual-smashingstocks-flat-smashing-stocks.png" alt="external-Data-Visualization-smooth-conceptual-smashingstocks-flat-smashing-stocks"/>
   
   <img width="30" height="30" src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"/>
-  <img width="30" height="30" src="https://img.icons8.com/fluency/48/grafana.png" alt="grafana"/>
-  <img width="30" height="30" src="https://media.licdn.com/dms/image/D4D12AQGcGmAd9Cqraw/article-cover_image-shrink_720_1280/0/1688537312933?e=1710979200&v=beta&t=pAzpnUXWPbSIRvnUMod-NTJRs1jnyaC382GPnC9uj4s"/>
-  <img width="30" height="30" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg"/>
+    <img width="30" height="30" src="https://img.icons8.com/fluency/48/grafana.png" alt="grafana"/>
+    <img width="30" height="30" src="https://media.licdn.com/dms/image/D4D12AQGcGmAd9Cqraw/article-cover_image-shrink_720_1280/0/1688537312933?e=1710979200&v=beta&t=pAzpnUXWPbSIRvnUMod-NTJRs1jnyaC382GPnC9uj4s"/>
+    <img width="30" height="30" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg"/>
     
   **Artificial Intelligence**
     <img width="48" height="48" src=""/>
