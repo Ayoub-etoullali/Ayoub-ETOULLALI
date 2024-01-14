@@ -115,9 +115,7 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
     <img width="30" height="30" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
     <img height="30" width="30" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld">
     <img width="30" height="30" src="https://img.icons8.com/color/48/redis--v1.png" alt="redis--v1"/>
-    <img width="30" height="30" src="https://dv495y1g0kef5.cloudfront.net/training/nosql_hbase/img/hbase_logo.png" alt="redis--v1"/>
-    <img width="30" height="30" src="https://seeklogo.com/images/H/hbase-logo-386B408382-seeklogo.com.png" alt="redis--v1"/>
-    <img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/1200px-Cassandra_logo.svg.png" alt="redis--v1"/>
+    <img width="30" height="30" src="https://hbase.apache.org/images/jumping-orca_rotated.png" alt="hbase"/>
     <img width="30" height="30" src="https://www.nextplatform.com/wp-content/uploads/2023/01/apache-cassandra-logo-1024x907.jpg" alt="redis--v1"/>
     
   **Administration systèmes**  
