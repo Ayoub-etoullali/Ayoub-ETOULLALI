@@ -118,29 +118,33 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
   **Modeling** <img width="30" height="30" src="https://img.icons8.com/stickers/100/static-view-level2.png" alt="static-view-level2"/>
 
     Merise, UML, Figma
-    
+
   **DevOps – MLOps**
-    <img width="48" height="48" src="https://img.icons8.com/color/48/docker.png" alt="docker"/>
-    <img width="48" height="48" src="https://img.icons8.com/color/48/kubernetes.png" alt="kubernetes"/>
-    <img width="48" height="48" src="https://img.icons8.com/color/48/jenkins.png" alt="jenkins"/>
+  
+  <img width="48" height="48" src="https://img.icons8.com/color/48/docker.png" alt="docker"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/kubernetes.png" alt="kubernetes"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/jenkins.png" alt="jenkins"/>
   
   **API Testing**
-    <img width="48" height="48" src="https://www.svgrepo.com/show/354202/postman-icon.svg"/>
-    <img width="48" height="48" src="https://img.icons8.com/color/48/000000/cloud-function.png" alt="cloud-function"/>
-    <img width="48" height="48" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg"/>
+  
+  <img width="48" height="48" src="https://www.svgrepo.com/show/354202/postman-icon.svg"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/000000/cloud-function.png" alt="cloud-function"/>
+  <img width="48" height="48" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg"/>
   
   **Cloud Computing**
-    <img width="48" height="48" src="https://img.icons8.com/color/48/ibm.png" alt="ibm"/>
-    <img width="48" height="48" src="https://img.icons8.com/color/48/oracle-logo.png" alt="oracle-logo"/>
+    
+  <img width="48" height="48" src="https://img.icons8.com/color/48/ibm.png" alt="ibm"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/oracle-logo.png" alt="oracle-logo"/>
   
   **Big Data Technology**
-    <img width="48" height="48" src="https://img.icons8.com/color/48/hadoop-distributed-file-system.png" alt="hadoop-distributed-file-system"/>
-    <img width="48" height="30" src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/10/mapreduce.png"/>
-    <img width="48" height="40" src="https://i.postimg.cc/0QKWnzD2/spark-logo.png"/>
-    <img width="48" height="40" src="https://miro.medium.com/v2/resize:fit:960/0*-CIkZ-H9zspjt1HB.jpg"/>
-    <img width="48" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/2276px-Apache_Hive_logo.svg.png"/>
-    <img width="48" height="40" src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5d14a70d-1448-44c2-ae6b-df860e657392_700x1080.png"/>
-    <img width="48" height="30" src="https://miro.medium.com/v2/resize:fit:603/0*IMPTG6_iKbQVPVA5.png"/>
+    
+  <img width="48" height="48" src="https://img.icons8.com/color/48/hadoop-distributed-file-system.png" alt="hadoop-distributed-file-system"/>
+  <img width="48" height="30" src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/10/mapreduce.png"/>
+  <img width="48" height="40" src="https://i.postimg.cc/0QKWnzD2/spark-logo.png"/>
+  <img width="48" height="40" src="https://miro.medium.com/v2/resize:fit:960/0*-CIkZ-H9zspjt1HB.jpg"/>
+  <img width="48" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/2276px-Apache_Hive_logo.svg.png"/>
+  <img width="48" height="40" src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5d14a70d-1448-44c2-ae6b-df860e657392_700x1080.png"/>
+  <img width="48" height="30" src="https://miro.medium.com/v2/resize:fit:603/0*IMPTG6_iKbQVPVA5.png"/>
  
   **Databases (SQL, SGBD)**  
     <img height="48" width="48" src="https://kinsta.com/wp-content/uploads/2019/04/mysql-logo-1.svg">
@@ -154,7 +158,7 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
 
   **Architecture JEE**
     <img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>
-  
+    
   **Front-End Technology**   
     <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
     <img height="48" width="48" src="https://grafikart.fr/uploads/icons/css.svg">
