@@ -116,7 +116,7 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
     <img height="30" width="30" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld">
     <img width="30" height="30" src="https://img.icons8.com/color/48/redis--v1.png" alt="redis--v1"/>
     <img width="30" height="30" src="https://hbase.apache.org/images/jumping-orca_rotated.png" alt="hbase"/>
-    <img width="30" height="30" src="https://img.icons8.com/external-flat-icons-inmotus-design/67/external-danger-shark-flat-icons-inmotus-design.png" alt="external-danger-shark-flat-icons-inmotus-design"/>
+    <img width="30" height="30" src="https://img.icons8.com/emoji/48/shark-emoji.png" alt="shark-emoji"/>
     <img width="30" height="30" src="https://www.nextplatform.com/wp-content/uploads/2023/01/apache-cassandra-logo-1024x907.jpg" alt="redis--v1"/>
     
   **Administration systèmes**  
