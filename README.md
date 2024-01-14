@@ -74,14 +74,14 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
 
     
   **Language de programmation**  
-    <img height="30" width="30" src="https://cms-informatic.com/wp-content/uploads/2020/01/logo-langage-C-300x300.png">
-    <img height="30" width="30" src="https://www.naveedashfaq.me/img/c++.png">
-    <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-    <img width="30" height="30" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
-    <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/800px-PHP-logo.svg.png">
-    <img height="30" width="30" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png">
-    <img width="30" height="30" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-scala-a-general-purpose-programming-language-with-strong-static-type-system-logo-shadow-tal-revivo.png" alt="external-scala-a-general-purpose-programming-language-with-strong-static-type-system-logo-shadow-tal-revivo"/>
-    <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+    <img height="48" width="48" src="https://cms-informatic.com/wp-content/uploads/2020/01/logo-langage-C-300x300.png">
+    <img height="48" width="48" src="https://www.naveedashfaq.me/img/c++.png">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
+    <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/800px-PHP-logo.svg.png">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
+    <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-scala-a-general-purpose-programming-language-with-strong-static-type-system-logo-shadow-tal-revivo.png" alt="external-scala-a-general-purpose-programming-language-with-strong-static-type-system-logo-shadow-tal-revivo"/>
+    <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
     <!-- 
     <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">
     <img height="30" width="30" src="https://smartgraphe.com/wp-content/uploads/2017/02/java_ee.jpg"> 
@@ -90,42 +90,43 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
   <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoub-etoullali&layout=compact&theme=vision-friendly-dark" alt="Ayoub-etoullali" />
   
   **XML et Web Sémantique**  
-    <img height="30" width="30" src="https://www.ggctools.com/assets/image/img/xml1.png">
+    <img height="48" width="48" src="https://www.ggctools.com/assets/image/img/xml1.png">
   
   **Technologie de Front-end**   
-    <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-    <img height="30" width="30" src="https://grafikart.fr/uploads/icons/css.svg">
-    <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
-    <img height="30" width="30" src="https://avatars.githubusercontent.com/u/70142?s=280&v=4">
-    <img width="30" height="30" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo.png" alt="external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo"/>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+    <img height="48" width="48" src="https://grafikart.fr/uploads/icons/css.svg">
+    <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
+    <img height="48" width="48" src="https://avatars.githubusercontent.com/u/70142?s=280&v=4">
+    <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo.png" alt="external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo"/>
     
   **Technologie de Back-end**  
-  <img align='right' src="https://github-readme-stats.vercel.app/api?username=Ayoub-etoullali&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Ayoub-etoullali" />
-    <img height="30" width="30" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">
-    <img height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT14U4J0XYAmbVs9BCCAQYvdTsGBGTGfxuPSxQ84K7jON-vBCfthFibip6wd_JF5Jsv5ow&usqp=CAU">
-    <img height="30" width="30" src="https://avatars.githubusercontent.com/u/17219288?s=280&v=4">
-    <img width="30" height="30" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-shadow-tal-revivo.png" alt="external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-shadow-tal-revivo"/>
-    <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg">
+    <img align='right' src="https://github-readme-stats.vercel.app/api?username=Ayoub-etoullali&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Ayoub-etoullali" />
+    <img height="48" width="48" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">
+    <img width="48" height="48" src="https://img.icons8.com/ios/50/express-js.png" alt="express-js"/>
+    <img height="48" width="48" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT14U4J0XYAmbVs9BCCAQYvdTsGBGTGfxuPSxQ84K7jON-vBCfthFibip6wd_JF5Jsv5ow&usqp=CAU">
+    <img height="48" width="48" src="https://avatars.githubusercontent.com/u/17219288?s=280&v=4">
+    <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-shadow-tal-revivo.png" alt="external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-shadow-tal-revivo"/>
+    <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg">
     
   **CMS Drupal**  
-    <img height="30" width="30" src="https://drupalize.me/sites/default/files/page_images/wordmark2_blue_rgb.png">
+    <img height="48" width="48" src="https://drupalize.me/sites/default/files/page_images/wordmark2_blue_rgb.png">
   
   **Gestion de base de données**  
-    <img height="30" width="30" src="https://kinsta.com/wp-content/uploads/2019/04/mysql-logo-1.svg">
-    <img width="30" height="30" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
-    <img height="30" width="30" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld">
-    <img width="30" height="30" src="https://img.icons8.com/color/48/redis--v1.png" alt="redis--v1"/>
-    <img width="30" height="30" src="https://img.icons8.com/emoji/48/shark-emoji.png" alt="shark-emoji"/>
-    <img width="30" height="30" src="https://www.nextplatform.com/wp-content/uploads/2023/01/apache-cassandra-logo-1024x907.jpg" alt="redis--v1"/>
+    <img height="48" width="48" src="https://kinsta.com/wp-content/uploads/2019/04/mysql-logo-1.svg">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
+    <img height="48" width="48" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/redis--v1.png" alt="redis--v1"/>
+    <img width="48" height="48" src="https://img.icons8.com/emoji/48/shark-emoji.png" alt="shark-emoji"/>
+    <img width="48" height="48" src="https://www.nextplatform.com/wp-content/uploads/2023/01/apache-cassandra-logo-1024x907.jpg" alt="redis--v1"/>
     
   **Administration systèmes**  
-    <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png">
-  <img width="30" height="30" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
-  <img width="30" height="30" src="https://img.icons8.com/color/48/ubuntu.png" alt="ubuntu"/>
-  <img width="30" height="30" src="https://img.icons8.com/plasticine/100/kali-linux.png" alt="kali-linux"/>
+    <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png">
+  <img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/ubuntu.png" alt="ubuntu"/>
+  <img width="48" height="48" src="https://img.icons8.com/plasticine/100/kali-linux.png" alt="kali-linux"/>
       
   **Développement Mobile**  
-    <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">
+    <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">
 
   **Développement Desktop**  
     <img height="30" width="30" src="https://i0.wp.com/gluonhq.com/wp-content/uploads/2015/09/javafx_logo1.jpg?fit=404%2C375&ssl=1">
