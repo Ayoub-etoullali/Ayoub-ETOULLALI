@@ -73,7 +73,7 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
   </h1>
 
     
-  **Language de programmation**  
+  **Programming Language**  
     <img height="48" width="48" src="https://cms-informatic.com/wp-content/uploads/2020/01/logo-langage-C-300x300.png">
     <img height="48" width="48" src="https://www.naveedashfaq.me/img/c++.png">
     <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
@@ -88,52 +88,95 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
      -->
     
   <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoub-etoullali&layout=compact&theme=vision-friendly-dark" alt="Ayoub-etoullali" />
+
+  **Data Science**
+  *Data Manipulation* <img width="30" height="30" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-data-science-data-analytics-flaticons-lineal-color-flat-icons-5.png" alt="external-data-science-data-analytics-flaticons-lineal-color-flat-icons-5"/>
+    <img width="48" height="48" src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png"/>
+    <img width="48" height="48" src="https://studyopedia.com/wp-content/uploads/2023/07/scipy.png"/>
+    <img width="48" height="48" src="https://pandas.pydata.org/static/img/pandas_secondary.svg"/>
+    <img width="48" height="48" src="https://banner2.cleanpng.com/20180420/pke/kisspng-plotly-data-visualization-chart-javascript-hottest-5ada70131b6602.3118492415242649791122.jpg"/>
+    <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png"/>
+    <img width="48" height="48" src="https://miro.medium.com/v2/resize:fit:720/0*2LQ7VkdK9d2WaPVJ.png"/>
+    <img width="48" height="48" src=""/>
+    <img width="48" height="48" src=""/>
+  *Data Visualization* <img width="30" height="30" src="https://img.icons8.com/external-smashingstocks-flat-smashing-stocks/66/external-Data-Visualization-smooth-conceptual-smashingstocks-flat-smashing-stocks.png" alt="external-Data-Visualization-smooth-conceptual-smashingstocks-flat-smashing-stocks"/>
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"/>
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/grafana.png" alt="grafana"/>
+    <img width="48" height="48" src="https://media.licdn.com/dms/image/D4D12AQGcGmAd9Cqraw/article-cover_image-shrink_720_1280/0/1688537312933?e=1710979200&v=beta&t=pAzpnUXWPbSIRvnUMod-NTJRs1jnyaC382GPnC9uj4s"/>
+    <img width="48" height="48" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg"/>
+    
+  **Artificial Intelligence**
+    <img width="48" height="48" src=""/>
+    <img width="48" height="48" src=""/>
+    <img width="48" height="48" src=""/>
   
-  **XML et Web Sémantique**  
-    <img height="48" width="48" src="https://www.ggctools.com/assets/image/img/xml1.png">
+  **Machine learning**
+  **Modeling**
+  **DevOps – MLOps**
+  **API Testing**
+  **Cloud Computing**
+  **Big Data Technology**
+
+  **Databases (SQL, SGBD)**  
+    <img height="48" width="48" src="https://kinsta.com/wp-content/uploads/2019/04/mysql-logo-1.svg">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
+    <img height="48" width="48" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/redis--v1.png" alt="redis--v1"/>
+    <img width="48" height="48" src="https://img.icons8.com/emoji/48/shark-emoji.png" alt="shark-emoji"/>
+    <img width="48" height="48" src="https://img.icons8.com/external-bright-fill-juicy-fish/42/external-data-science-data-science-bright-fill-bright-fill-juicy-fish-4.png" alt="external-data-science-data-science-bright-fill-bright-fill-juicy-fish-4"/>
+
+  **Ethics and Confidentiality of Data**
+
+  **Architecture JEE**
+    <img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>
   
-  **Technologie de Front-end**   
+  **Front-End Technology**   
     <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
     <img height="48" width="48" src="https://grafikart.fr/uploads/icons/css.svg">
     <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
     <img height="48" width="48" src="https://avatars.githubusercontent.com/u/70142?s=280&v=4">
     <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo.png" alt="external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo"/>
     
-  **Technologie de Back-end**  
+  **Back-End Technology**  
     <img align='right' src="https://github-readme-stats.vercel.app/api?username=Ayoub-etoullali&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Ayoub-etoullali" />
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
     <img width="48" height="48" src="https://img.icons8.com/office/40/express-js.png" alt="express-js"/>
     <img height="48" width="48" src="https://avatars.githubusercontent.com/u/17219288?s=280&v=4">
     <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-shadow-tal-revivo.png" alt="external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-shadow-tal-revivo"/>
     <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg">
-    
-  **CMS Drupal**  
+
+   **CMS Drupal**  
     <img height="48" width="48" src="https://drupalize.me/sites/default/files/page_images/wordmark2_blue_rgb.png">
-  
-  **Gestion de base de données**  
-    <img height="48" width="48" src="https://kinsta.com/wp-content/uploads/2019/04/mysql-logo-1.svg">
-    <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
-    <img height="48" width="48" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld">
-    <img width="48" height="48" src="https://img.icons8.com/color/48/redis--v1.png" alt="redis--v1"/>
-    <img width="48" height="48" src="https://img.icons8.com/emoji/48/shark-emoji.png" alt="shark-emoji"/>
-    <img width="48" height="48" src="https://www.nextplatform.com/wp-content/uploads/2023/01/apache-cassandra-logo-1024x907.jpg" alt="redis--v1"/>
     
-  **Administration systèmes**  
+  **XML & Semantic Web**  
+    <img height="48" width="48" src="https://www.ggctools.com/assets/image/img/xml1.png">
+  
+  **Mobile Development**  
+    <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">
+
+  **Desktop Development**  
+    <img height="48" width="48" src="https://i0.wp.com/gluonhq.com/wp-content/uploads/2015/09/javafx_logo1.jpg?fit=404%2C375&ssl=1">
+
+  **Project Management**
+  **Development Environment**
+  
+  **System Administration**  
     <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png">
   <img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/ubuntu.png" alt="ubuntu"/>
   <img width="48" height="48" src="https://img.icons8.com/plasticine/100/kali-linux.png" alt="kali-linux"/>
-      
-  **Développement Mobile**  
-    <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">
-
-  **Développement Desktop**  
-    <img height="48" width="48" src="https://i0.wp.com/gluonhq.com/wp-content/uploads/2015/09/javafx_logo1.jpg?fit=404%2C375&ssl=1">
-
   <br>
-      
+
+  **Computer Networks and Telecommunications**
+  
+  **Internet of Things**
+  
+  **Computer Architecture and Assembler**
+  
+  **MATLAB**
+
 <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png">
-<img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png">
+<img width="30" height="30" src="https://img.icons8.com/bubbles/50/github.png" alt="github"/>
   
   <br>
 
