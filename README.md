@@ -37,7 +37,7 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
   "age": 22,
   "studies": "Big Data & Cloud Computing",
   "profile": "Data Enthusiast",
-  "interests": ["Competition & Hackathon","Problem Solving","Chess","Mind Game",,"Design"]
+  "interests": ["Competition & Hackathon","Problem Solving","Chess","Mind Game","Design"]
   "speak": [
     "Arabic",
     "French"
@@ -77,11 +77,14 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
     <img height="30" width="30" src="https://cms-informatic.com/wp-content/uploads/2020/01/logo-langage-C-300x300.png">
     <img height="30" width="30" src="https://www.naveedashfaq.me/img/c++.png">
     <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+    <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
     <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/800px-PHP-logo.svg.png">
     <img height="30" width="30" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png">
+    <img height="30" width="30" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADL0lEQVR4AdWWxZrUQBSFb1Un7eO4u7u7wwZZseIZ4AnQB+AtkD0bZMUOd3d3G29JKrmcmrm4JTOM3e/748k5t7r6JNTTpaiL6tG8sSRVAzzQOubCQ/q5nC4SdcFwsBpsAbvAdRDfQAQxDbKgPxgLZoPFYC4YBhqABhTZgDxcgzRIAFe286BKxIaAEWC0MFyOZyhKRRiBaWA/qJSHZkFOSAM3/hyKZ6AaLBXhLitNPVxOl3amgJ2ETAXuSgOKBCwYSmUsPvoB3S569KTkn2wKwmcprTpuQH2/Vt/2Q4gZUAxDqjchvfENPS359LDk0bOyoY8moKRSG0am3BFMfD+yAcNsRTgUkYCYPGwUQXMQUiPE7MPf+QYE9AHUY78F5zxm0qSo2tE0L5+m5ZWZ3ORsKmufefh9UzQD11rL5Gr18GZr+eBzz6xvNMGwQshuAQIlmLAiBrCMiqsU5RKa0CkNBxMyLo3PJGlw0iE79MwxJ+HWOy9pfXXu1SvP7Kh1EiMhMC+haIWj1NIaV0/Ka+VWOQmqAwPcBA2EkF3j2jYjjswFGUGp+Ek4GezWRNBTqZC5Et1XFpmV7TgFEQdrmVsQBARAwJ18G4qBFeAYyP7uhhgan8AacPW/vA25rwSR5IKtIjN5XW1ABAG1Z4P9q9o8eOmZ4zVO4nHIHMFAzDBimeUec1sGvPcDBBCCqAgg/to39vzKQUlnMDM9jmwg/HmfmXwbsXhaAamHaLXB0yb41msPo/cQa0DXNqxCYspqTWPTSVpWmamdkUtV2vuPfGqOZuBOoUyOUs/uFb0TLzyzAkFU2xKwaoW4DaPid2FkyyZfWren3yRkgg2hyWBU2qW81vEn4aZbL6i/6zzBsG4bmXImViT0EiTjchtIKaVGI3CcCojVAlxHg8DgJEIJ6yocS8lkkDDqcBCNU0Tb0VhWkcr6zDV4D4QYAU5p23G7kGO1ABNgQCLKXRBESmAgGt0bRCz0tU8yY+kJA83gDNgHHnZ1EgYi+ArcBufAaXAdNADC798pAwwMKIEW8Am8Ac/AI3BPunwu58xvRGMbeAL2Ag/Uy4M/yLpBOi4DJhHrk/UZ8iGA8s8bftkAAAAASUVORK5CYII=">
     <img height="30" width="30" src="https://smartgraphe.com/wp-content/uploads/2017/02/java_ee.jpg">
+    <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Scala-full-color.svg">
     <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-    <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">
+    <!-- <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"> -->
     
   <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoub-etoullali&layout=compact&theme=vision-friendly-dark" alt="Ayoub-etoullali" />
   
