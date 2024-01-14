@@ -100,16 +100,15 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
     Matplotlib, Seaborn
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/grafana.png" alt="grafana"/>
   
-    
   **Artificial Intelligence**
-    <img width="48" height="48" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/multi-agent-2134465-1802462.png"/>
-    <img width="48" height="48" src="https://static.thenounproject.com/png/3339036-200.png"/>
-    <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/RecurrentLayerNeuralNetwork_english.png"/>
+    <img width="48" height="48" src="https://miro.medium.com/v2/resize:fit:1200/0*AcBnqINI__4b1a7V"/>
+    <img width="48" height="48" src="https://t4.ftcdn.net/jpg/04/90/34/55/360_F_490345560_OTjtyygoBvo2M6t2Jzi6VSyh82TprAEM.jpg"/>
+    <img width="48" height="48" src="https://www.asimovinstitute.org/wp-content/uploads/2016/09/rnn.png"/>
     <img width="48" height="48" src="https://img.icons8.com/external-outline-design-circle/66/22C3E6/external-NLP-natural-language-processing-outline-design-circle.png" alt="external-NLP-natural-language-processing-outline-design-circle"/>
-    <img width="48" height="48" src=""/>
-    <img width="48" height="48" src=""/>
   
   **Machine learning**
+    <img width="48" height="48" src=""/>
+  
   **Modeling**
   **DevOps – MLOps**
   **API Testing**
