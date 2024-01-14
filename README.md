@@ -104,8 +104,8 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
     <img height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT14U4J0XYAmbVs9BCCAQYvdTsGBGTGfxuPSxQ84K7jON-vBCfthFibip6wd_JF5Jsv5ow&usqp=CAU">
     <img height="30" width="30" src="https://avatars.githubusercontent.com/u/17219288?s=280&v=4">
     <img width="30" height="30" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-shadow-tal-revivo.png" alt="external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-shadow-tal-revivo"/>
-    <img height="30" width="30" src="https://icons.iconarchive.com/icons/pictogrammers/material/256/apache-kafka-icon.png">
     <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg">
+    <img height="30" width="30" src=" https://www.ibm.com/content/dam/adobe-cms/instana/media_logo/Kafka.component.complex-narrative-xl.ts=1689364296467.png/content/adobe-cms/us/en/products/instana/supported-technologies/apache-kafka-observability/jcr:content/root/table_of_contents/body/content_section_styled/content-section-body/complex_narrative/logoimage">
     
   **CMS Drupal**  
     <img height="30" width="30" src="https://drupalize.me/sites/default/files/page_images/wordmark2_blue_rgb.png">
