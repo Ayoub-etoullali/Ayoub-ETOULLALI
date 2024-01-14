@@ -104,6 +104,7 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
     <img height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT14U4J0XYAmbVs9BCCAQYvdTsGBGTGfxuPSxQ84K7jON-vBCfthFibip6wd_JF5Jsv5ow&usqp=CAU">
     <img height="30" width="30" src="https://avatars.githubusercontent.com/u/17219288?s=280&v=4">
     <img width="30" height="30" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-shadow-tal-revivo.png" alt="external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-shadow-tal-revivo"/>
+    <img height="30" width="30" src="https://icons.iconarchive.com/icons/pictogrammers/material/256/apache-kafka-icon.png">
     <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg">
     
   **CMS Drupal**  
