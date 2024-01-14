@@ -98,13 +98,12 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
   *Data Visualization* <img width="30" height="30" src="https://img.icons8.com/external-smashingstocks-flat-smashing-stocks/66/external-Data-Visualization-smooth-conceptual-smashingstocks-flat-smashing-stocks.png" alt="external-Data-Visualization-smooth-conceptual-smashingstocks-flat-smashing-stocks"/>
 
     Matplotlib, Seaborn
+    
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/grafana.png" alt="grafana"/>
   
-  **Artificial Intelligence**
-    <img width="48" height="48" src="https://miro.medium.com/v2/resize:fit:1200/0*AcBnqINI__4b1a7V"/>
-    <img width="48" height="48" src="https://t4.ftcdn.net/jpg/04/90/34/55/360_F_490345560_OTjtyygoBvo2M6t2Jzi6VSyh82TprAEM.jpg"/>
-    <img width="48" height="48" src="https://www.asimovinstitute.org/wp-content/uploads/2016/09/rnn.png"/>
-    <img width="48" height="48" src="https://img.icons8.com/external-outline-design-circle/66/22C3E6/external-NLP-natural-language-processing-outline-design-circle.png" alt="external-NLP-natural-language-processing-outline-design-circle"/>
+  **Artificial Intelligence** <img width="30" height="30" src="https://img.icons8.com/external-itim2101-fill-itim2101/64/000000/external-artificial-intelligence-artificial-intelligence-itim2101-fill-itim2101-3.png" alt="external-artificial-intelligence-artificial-intelligence-itim2101-fill-itim2101-3"/>
+    
+    AI and Multi-agent Systems, Artificial Neural Networks (ANNs), Recurrent Neural Networks (RNNs), Natural Language Processing (NLP)
   
   **Machine learning**
     <img width="48" height="48" src=""/>
@@ -126,7 +125,8 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
   **Ethics and Confidentiality of Data**
 
   **Architecture JEE**
-    <img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>
+  
+  <img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>
   
   **Front-End Technology**   
     <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
