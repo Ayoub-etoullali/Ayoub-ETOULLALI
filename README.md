@@ -91,14 +91,14 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
 
   **Data Science**
   
-  *Data Manipulation* <img width="20" height="20" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-data-science-data-analytics-flaticons-lineal-color-flat-icons-5.png" alt="external-data-science-data-analytics-flaticons-lineal-color-flat-icons-5"/>
+  *Data Manipulation* <img width="30" height="30" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-data-science-data-analytics-flaticons-lineal-color-flat-icons-5.png" alt="external-data-science-data-analytics-flaticons-lineal-color-flat-icons-5"/>
     
     NumPy, Scipy, Pandas, Plotly, Scikit-learn, XGBoost
     
-  *Data Visualization* <img width="20" height="20" src="https://img.icons8.com/external-smashingstocks-flat-smashing-stocks/66/external-Data-Visualization-smooth-conceptual-smashingstocks-flat-smashing-stocks.png" alt="external-Data-Visualization-smooth-conceptual-smashingstocks-flat-smashing-stocks"/>
+  *Data Visualization* <img width="30" height="30" src="https://img.icons8.com/external-smashingstocks-flat-smashing-stocks/66/external-Data-Visualization-smooth-conceptual-smashingstocks-flat-smashing-stocks.png" alt="external-Data-Visualization-smooth-conceptual-smashingstocks-flat-smashing-stocks"/>
 
     Matplotlib, Seaborn
-  <img width="15" height="30" src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"/><img width="15" height="30" src="https://img.icons8.com/fluency/48/grafana.png" alt="grafana"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/grafana.png" alt="grafana"/>
   
     
   **Artificial Intelligence**
