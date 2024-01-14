@@ -80,10 +80,8 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
     <img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
     <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/800px-PHP-logo.svg.png">
     <img height="30" width="30" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png">
-    <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Scala-full-color.svg">
     <img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-scala-a-general-purpose-programming-language-with-strong-static-type-system-logo-shadow-tal-revivo.png" alt="external-scala-a-general-purpose-programming-language-with-strong-static-type-system-logo-shadow-tal-revivo"/>
     <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-    ![image](https://github.com/Ayoub-etoullali/Ayoub-ETOULLALI/assets/92756846/78e8b240-dff1-4053-a3ab-a8a845e4639a)
     <!-- <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">
          <img height="30" width="30" src="https://smartgraphe.com/wp-content/uploads/2017/02/java_ee.jpg"> 
      -->
