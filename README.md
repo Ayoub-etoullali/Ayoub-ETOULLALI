@@ -102,7 +102,7 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
   **Technologie de Back-end**  
     <img align='right' src="https://github-readme-stats.vercel.app/api?username=Ayoub-etoullali&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Ayoub-etoullali" />
     <img height="48" width="48" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">
-    <img width="48" height="48" src="https://img.icons8.com/ios/50/express-js.png" alt="express-js"/>
+    <img width="48" height="48" src="https://img.icons8.com/office/16/express-js.png" alt="express-js"/>
     <img height="48" width="48" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT14U4J0XYAmbVs9BCCAQYvdTsGBGTGfxuPSxQ84K7jON-vBCfthFibip6wd_JF5Jsv5ow&usqp=CAU">
     <img height="48" width="48" src="https://avatars.githubusercontent.com/u/17219288?s=280&v=4">
     <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-shadow-tal-revivo.png" alt="external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-shadow-tal-revivo"/>
@@ -129,12 +129,12 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
     <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">
 
   **Développement Desktop**  
-    <img height="30" width="30" src="https://i0.wp.com/gluonhq.com/wp-content/uploads/2015/09/javafx_logo1.jpg?fit=404%2C375&ssl=1">
+    <img height="48" width="48" src="https://i0.wp.com/gluonhq.com/wp-content/uploads/2015/09/javafx_logo1.jpg?fit=404%2C375&ssl=1">
 
   <br>
       
-<img height="20" width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png">
-<img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png">
+<img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png">
+<img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png">
   
   <br>
 
