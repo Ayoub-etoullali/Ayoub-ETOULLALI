@@ -102,7 +102,10 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
   
     
   **Artificial Intelligence**
-    <img width="48" height="48" src=""/>
+    <img width="48" height="48" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/multi-agent-2134465-1802462.png"/>
+    <img width="48" height="48" src="https://static.thenounproject.com/png/3339036-200.png"/>
+    <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/RecurrentLayerNeuralNetwork_english.png"/>
+    <img width="48" height="48" src="https://img.icons8.com/external-outline-design-circle/66/22C3E6/external-NLP-natural-language-processing-outline-design-circle.png" alt="external-NLP-natural-language-processing-outline-design-circle"/>
     <img width="48" height="48" src=""/>
     <img width="48" height="48" src=""/>
   
