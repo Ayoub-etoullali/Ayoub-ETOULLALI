@@ -93,8 +93,8 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
   *Data Manipulation :*
     <kbd>NumPy</kbd> <kbd>Scipy</kbd> <kbd>Pandas</kbd> <kbd>Plotly</kbd> <kbd>Scikit-learn</kbd> <kbd>XGBoost</kbd>  
   *Data Visualization :*
-    <img width="30" height="30" src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"/>
-    <img width="30" height="30" src="https://img.icons8.com/fluency/48/grafana.png" alt="grafana"/>
+    <img width="20" height="20" src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"/>
+    <img width="20" height="20" src="https://img.icons8.com/fluency/48/grafana.png" alt="grafana"/>
     <kbd>Matplotlib</kbd> <kbd>Seaborn</kbd>
     
   **Artificial Intelligence** <img width="30" height="30" src="https://img.icons8.com/external-itim2101-fill-itim2101/64/228BE6/external-artificial-intelligence-artificial-intelligence-itim2101-fill-itim2101-3.png" alt="external-artificial-intelligence-artificial-intelligence-itim2101-fill-itim2101-3"/>  
@@ -121,7 +121,7 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
   
   **Cloud Computing**  
     <img width="48" height="48" src="https://img.icons8.com/color/48/ibm.png" alt="ibm"/>
-      <img width="60" height="48" src="https://img.icons8.com/color/48/oracle-logo.png" alt="oracle-logo"/>
+    <img width="60" height="48" src="https://img.icons8.com/color/48/oracle-logo.png" alt="oracle-logo"/>
   
   **Big Data Technology**  
     <img width="48" height="48" src="https://img.icons8.com/color/48/hadoop-distributed-file-system.png" alt="hadoop-distributed-file-system"/>
@@ -137,12 +137,13 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
     <img width="48" height="48" src="https://img.icons8.com/emoji/48/shark-emoji.png" alt="shark-emoji"/>
     <img width="48" height="48" src="https://img.icons8.com/external-bright-fill-juicy-fish/42/external-data-science-data-science-bright-fill-bright-fill-juicy-fish-4.png" alt="external-data-science-data-science-bright-fill-bright-fill-juicy-fish-4"/>
 
-  **Ethics and Confidentiality of Data**
+  **Ethics and Confidentiality of Data** <img width="48" height="48" src="https://img.icons8.com/ios-filled/50/12B886/security-shield-green.png" alt="security-shield-green"/>
 
   **Architecture JEE**  
     <img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>
     <img width="48" height="48" src="https://miro.medium.com/v2/resize:fit:933/1*nOj3vVVLRDoBeyshUt2dlw.png"/>
     <img width="48" height="48" src="https://www.svgrepo.com/show/448216/consul.svg"/>
+    <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Keycloak_Logo.png"/>
   
   **Front-End Technology**   
     <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
@@ -171,9 +172,19 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
   **Desktop Development**  
     <img height="48" width="48" src="https://www.qfs.de/fileadmin/Webdata/logos-icons/JavaFX.png">
 
-  **Project Management**
+  **Project Management**  
+    <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-trello-a-web-based-list-making-application-for-multi-platform-logo-shadow-tal-revivo.png" alt="external-trello-a-web-based-list-making-application-for-multi-platform-logo-shadow-tal-revivo"/>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/jira.png" alt="jira"/>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/slack-new.png" alt="slack-new"/>
+    <img width="48" height="48" src="https://img.icons8.com/color-glass/48/microsoft-teams.png" alt="microsoft-teams"/>
   
-  **Development Environment**
+  **Development Environment**  
+    <img width="48" height="48" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1633506130698/ww0vXStHe.png"/>
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/intellij-idea.png" alt="intellij-idea"/>
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter"/>
+    <img width="48" height="48" src="https://cdn.worldvectorlogo.com/logos/notepad--1.svg"/>
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/pycharm--v2.png" alt="pycharm--v2"/>
   
   **System Administration**  
     <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png">
@@ -181,13 +192,13 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
     <img width="48" height="48" src="https://img.icons8.com/color/48/ubuntu.png" alt="ubuntu"/>
     <img width="48" height="48" src="https://img.icons8.com/plasticine/100/kali-linux.png" alt="kali-linux"/>
 
-  **Computer Networks and Telecommunications**
+  **Computer Networks and Telecommunications** <img width="48" height="48" src="https://cdn1.iconfinder.com/data/icons/communication-vol-1/48/003-512.png"/>
   
-  **Internet of Things**
+  **Internet of Things** <img width="48" height="48" src="https://cdn3d.iconscout.com/3d/premium/thumb/internet-of-things-7865256-6308110.png"/>
   
-  **Computer Architecture and Assembler**
+  **Computer Architecture and Assembler** <img width="48" height="48" src="https://cdn2.iconfinder.com/data/icons/project-management-4-1/68/162-512.png"/>
   
-  **MATLAB**
+  **MATLAB** <img width="48" height="48" src="https://img.icons8.com/fluency/48/matlab.png" alt="matlab"/>
 
   <br>
 
