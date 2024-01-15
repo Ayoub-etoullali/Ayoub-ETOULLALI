@@ -129,11 +129,11 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
   
   **Cloud Computing**
     
-  <img width="48" height="48" src="https://img.icons8.com/color/48/ibm.png" alt="ibm"/><img width="48" height="48" src="https://img.icons8.com/color/48/oracle-logo.png" alt="oracle-logo"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/ibm.png" alt="ibm"/> <img width="48" height="48" src="https://img.icons8.com/color/48/oracle-logo.png" alt="oracle-logo"/>
   
   **Big Data Technology**
     
-  <img width="48" height="48" src="https://img.icons8.com/color/48/hadoop-distributed-file-system.png" alt="hadoop-distributed-file-system"/><img width="48" height="40" src="https://i.postimg.cc/0QKWnzD2/spark-logo.png"/><img width="48" height="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170560.png"/><img width="48" height="40" src="https://miro.medium.com/v2/resize:fit:960/0*-CIkZ-H9zspjt1HB.jpg"/><img width="48" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/2276px-Apache_Hive_logo.svg.png"/><img width="48" height="40" src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5d14a70d-1448-44c2-ae6b-df860e657392_700x1080.png"/><img width="48" height="30" src="https://miro.medium.com/v2/resize:fit:603/0*IMPTG6_iKbQVPVA5.png"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/hadoop-distributed-file-system.png" alt="hadoop-distributed-file-system"/><img width="48" height="40" src="https://i.postimg.cc/0QKWnzD2/spark-logo.png"/><img width="48" height="40" src="https://miro.medium.com/v2/resize:fit:960/0*-CIkZ-H9zspjt1HB.jpg"/><img width="48" height="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_nifi_logo_icon_168614.png"/><img width="48" height="40" src="https://lh3.googleusercontent.com/P-RLru4O6beYhy-pzomD5Ujry9oCSNhdMNGyDV09SENhFKTGqBns8M0UJaM1tklpWzQm1KlTgmIFjVYaZCLoMA"/><img width="48" height="30" src="https://miro.medium.com/v2/resize:fit:603/0*IMPTG6_iKbQVPVA5.png"/>
  
   **Databases (SQL, SGBD)**  
     <img height="48" width="48" src="https://kinsta.com/wp-content/uploads/2019/04/mysql-logo-1.svg">
@@ -149,13 +149,12 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
     
   <img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/><img width="48" height="48" src="https://i.ytimg.com/vi/c9eKImMdCa8/hqdefault.jpg"/><img width="48" height="48" src="https://www.svgrepo.com/show/448216/consul.svg"/><img width="48" height="48" src="https://www.svgrepo.com/show/448216/consul.svg"/>
   
-    
   **Front-End Technology**   
     <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
     <img height="48" width="48" src="https://grafikart.fr/uploads/icons/css.svg">
     <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
     <img height="48" width="48" src="https://avatars.githubusercontent.com/u/70142?s=280&v=4">
-    <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo.png" alt="external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo"/>
+    <img width="48" height="48" src="https://static-00.iconduck.com/assets.00/file-type-angular-icon-1907x2048-tobdkjt1.png"/>
     
   **Back-End Technology**  
     <img align='right' src="https://github-readme-stats.vercel.app/api?username=Ayoub-etoullali&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Ayoub-etoullali" />
