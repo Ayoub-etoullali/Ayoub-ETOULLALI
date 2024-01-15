@@ -129,7 +129,7 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
   
   **Cloud Computing**
     
-  <img width="48" height="48" src="https://img.icons8.com/color/48/ibm.png" alt="ibm"/>  <img width="60" height="60" src="https://img.icons8.com/color/48/oracle-logo.png" alt="oracle-logo"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/ibm.png" alt="ibm"/>     <img width="48" height="60" src="https://img.icons8.com/color/48/oracle-logo.png" alt="oracle-logo"/>
   
   **Big Data Technology**
     
@@ -174,9 +174,10 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
     <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">
 
   **Desktop Development**  
-    <img height="48" width="48" src="https://i0.wp.com/gluonhq.com/wp-content/uploads/2015/09/javafx_logo1.jpg?fit=404%2C375&ssl=1">
+    <img height="48" width="48" src="https://www.qfs.de/fileadmin/Webdata/logos-icons/JavaFX.png">
 
   **Project Management**
+  
   **Development Environment**
   
   **System Administration**  
