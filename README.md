@@ -93,10 +93,10 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
   *Data Manipulation :*
     <kbd>NumPy</kbd> <kbd>Scipy</kbd> <kbd>Pandas</kbd> <kbd>Plotly</kbd> <kbd>Scikit-learn</kbd> <kbd>XGBoost</kbd>  
   *Data Visualization :*
+    <img width="30" height="30" src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"/>
+    <img width="30" height="30" src="https://img.icons8.com/fluency/48/grafana.png" alt="grafana"/>
     <kbd>Matplotlib</kbd> <kbd>Seaborn</kbd>
     
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/grafana.png" alt="grafana"/>
-  
   **Artificial Intelligence** <img width="30" height="30" src="https://img.icons8.com/external-itim2101-fill-itim2101/64/228BE6/external-artificial-intelligence-artificial-intelligence-itim2101-fill-itim2101-3.png" alt="external-artificial-intelligence-artificial-intelligence-itim2101-fill-itim2101-3"/>  
   <kbd>AI & Multi-agent Systems</kbd> <kbd>Artificial Neural Networks (ANNs)</kbd> <kbd>Recurrent Neural Networks (RNNs)</kbd> <kbd>Natural Language Processing (NLP)</kbd>
   
