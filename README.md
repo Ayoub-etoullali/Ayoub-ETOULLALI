@@ -128,6 +128,7 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
   **Big Data Technology**  
     <img width="48" height="48" src="https://img.icons8.com/color/48/hadoop-distributed-file-system.png" alt="hadoop-distributed-file-system"/>
     <img width="48" height="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_nifi_logo_icon_168614.png"/>
+    <img width="48" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/2276px-Apache_Hive_logo.svg.png"/>
     <img width="40" height="40" src="https://lh3.googleusercontent.com/P-RLru4O6beYhy-pzomD5Ujry9oCSNhdMNGyDV09SENhFKTGqBns8M0UJaM1tklpWzQm1KlTgmIFjVYaZCLoMA"/>
     <img width="70" height="43" src="https://miro.medium.com/v2/resize:fit:603/0*IMPTG6_iKbQVPVA5.png"/>
  
