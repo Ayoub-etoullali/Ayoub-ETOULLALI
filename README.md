@@ -95,45 +95,45 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
     <kbd>NumPy</kbd> <kbd>Scipy</kbd> <kbd>Pandas</kbd> <kbd>Plotly</kbd> <kbd>Scikit-learn</kbd> <kbd>XGBoost
     
   *Data Visualization*
-  
-  <kbd>Matplotlib</kbd> <kbd>Seaborn</kbd>
+    <kbd>Matplotlib</kbd> <kbd>Seaborn</kbd>
     
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/grafana.png" alt="grafana"/>
   
   **Artificial Intelligence** <img width="30" height="30" src="https://img.icons8.com/external-itim2101-fill-itim2101/64/228BE6/external-artificial-intelligence-artificial-intelligence-itim2101-fill-itim2101-3.png" alt="external-artificial-intelligence-artificial-intelligence-itim2101-fill-itim2101-3"/>
     
-    AI and Multi-agent Systems, Artificial Neural Networks (ANNs), Recurrent Neural Networks (RNNs), Natural Language Processing (NLP)
+  <kbd>AI & Multi-agent Systems</kbd> <kbd>Artificial Neural Networks (ANNs)</kbd> <kbd>Recurrent Neural Networks (RNNs)</kbd> <kbd>Natural Language Processing (NLP)</kbd>
   
   **Machine learning** <img width="30" height="30" src="https://img.icons8.com/cotton/64/brain-3.png" alt="brain-3"/>
   
   *Supervised :*
-                      
-    Linear and logistic regressions, Singular value decomposition (SVD), Decision tree, Random Forest, Neural networks, K-nearest neighbors (KNN)
+  <kbd>Linear and logistic regressions</kbd> <kbd>Singular value decomposition (SVD)</kbd> <kbd>Decision tree</kbd> <kbd>Random Forest</kbd> <kbd>Neural networks</kbd> <kbd>K-nearest neighbors (KNN)</kbd>
   
   *Unsupervised :* 
-  
-    K-means, Principal Component Analysis (PCA), Self-organizing map (SOM, Kohonen)
+  <kbd>K-means</kbd> <kbd>Principal Component Analysis (PCA)</kbd> <kbd>Self-organizing map (SOM, Kohonen)</kbd>
   
   **Modeling** <img width="30" height="30" src="https://img.icons8.com/stickers/100/static-view-level2.png" alt="static-view-level2"/>
 
-    Merise, UML, Figma
+  <kbd>Merise</kbd> <kbd>UML</kbd> <kbd>Figma</kbd>
 
-  **DevOps – MLOps**
-  
-  <img width="48" height="48" src="https://img.icons8.com/color/48/docker.png" alt="docker"/><img width="48" height="48" src="https://img.icons8.com/color/48/kubernetes.png" alt="kubernetes"/><img width="48" height="48" src="https://img.icons8.com/color/48/jenkins.png" alt="jenkins"/>
+  **DevOps – MLOps**  
+    <img width="48" height="48" src="https://img.icons8.com/color/48/docker.png" alt="docker"/>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/kubernetes.png" alt="kubernetes"/>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/jenkins.png" alt="jenkins"/>
   
   **API Testing**  
     <img width="48" height="48" src="https://www.svgrepo.com/show/354202/postman-icon.svg"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/000000/cloud-function.png" alt="cloud-function"/>
     <img width="48" height="48" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg"/>
   
-  **Cloud Computing**
-    
-  <img width="48" height="48" src="https://img.icons8.com/color/48/ibm.png" alt="ibm"/>     <img width="60" height="48" src="https://img.icons8.com/color/48/oracle-logo.png" alt="oracle-logo"/>
+  **Cloud Computing**  
+    <img width="48" height="48" src="https://img.icons8.com/color/48/ibm.png" alt="ibm"/>
+    <img width="60" height="48" src="https://img.icons8.com/color/48/oracle-logo.png" alt="oracle-logo"/>
   
-  **Big Data Technology**
-    
-  <img width="48" height="48" src="https://img.icons8.com/color/48/hadoop-distributed-file-system.png" alt="hadoop-distributed-file-system"/><img width="48" height="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_nifi_logo_icon_168614.png"/><img width="40" height="40" src="https://lh3.googleusercontent.com/P-RLru4O6beYhy-pzomD5Ujry9oCSNhdMNGyDV09SENhFKTGqBns8M0UJaM1tklpWzQm1KlTgmIFjVYaZCLoMA"/><img width="60" height="48" src="https://miro.medium.com/v2/resize:fit:603/0*IMPTG6_iKbQVPVA5.png"/>
+  **Big Data Technology**  
+    <img width="48" height="48" src="https://img.icons8.com/color/48/hadoop-distributed-file-system.png" alt="hadoop-distributed-file-system"/>
+    <img width="48" height="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_nifi_logo_icon_168614.png"/>
+    <img width="40" height="40" src="https://lh3.googleusercontent.com/P-RLru4O6beYhy-pzomD5Ujry9oCSNhdMNGyDV09SENhFKTGqBns8M0UJaM1tklpWzQm1KlTgmIFjVYaZCLoMA"/>
+    <img width="60" height="48" src="https://miro.medium.com/v2/resize:fit:603/0*IMPTG6_iKbQVPVA5.png"/>
  
   **Databases (SQL, SGBD)**  
     <img height="48" width="48" src="https://kinsta.com/wp-content/uploads/2019/04/mysql-logo-1.svg">
@@ -145,9 +145,10 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
 
   **Ethics and Confidentiality of Data**
 
-  **Architecture JEE**
-    
-  <img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/><img width="48" height="48" src="https://miro.medium.com/v2/resize:fit:933/1*nOj3vVVLRDoBeyshUt2dlw.png"/><img width="48" height="48" src="https://www.svgrepo.com/show/448216/consul.svg"/>
+  **Architecture JEE**  
+    <img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>
+    <img width="48" height="48" src="https://miro.medium.com/v2/resize:fit:933/1*nOj3vVVLRDoBeyshUt2dlw.png"/>
+    <img width="48" height="48" src="https://www.svgrepo.com/show/448216/consul.svg"/>
   
   **Front-End Technology**   
     <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
@@ -182,10 +183,9 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
   
   **System Administration**  
     <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png">
-  <img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/ubuntu.png" alt="ubuntu"/>
-  <img width="48" height="48" src="https://img.icons8.com/plasticine/100/kali-linux.png" alt="kali-linux"/>
-  <br>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/ubuntu.png" alt="ubuntu"/>
+    <img width="48" height="48" src="https://img.icons8.com/plasticine/100/kali-linux.png" alt="kali-linux"/>
 
   **Computer Networks and Telecommunications**
   
