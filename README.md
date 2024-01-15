@@ -195,7 +195,7 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
 
   **Computer Networks and Telecommunications** <img width="30" height="30" src="https://www.icontower.com/wp-content/uploads/2022/12/Icon_tower.png"/>
   
-  **Internet of Things** <img width="30" height="30" src="https://cdn3d.iconscout.com/3d/premium/thumb/internet-of-things-7865256-6308110.png"/>
+  **Internet of Things** <img width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/6119/6119533.png"/>
   
   **Computer Architecture and Assembler** <img width="30" height="30" src="https://cdn.icon-icons.com/icons2/1738/PNG/512/iconfinder-technologymachineelectronicdevice25-4026435_113356.png"/>
   
@@ -204,8 +204,7 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
 
   <br>
 
-  <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png">  
-  <img width="30" height="30" src="https://img.icons8.com/bubbles/50/github.png" alt="github"/>
+  <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"><img width="30" height="30" src="https://img.icons8.com/bubbles/50/github.png" alt="github"/>
   
   <br>
 
