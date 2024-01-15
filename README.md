@@ -90,9 +90,9 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
   <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoub-etoullali&layout=compact&theme=vision-friendly-dark" alt="Ayoub-etoullali" />
 
   **Data Science** <img width="30" height="30" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-data-science-data-analytics-flaticons-lineal-color-flat-icons-5.png" alt="external-data-science-data-analytics-flaticons-lineal-color-flat-icons-5"/>  
-  *Data Manipulation*
-    <kbd>NumPy</kbd> <kbd>Scipy</kbd> <kbd>Pandas</kbd> <kbd>Plotly</kbd> <kbd>Scikit-learn</kbd> <kbd>XGBoost
-  *Data Visualization*
+  *Data Manipulation :*
+    <kbd>NumPy</kbd> <kbd>Scipy</kbd> <kbd>Pandas</kbd> <kbd>Plotly</kbd> <kbd>Scikit-learn</kbd> <kbd>XGBoost</kbd>  
+  *Data Visualization :*
     <kbd>Matplotlib</kbd> <kbd>Seaborn</kbd>
     
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/grafana.png" alt="grafana"/>
@@ -102,8 +102,8 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
   
   **Machine learning** <img width="30" height="30" src="https://img.icons8.com/cotton/64/brain-3.png" alt="brain-3"/>  
   *Supervised :*
-  <kbd>Linear and logistic regressions</kbd> <kbd>Singular value decomposition (SVD)</kbd> <kbd>Decision tree</kbd> <kbd>Random Forest</kbd> <kbd>Neural networks</kbd> <kbd>K-nearest neighbors (KNN)</kbd>
-  *Unsupervised :* 
+  <kbd>Linear and logistic regressions</kbd> <kbd>Singular value decomposition (SVD)</kbd> <kbd>Decision tree</kbd> <kbd>Random Forest</kbd> <kbd>Neural networks</kbd> <kbd>K-nearest neighbors (KNN)</kbd>  
+  *Unsupervised :*
   <kbd>K-means</kbd> <kbd>Principal Component Analysis (PCA)</kbd> <kbd>Self-organizing map (SOM, Kohonen)</kbd>
   
   **Modeling** <img width="30" height="30" src="https://img.icons8.com/stickers/100/static-view-level2.png" alt="static-view-level2"/>  
@@ -120,14 +120,14 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
     <img width="48" height="48" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg"/>
   
   **Cloud Computing**  
-    <img width="48" height="48" src="https://img.icons8.com/color/48/ibm.png" alt="ibm"/>  
-    <img width="60" height="48" src="https://img.icons8.com/color/48/oracle-logo.png" alt="oracle-logo"/>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/ibm.png" alt="ibm"/>
+      <img width="60" height="48" src="https://img.icons8.com/color/48/oracle-logo.png" alt="oracle-logo"/>
   
   **Big Data Technology**  
     <img width="48" height="48" src="https://img.icons8.com/color/48/hadoop-distributed-file-system.png" alt="hadoop-distributed-file-system"/>
     <img width="48" height="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_nifi_logo_icon_168614.png"/>
     <img width="40" height="40" src="https://lh3.googleusercontent.com/P-RLru4O6beYhy-pzomD5Ujry9oCSNhdMNGyDV09SENhFKTGqBns8M0UJaM1tklpWzQm1KlTgmIFjVYaZCLoMA"/>
-    <img width="80" height="45" src="https://miro.medium.com/v2/resize:fit:603/0*IMPTG6_iKbQVPVA5.png"/>
+    <img width="70" height="43" src="https://miro.medium.com/v2/resize:fit:603/0*IMPTG6_iKbQVPVA5.png"/>
  
   **Databases (SQL, SGBD)**  
     <img height="48" width="48" src="https://kinsta.com/wp-content/uploads/2019/04/mysql-logo-1.svg">
