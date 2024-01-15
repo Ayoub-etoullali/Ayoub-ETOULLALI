@@ -107,7 +107,7 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
   **Modeling** <img width="30" height="30" src="https://img.icons8.com/stickers/100/static-view-level2.png" alt="static-view-level2"/>  
   <kbd>Merise</kbd> <kbd>UML</kbd> <kbd>Figma</kbd>
 
-  <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoub-etoullali&layout=compact&theme=vision-friendly-dark" alt="Ayoub-etoullali" />
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoub-etoullali&layout=compact&theme=vision-friendly-dark" alt="Ayoub-etoullali" />
 
   **DevOps – MLOps**  
     <img width="48" height="48" src="https://img.icons8.com/color/48/docker.png" alt="docker"/>
@@ -122,6 +122,8 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
   **Cloud Computing**  
     <img width="48" height="48" src="https://img.icons8.com/color/48/ibm.png" alt="ibm"/>
     <img width="60" height="48" src="https://img.icons8.com/color/48/oracle-logo.png" alt="oracle-logo"/>
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Ayoub-etoullali&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Ayoub-etoullali" />
   
   **Big Data Technology**  
     <img width="48" height="48" src="https://img.icons8.com/color/48/hadoop-distributed-file-system.png" alt="hadoop-distributed-file-system"/>
@@ -136,8 +138,6 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
     <img width="48" height="48" src="https://img.icons8.com/color/48/redis--v1.png" alt="redis--v1"/>
     <img width="48" height="48" src="https://img.icons8.com/emoji/48/shark-emoji.png" alt="shark-emoji"/>
     <img width="48" height="48" src="https://img.icons8.com/external-bright-fill-juicy-fish/42/external-data-science-data-science-bright-fill-bright-fill-juicy-fish-4.png" alt="external-data-science-data-science-bright-fill-bright-fill-juicy-fish-4"/>
-
-  <img align='right' src="https://github-readme-stats.vercel.app/api?username=Ayoub-etoullali&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Ayoub-etoullali" />
 
   **Ethics and Confidentiality of Data**  
     <img width="48" height="48" src="https://img.icons8.com/ios-filled/50/12B886/security-shield-green.png" alt="security-shield-green"/>
