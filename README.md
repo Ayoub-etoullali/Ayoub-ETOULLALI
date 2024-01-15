@@ -137,7 +137,8 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
     <img width="48" height="48" src="https://img.icons8.com/emoji/48/shark-emoji.png" alt="shark-emoji"/>
     <img width="48" height="48" src="https://img.icons8.com/external-bright-fill-juicy-fish/42/external-data-science-data-science-bright-fill-bright-fill-juicy-fish-4.png" alt="external-data-science-data-science-bright-fill-bright-fill-juicy-fish-4"/>
 
-  **Ethics and Confidentiality of Data** <img width="48" height="48" src="https://img.icons8.com/ios-filled/50/12B886/security-shield-green.png" alt="security-shield-green"/>
+  **Ethics and Confidentiality of Data**  
+    <img width="48" height="48" src="https://img.icons8.com/ios-filled/50/12B886/security-shield-green.png" alt="security-shield-green"/>
 
   **Architecture JEE**  
     <img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>
@@ -192,13 +193,14 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
     <img width="48" height="48" src="https://img.icons8.com/color/48/ubuntu.png" alt="ubuntu"/>
     <img width="48" height="48" src="https://img.icons8.com/plasticine/100/kali-linux.png" alt="kali-linux"/>
 
-  **Computer Networks and Telecommunications** <img width="48" height="48" src="https://cdn1.iconfinder.com/data/icons/communication-vol-1/48/003-512.png"/>
+  **Computer Networks and Telecommunications** <img width="30" height="30" src="https://www.icontower.com/wp-content/uploads/2022/12/Icon_tower.png"/>
   
-  **Internet of Things** <img width="48" height="48" src="https://cdn3d.iconscout.com/3d/premium/thumb/internet-of-things-7865256-6308110.png"/>
+  **Internet of Things** <img width="30" height="30" src="https://cdn3d.iconscout.com/3d/premium/thumb/internet-of-things-7865256-6308110.png"/>
   
-  **Computer Architecture and Assembler** <img width="48" height="48" src="https://cdn2.iconfinder.com/data/icons/project-management-4-1/68/162-512.png"/>
+  **Computer Architecture and Assembler** <img width="30" height="30" src="https://cdn.icon-icons.com/icons2/1738/PNG/512/iconfinder-technologymachineelectronicdevice25-4026435_113356.png"/>
   
-  **MATLAB** <img width="48" height="48" src="https://img.icons8.com/fluency/48/matlab.png" alt="matlab"/>
+  **MATLAB**  
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/matlab.png" alt="matlab"/>
 
   <br>
 
