@@ -89,14 +89,14 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
     
   <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoub-etoullali&layout=compact&theme=vision-friendly-dark" alt="Ayoub-etoullali" />
 
-  **Data Science**
+  **Data Science** <img width="30" height="30" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-data-science-data-analytics-flaticons-lineal-color-flat-icons-5.png" alt="external-data-science-data-analytics-flaticons-lineal-color-flat-icons-5"/>
   
-  *Data Manipulation* <img width="30" height="30" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-data-science-data-analytics-flaticons-lineal-color-flat-icons-5.png" alt="external-data-science-data-analytics-flaticons-lineal-color-flat-icons-5"/>
+  *Data Manipulation*
     
     NumPy, Scipy, Pandas, Plotly, Scikit-learn, XGBoost
     
-  *Data Visualization* <img width="30" height="30" src="https://img.icons8.com/external-smashingstocks-flat-smashing-stocks/66/external-Data-Visualization-smooth-conceptual-smashingstocks-flat-smashing-stocks.png" alt="external-Data-Visualization-smooth-conceptual-smashingstocks-flat-smashing-stocks"/>
-
+  *Data Visualization* 
+    
     Matplotlib, Seaborn
     
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/grafana.png" alt="grafana"/>
@@ -129,11 +129,11 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
   
   **Cloud Computing**
     
-  <img width="48" height="48" src="https://img.icons8.com/color/48/ibm.png" alt="ibm"/> <img width="48" height="48" src="https://img.icons8.com/color/48/oracle-logo.png" alt="oracle-logo"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/ibm.png" alt="ibm"/>  <img width="60" height="60" src="https://img.icons8.com/color/48/oracle-logo.png" alt="oracle-logo"/>
   
   **Big Data Technology**
     
-  <img width="48" height="48" src="https://img.icons8.com/color/48/hadoop-distributed-file-system.png" alt="hadoop-distributed-file-system"/><img width="48" height="40" src="https://i.postimg.cc/0QKWnzD2/spark-logo.png"/><img width="48" height="40" src="https://miro.medium.com/v2/resize:fit:960/0*-CIkZ-H9zspjt1HB.jpg"/><img width="48" height="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_nifi_logo_icon_168614.png"/><img width="48" height="40" src="https://lh3.googleusercontent.com/P-RLru4O6beYhy-pzomD5Ujry9oCSNhdMNGyDV09SENhFKTGqBns8M0UJaM1tklpWzQm1KlTgmIFjVYaZCLoMA"/><img width="48" height="30" src="https://miro.medium.com/v2/resize:fit:603/0*IMPTG6_iKbQVPVA5.png"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/hadoop-distributed-file-system.png" alt="hadoop-distributed-file-system"/><img width="48" height="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_nifi_logo_icon_168614.png"/><img width="48" height="48" src="https://lh3.googleusercontent.com/P-RLru4O6beYhy-pzomD5Ujry9oCSNhdMNGyDV09SENhFKTGqBns8M0UJaM1tklpWzQm1KlTgmIFjVYaZCLoMA"/><img width="48" height="20" src="https://miro.medium.com/v2/resize:fit:603/0*IMPTG6_iKbQVPVA5.png"/>
  
   **Databases (SQL, SGBD)**  
     <img height="48" width="48" src="https://kinsta.com/wp-content/uploads/2019/04/mysql-logo-1.svg">
@@ -147,7 +147,7 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
 
   **Architecture JEE**
     
-  <img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/><img width="48" height="48" src="https://i.ytimg.com/vi/c9eKImMdCa8/hqdefault.jpg"/><img width="48" height="48" src="https://www.svgrepo.com/show/448216/consul.svg"/><img width="48" height="48" src="https://www.svgrepo.com/show/448216/consul.svg"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/><img width="48" height="48" src="https://miro.medium.com/v2/resize:fit:933/1*nOj3vVVLRDoBeyshUt2dlw.png"/><img width="48" height="48" src="https://www.svgrepo.com/show/448216/consul.svg"/>
   
   **Front-End Technology**   
     <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
