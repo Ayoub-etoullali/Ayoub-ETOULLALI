@@ -182,7 +182,7 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
     <img width="48" height="48" src="https://img.icons8.com/color-glass/48/microsoft-teams.png" alt="microsoft-teams"/>
   
   **Development Environment**  
-    <img width="60" height="48" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1633506130698/ww0vXStHe.png"/>
+    <img width="70" height="48" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1633506130698/ww0vXStHe.png"/>
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/intellij-idea.png" alt="intellij-idea"/>
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter"/>
     <img width="48" height="48" src="https://cdn.worldvectorlogo.com/logos/notepad--1.svg"/>
