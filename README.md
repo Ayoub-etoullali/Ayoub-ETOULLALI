@@ -86,8 +86,6 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
     <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">
     <img height="30" width="30" src="https://smartgraphe.com/wp-content/uploads/2017/02/java_ee.jpg"> 
      -->
-    
-  <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoub-etoullali&layout=compact&theme=vision-friendly-dark" alt="Ayoub-etoullali" />
 
   **Data Science** <img width="30" height="30" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-data-science-data-analytics-flaticons-lineal-color-flat-icons-5.png" alt="external-data-science-data-analytics-flaticons-lineal-color-flat-icons-5"/>  
   *Data Manipulation :*
@@ -108,6 +106,8 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
   
   **Modeling** <img width="30" height="30" src="https://img.icons8.com/stickers/100/static-view-level2.png" alt="static-view-level2"/>  
   <kbd>Merise</kbd> <kbd>UML</kbd> <kbd>Figma</kbd>
+
+  <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoub-etoullali&layout=compact&theme=vision-friendly-dark" alt="Ayoub-etoullali" />
 
   **DevOps – MLOps**  
     <img width="48" height="48" src="https://img.icons8.com/color/48/docker.png" alt="docker"/>
@@ -137,6 +137,8 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
     <img width="48" height="48" src="https://img.icons8.com/emoji/48/shark-emoji.png" alt="shark-emoji"/>
     <img width="48" height="48" src="https://img.icons8.com/external-bright-fill-juicy-fish/42/external-data-science-data-science-bright-fill-bright-fill-juicy-fish-4.png" alt="external-data-science-data-science-bright-fill-bright-fill-juicy-fish-4"/>
 
+  <img align='right' src="https://github-readme-stats.vercel.app/api?username=Ayoub-etoullali&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Ayoub-etoullali" />
+
   **Ethics and Confidentiality of Data**  
     <img width="48" height="48" src="https://img.icons8.com/ios-filled/50/12B886/security-shield-green.png" alt="security-shield-green"/>
 
@@ -154,7 +156,6 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
     <img width="48" height="48" src="https://static-00.iconduck.com/assets.00/file-type-angular-icon-1907x2048-tobdkjt1.png"/>
     
   **Back-End Technology**  
-    <img align='right' src="https://github-readme-stats.vercel.app/api?username=Ayoub-etoullali&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Ayoub-etoullali" />
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
     <img width="48" height="48" src="https://img.icons8.com/office/40/express-js.png" alt="express-js"/>
     <img height="48" width="48" src="https://avatars.githubusercontent.com/u/17219288?s=280&v=4">
