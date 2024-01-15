@@ -92,12 +92,11 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
   **Data Science** <img width="30" height="30" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-data-science-data-analytics-flaticons-lineal-color-flat-icons-5.png" alt="external-data-science-data-analytics-flaticons-lineal-color-flat-icons-5"/>
   
   *Data Manipulation*
+    <kbd>NumPy</kbd> <kbd>Scipy</kbd> <kbd>Pandas</kbd> <kbd>Plotly</kbd> <kbd>Scikit-learn</kbd> <kbd>XGBoost
     
-    NumPy, Scipy, Pandas, Plotly, Scikit-learn, XGBoost
-    
-  *Data Visualization* 
-    
-    Matplotlib, Seaborn
+  *Data Visualization*
+  
+  <kbd>Matplotlib</kbd> <kbd>Seaborn</kbd>
     
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/grafana.png" alt="grafana"/>
   
@@ -123,9 +122,10 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
   
   <img width="48" height="48" src="https://img.icons8.com/color/48/docker.png" alt="docker"/><img width="48" height="48" src="https://img.icons8.com/color/48/kubernetes.png" alt="kubernetes"/><img width="48" height="48" src="https://img.icons8.com/color/48/jenkins.png" alt="jenkins"/>
   
-  **API Testing**
-  
-  <img width="48" height="48" src="https://www.svgrepo.com/show/354202/postman-icon.svg"/><img width="48" height="48" src="https://img.icons8.com/color/48/000000/cloud-function.png" alt="cloud-function"/><img width="48" height="48" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg"/>
+  **API Testing**  
+    <img width="48" height="48" src="https://www.svgrepo.com/show/354202/postman-icon.svg"/>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/000000/cloud-function.png" alt="cloud-function"/>
+    <img width="48" height="48" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg"/>
   
   **Cloud Computing**
     
@@ -133,7 +133,7 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
   
   **Big Data Technology**
     
-  <img width="48" height="48" src="https://img.icons8.com/color/48/hadoop-distributed-file-system.png" alt="hadoop-distributed-file-system"/><img width="48" height="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_nifi_logo_icon_168614.png"/><img width="40" height="40" src="https://lh3.googleusercontent.com/P-RLru4O6beYhy-pzomD5Ujry9oCSNhdMNGyDV09SENhFKTGqBns8M0UJaM1tklpWzQm1KlTgmIFjVYaZCLoMA"/><img width="48" height="60" src="https://miro.medium.com/v2/resize:fit:603/0*IMPTG6_iKbQVPVA5.png"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/hadoop-distributed-file-system.png" alt="hadoop-distributed-file-system"/><img width="48" height="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_nifi_logo_icon_168614.png"/><img width="40" height="40" src="https://lh3.googleusercontent.com/P-RLru4O6beYhy-pzomD5Ujry9oCSNhdMNGyDV09SENhFKTGqBns8M0UJaM1tklpWzQm1KlTgmIFjVYaZCLoMA"/><img width="60" height="48" src="https://miro.medium.com/v2/resize:fit:603/0*IMPTG6_iKbQVPVA5.png"/>
  
   **Databases (SQL, SGBD)**  
     <img height="48" width="48" src="https://kinsta.com/wp-content/uploads/2019/04/mysql-logo-1.svg">
