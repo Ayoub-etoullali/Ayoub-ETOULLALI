@@ -160,7 +160,7 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
     <img width="48" height="48" src="https://img.icons8.com/office/40/express-js.png" alt="express-js"/>
     <img height="48" width="48" src="https://avatars.githubusercontent.com/u/17219288?s=280&v=4">
-    <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-shadow-tal-revivo.png" alt="external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-shadow-tal-revivo"/>
+    <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-shadow-tal-revivo.png"/>
     <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg">
 
    **CMS Drupal**  
