@@ -75,13 +75,13 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
     
   **Programming Language**  
     <img height="40" width="40" src="https://cms-informatic.com/wp-content/uploads/2020/01/logo-langage-C-300x300.png">
-    <img height="45" width="45" src="https://www.naveedashfaq.me/img/c++.png">
-    <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
-    <img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
-    <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/800px-PHP-logo.svg.png">
-    <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
-    <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-scala-a-general-purpose-programming-language-with-strong-static-type-system-logo-shadow-tal-revivo.png" alt="external-scala-a-general-purpose-programming-language-with-strong-static-type-system-logo-shadow-tal-revivo"/>
-    <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+    <img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png">
+    <img height="40" width="40" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
+    <img height="40" width="40" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
+    <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/800px-PHP-logo.svg.png">
+    <img height="40" width="40" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
+    <img height="40" width="40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-scala-a-general-purpose-programming-language-with-strong-static-type-system-logo-shadow-tal-revivo.png" alt="external-scala-a-general-purpose-programming-language-with-strong-static-type-system-logo-shadow-tal-revivo"/>
+    <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
     <!-- 
     <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">
     <img height="30" width="30" src="https://smartgraphe.com/wp-content/uploads/2017/02/java_ee.jpg"> 
@@ -95,114 +95,114 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
     <img width="20" height="20" src="https://img.icons8.com/fluency/48/grafana.png" alt="grafana"/>
     <kbd>Matplotlib</kbd> <kbd>Seaborn</kbd>
     
-  **Artificial Intelligence** <img width="30" height="30" src="https://img.icons8.com/external-itim2101-fill-itim2101/64/228BE6/external-artificial-intelligence-artificial-intelligence-itim2101-fill-itim2101-3.png" alt="external-artificial-intelligence-artificial-intelligence-itim2101-fill-itim2101-3"/>  
+  **Artificial Intelligence** <img width="20" height="20" src="https://img.icons8.com/external-itim2101-fill-itim2101/64/228BE6/external-artificial-intelligence-artificial-intelligence-itim2101-fill-itim2101-3.png" alt="external-artificial-intelligence-artificial-intelligence-itim2101-fill-itim2101-3"/>  
   <kbd>AI & Multi-agent Systems</kbd> <kbd>Artificial Neural Networks (ANNs)</kbd> <kbd>Recurrent Neural Networks (RNNs)</kbd> <kbd>Natural Language Processing (NLP)</kbd>
   
-  **Machine learning** <img width="30" height="30" src="https://img.icons8.com/cotton/64/brain-3.png" alt="brain-3"/>  
+  **Machine learning** <img width="20" height="20" src="https://img.icons8.com/cotton/64/brain-3.png" alt="brain-3"/>  
   *Supervised :*
   <kbd>Linear and logistic regressions</kbd> <kbd>Singular value decomposition (SVD)</kbd> <kbd>Decision tree</kbd> <kbd>Random Forest</kbd> <kbd>Neural networks</kbd> <kbd>K-nearest neighbors (KNN)</kbd>  
   *Unsupervised :*
   <kbd>K-means</kbd> <kbd>Principal Component Analysis (PCA)</kbd> <kbd>Self-organizing map (SOM, Kohonen)</kbd>
   
-  **Modeling** <img width="25" height="25" src="https://img.icons8.com/stickers/100/static-view-level2.png" alt="static-view-level2"/>  
+  **Modeling** <img width="20" height="20" src="https://img.icons8.com/stickers/100/static-view-level2.png" alt="static-view-level2"/>  
   <kbd>Merise</kbd> <kbd>UML</kbd> <kbd>Figma</kbd>
 
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoub-etoullali&layout=compact&theme=vision-friendly-dark" alt="Ayoub-etoullali" />
 
   **DevOps – MLOps**  
-    <img width="48" height="48" src="https://img.icons8.com/color/48/docker.png" alt="docker"/>
-    <img width="48" height="48" src="https://img.icons8.com/color/48/kubernetes.png" alt="kubernetes"/>
-    <img width="48" height="48" src="https://img.icons8.com/color/48/jenkins.png" alt="jenkins"/>
+    <img height="40" width="40" src="https://img.icons8.com/color/48/docker.png" alt="docker"/>
+    <img height="40" width="40" src="https://img.icons8.com/color/48/kubernetes.png" alt="kubernetes"/>
+    <img height="40" width="40" src="https://img.icons8.com/color/48/jenkins.png" alt="jenkins"/>
   
   **API Testing**  
-    <img width="48" height="48" src="https://www.svgrepo.com/show/354202/postman-icon.svg"/>
-    <img width="48" height="48" src="https://img.icons8.com/color/48/000000/cloud-function.png" alt="cloud-function"/>
-    <img width="48" height="48" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg"/>
+    <img height="40" width="40" src="https://www.svgrepo.com/show/354202/postman-icon.svg"/>
+    <img height="40" width="40" src="https://img.icons8.com/color/48/000000/cloud-function.png" alt="cloud-function"/>
+    <img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg"/>
   
   **Cloud Computing**  
-    <img width="48" height="48" src="https://img.icons8.com/color/48/ibm.png" alt="ibm"/>
-    <img width="60" height="48" src="https://img.icons8.com/color/48/oracle-logo.png" alt="oracle-logo"/>
+    <img height="40" width="40" src="https://img.icons8.com/color/48/ibm.png" alt="ibm"/>
+    <img width="50" height="40" src="https://img.icons8.com/color/48/oracle-logo.png" alt="oracle-logo"/>
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Ayoub-etoullali&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Ayoub-etoullali" />
   
   **Big Data Technology**  
-    <img width="48" height="48" src="https://img.icons8.com/color/48/hadoop-distributed-file-system.png" alt="hadoop-distributed-file-system"/>
-    <img width="48" height="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_nifi_logo_icon_168614.png"/>
-    <img width="48" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/2276px-Apache_Hive_logo.svg.png"/>
-    <img width="40" height="40" src="https://lh3.googleusercontent.com/P-RLru4O6beYhy-pzomD5Ujry9oCSNhdMNGyDV09SENhFKTGqBns8M0UJaM1tklpWzQm1KlTgmIFjVYaZCLoMA"/>
-    <img width="70" height="40" src="https://miro.medium.com/v2/resize:fit:603/0*IMPTG6_iKbQVPVA5.png"/>
+    <img height="40" width="40" src="https://img.icons8.com/color/48/hadoop-distributed-file-system.png" alt="hadoop-distributed-file-system"/>
+    <img height="40" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_nifi_logo_icon_168614.png"/>
+    <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/2276px-Apache_Hive_logo.svg.png"/>
+    <img height="40" width="40" src="https://lh3.googleusercontent.com/P-RLru4O6beYhy-pzomD5Ujry9oCSNhdMNGyDV09SENhFKTGqBns8M0UJaM1tklpWzQm1KlTgmIFjVYaZCLoMA"/>
+    <img width="40" height="20" src="https://miro.medium.com/v2/resize:fit:603/0*IMPTG6_iKbQVPVA5.png"/>
  
   **Databases (SQL, SGBD)**  
-    <img height="48" width="48" src="https://kinsta.com/wp-content/uploads/2019/04/mysql-logo-1.svg">
-    <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
-    <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo"/>
-    <img width="48" height="48" src="https://img.icons8.com/color/48/redis--v1.png" alt="redis--v1"/>
-    <img width="48" height="48" src="https://img.icons8.com/emoji/48/shark-emoji.png" alt="shark-emoji"/>
-    <img width="48" height="48" src="https://img.icons8.com/external-bright-fill-juicy-fish/42/external-data-science-data-science-bright-fill-bright-fill-juicy-fish-4.png"/>
+    <img height="40" width="40" src="https://kinsta.com/wp-content/uploads/2019/04/mysql-logo-1.svg">
+    <img height="40" width="40" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
+    <img height="40" width="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo"/>
+    <img height="40" width="40" src="https://img.icons8.com/color/48/redis--v1.png" alt="redis--v1"/>
+    <img height="40" width="40" src="https://img.icons8.com/emoji/48/shark-emoji.png" alt="shark-emoji"/>
+    <img height="40" width="40" src="https://img.icons8.com/external-bright-fill-juicy-fish/42/external-data-science-data-science-bright-fill-bright-fill-juicy-fish-4.png"/>
 
   **Ethics and Confidentiality of Data**  
-    <img width="48" height="48" src="https://img.icons8.com/ios-filled/50/12B886/security-shield-green.png" alt="security-shield-green"/>
+    <img height="40" width="40" src="https://img.icons8.com/ios-filled/50/12B886/security-shield-green.png" alt="security-shield-green"/>
 
   **Architecture JEE**  
-    <img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>
-    <img width="48" height="48" src="https://miro.medium.com/v2/resize:fit:933/1*nOj3vVVLRDoBeyshUt2dlw.png"/>
-    <img width="48" height="48" src="https://www.svgrepo.com/show/448216/consul.svg"/>
-    <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Keycloak_Logo.png"/>
+    <img height="40" width="40" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>
+    <img height="40" width="40" src="https://miro.medium.com/v2/resize:fit:933/1*nOj3vVVLRDoBeyshUt2dlw.png"/>
+    <img height="40" width="40" src="https://www.svgrepo.com/show/448216/consul.svg"/>
+    <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Keycloak_Logo.png"/>
   
   **Front-End Technology**   
-    <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-    <img height="48" width="48" src="https://grafikart.fr/uploads/icons/css.svg">
-    <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
-    <img height="48" width="48" src="https://avatars.githubusercontent.com/u/70142?s=280&v=4">
-    <img width="48" height="48" src="https://static-00.iconduck.com/assets.00/file-type-angular-icon-1907x2048-tobdkjt1.png"/>
+    <img height="40" width="40" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+    <img height="40" width="40" src="https://grafikart.fr/uploads/icons/css.svg">
+    <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
+    <img height="40" width="40" src="https://avatars.githubusercontent.com/u/70142?s=280&v=4">
+    <img height="40" width="40" src="https://static-00.iconduck.com/assets.00/file-type-angular-icon-1907x2048-tobdkjt1.png"/>
     
   **Back-End Technology**  
-    <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
-    <img width="48" height="48" src="https://img.icons8.com/office/40/express-js.png" alt="express-js"/>
-    <img height="48" width="48" src="https://avatars.githubusercontent.com/u/17219288?s=280&v=4">
-    <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-shadow-tal-revivo.png"/>
-    <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg">
+    <img height="40" width="40" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
+    <img height="40" width="40" src="https://img.icons8.com/office/40/express-js.png" alt="express-js"/>
+    <img height="40" width="40" src="https://avatars.githubusercontent.com/u/17219288?s=280&v=4">
+    <img height="40" width="40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-shadow-tal-revivo.png"/>
+    <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg">
 
    **CMS Drupal**  
-    <img height="48" width="48" src="https://drupalize.me/sites/default/files/page_images/wordmark2_blue_rgb.png">
+    <img height="40" width="40" src="https://drupalize.me/sites/default/files/page_images/wordmark2_blue_rgb.png">
     
   **XML & Semantic Web**  
-    <img height="48" width="48" src="https://www.ggctools.com/assets/image/img/xml1.png">
+    <img height="40" width="40" src="https://www.ggctools.com/assets/image/img/xml1.png">
   
   **Mobile Development**  
-    <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">
+    <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">
 
   **Desktop Development**  
-    <img height="48" width="48" src="https://www.qfs.de/fileadmin/Webdata/logos-icons/JavaFX.png">
+    <img height="40" width="40" src="https://www.qfs.de/fileadmin/Webdata/logos-icons/JavaFX.png">
 
   **Project Management**  
-    <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-trello-a-web-based-list-making-application-for-multi-platform-logo-shadow-tal-revivo.png" alt="external-trello-a-web-based-list-making-application-for-multi-platform-logo-shadow-tal-revivo"/>
-    <img width="48" height="48" src="https://img.icons8.com/color/48/jira.png" alt="jira"/>
-    <img width="48" height="48" src="https://img.icons8.com/color/48/slack-new.png" alt="slack-new"/>
-    <img width="48" height="48" src="https://img.icons8.com/color-glass/48/microsoft-teams.png" alt="microsoft-teams"/>
+    <img height="40" width="40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-trello-a-web-based-list-making-application-for-multi-platform-logo-shadow-tal-revivo.png" alt="external-trello-a-web-based-list-making-application-for-multi-platform-logo-shadow-tal-revivo"/>
+    <img height="40" width="40" src="https://img.icons8.com/color/48/jira.png" alt="jira"/>
+    <img height="40" width="40" src="https://img.icons8.com/color/48/slack-new.png" alt="slack-new"/>
+    <img height="40" width="40" src="https://img.icons8.com/color-glass/48/microsoft-teams.png" alt="microsoft-teams"/>
   
   **Development Environment**  
-    <img width="70" height="48" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1633506130698/ww0vXStHe.png"/>
-    <img width="48" height="48" src="https://img.icons8.com/fluency/48/intellij-idea.png" alt="intellij-idea"/>
-    <img width="48" height="48" src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter"/>
-    <img width="48" height="48" src="https://cdn.worldvectorlogo.com/logos/notepad--1.svg"/>
-    <img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
-    <img width="48" height="48" src="https://img.icons8.com/color/48/pycharm--v2.png" alt="pycharm--v2"/>
+    <img height="40" width="40" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1633506130698/ww0vXStHe.png"/>
+    <img height="40" width="40" src="https://img.icons8.com/fluency/48/intellij-idea.png" alt="intellij-idea"/>
+    <img height="40" width="40" src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter"/>
+    <img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/notepad--1.svg"/>
+    <img height="40" width="40" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+    <img height="40" width="40" src="https://img.icons8.com/color/48/pycharm--v2.png" alt="pycharm--v2"/>
   
   **System Administration**  
-    <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png">
-    <img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
-    <img width="48" height="48" src="https://img.icons8.com/color/48/ubuntu.png" alt="ubuntu"/>
-    <img width="48" height="48" src="https://img.icons8.com/plasticine/100/kali-linux.png" alt="kali-linux"/>
+    <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png">
+    <img height="40" width="40" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
+    <img height="40" width="40" src="https://img.icons8.com/color/48/ubuntu.png" alt="ubuntu"/>
+    <img height="40" width="40" src="https://img.icons8.com/plasticine/100/kali-linux.png" alt="kali-linux"/>
 
-  **Computer Networks and Telecommunications** <img width="30" height="30" src="https://www.icontower.com/wp-content/uploads/2022/12/Icon_tower.png"/>
+  **Computer Networks and Telecommunications** <img width="20" height="20" src="https://www.icontower.com/wp-content/uploads/2022/12/Icon_tower.png"/>
   
-  **Internet of Things** <img width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/6119/6119533.png"/>
+  **Internet of Things** <img width="20" height="20" src="https://cdn-icons-png.flaticon.com/512/6119/6119533.png"/>
   
-  **Computer Architecture and Assembler** <img width="30" height="30" src="https://cdn.icon-icons.com/icons2/1738/PNG/512/iconfinder-technologymachineelectronicdevice25-4026435_113356.png"/>
+  **Computer Architecture and Assembler** <img width="20" height="20" src="https://cdn.icon-icons.com/icons2/1738/PNG/512/iconfinder-technologymachineelectronicdevice25-4026435_113356.png"/>
   
   **MATLAB**  
-    <img width="48" height="48" src="https://img.icons8.com/fluency/48/matlab.png" alt="matlab"/>
+    <img width="40" height="40" src="https://img.icons8.com/fluency/48/matlab.png" alt="matlab"/>
 
   <br>
 
