@@ -74,7 +74,7 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
 
     
   **Programming Language**  
-    <img height="48" width="48" src="https://cms-informatic.com/wp-content/uploads/2020/01/logo-langage-C-300x300.png">
+    <img height="45" width="45" src="https://cms-informatic.com/wp-content/uploads/2020/01/logo-langage-C-300x300.png">
     <img height="48" width="48" src="https://www.naveedashfaq.me/img/c++.png">
     <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
@@ -87,7 +87,7 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
     <img height="30" width="30" src="https://smartgraphe.com/wp-content/uploads/2017/02/java_ee.jpg"> 
      -->
 
-  **Data Science** <img width="30" height="30" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-data-science-data-analytics-flaticons-lineal-color-flat-icons-5.png" alt="external-data-science-data-analytics-flaticons-lineal-color-flat-icons-5"/>  
+  **Data Science** <img width="25" height="25" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-data-science-data-analytics-flaticons-lineal-color-flat-icons-5.png" alt="external-data-science-data-analytics-flaticons-lineal-color-flat-icons-5"/>  
   *Data Manipulation :*
     <kbd>NumPy</kbd> <kbd>Scipy</kbd> <kbd>Pandas</kbd> <kbd>Plotly</kbd> <kbd>Scikit-learn</kbd> <kbd>XGBoost</kbd>  
   *Data Visualization :*
@@ -104,7 +104,7 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
   *Unsupervised :*
   <kbd>K-means</kbd> <kbd>Principal Component Analysis (PCA)</kbd> <kbd>Self-organizing map (SOM, Kohonen)</kbd>
   
-  **Modeling** <img width="30" height="30" src="https://img.icons8.com/stickers/100/static-view-level2.png" alt="static-view-level2"/>  
+  **Modeling** <img width="25" height="25" src="https://img.icons8.com/stickers/100/static-view-level2.png" alt="static-view-level2"/>  
   <kbd>Merise</kbd> <kbd>UML</kbd> <kbd>Figma</kbd>
 
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoub-etoullali&layout=compact&theme=vision-friendly-dark" alt="Ayoub-etoullali" />
@@ -135,7 +135,7 @@ I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engin
   **Databases (SQL, SGBD)**  
     <img height="48" width="48" src="https://kinsta.com/wp-content/uploads/2019/04/mysql-logo-1.svg">
     <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
-    <img height="48" width="48" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld">
+    <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/redis--v1.png" alt="redis--v1"/>
     <img width="48" height="48" src="https://img.icons8.com/emoji/48/shark-emoji.png" alt="shark-emoji"/>
     <img width="48" height="48" src="https://img.icons8.com/external-bright-fill-juicy-fish/42/external-data-science-data-science-bright-fill-bright-fill-juicy-fish-4.png"/>
