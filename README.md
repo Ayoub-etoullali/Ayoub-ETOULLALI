@@ -10,11 +10,10 @@
   [![Facebook Badge](https://img.shields.io/badge/-ayoub.etoullali-001890?style=flat&labelColor=001890&logo=facebook&logoColor=white)](https://www.facebook.com/ayoub.etou) [![Mail Badge](https://img.shields.io/badge/-@ayoub.etoullali-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/ayoub_etoullali) [![Mail Badge](https://img.shields.io/badge/-ayoub.etoullali-408CE2?style=flat&labelColor=408CE2&logo=twitter&logoColor=white)](https://twitter.com/AEtoullali)
 </div> <br>
 
-<img align="right" height="250" width="380" alt="GIF" src="GIF/code1.gif"/>
+<img align="right" height="250" width="400" alt="GIF" src="GIF/code1.gif"/>
 <h3 align="center"> Data Scientist | Software Engineer | Business intelligence  </h3>
   
-I'm<strong> Ayoub Etoullali</strong>, a Computer Engineer specialized in Big Data and Cloud Computing at <a href="https://www.enset-media.ac.ma/">Enset Mohammedia</a> <br>
-With significant experience as a Data Scientist and Artificial Intelligence Engineer🔭<br>
+I'm<strong> Ayoub Etoullali</strong>, a Computer Engineer specialized in Big Data and Cloud Computing at <a href="https://www.enset-media.ac.ma/">Enset Mohammedia</a>, with significant experience as a Data Scientist and Artificial Intelligence Engineer🔭<br>
   
   👯 I love to meet new people <br>
   💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 computer science & mathematics [here](https://www.linkedin.com/in/ayoub-etoullali/) ! <br>
