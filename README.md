@@ -14,9 +14,8 @@
 
 <h3 align="center"> Data Scientist | Software Engineer | Business intelligence  </h3>
   
-I'm<strong> Ayoub Etoullali</strong>, a Data Enthusiast, currently I am an engineering student at <a href="https://www.enset-media.ac.ma/">Enset Mohammedia</a> in <em>Big Data and Cloud Computing</em> field. 
-
-  <br>🔭 I’m currently preparing my engineering degree!! <br>
+I'm<strong> Ayoub Etoullali</strong>, a Computer Engineer specialized in Big Data and Cloud Computing at <a href="https://www.enset-media.ac.ma/">Enset Mohammedia</a>, with significant experience as a Data Scientist and Artificial Intelligence Engineer🔭<br>
+  
   👯 I love to meet new people <br>
   💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 computer science & mathematics [here](https://www.linkedin.com/in/ayoub-etoullali/) ! <br>
       𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙. <br>
