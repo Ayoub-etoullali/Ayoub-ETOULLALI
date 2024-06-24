@@ -11,7 +11,6 @@
 </div> <br>
 
 <img align="right" height="250" width="380" alt="GIF" src="GIF/code1.gif"/>
-
 <h3 align="center"> Data Scientist | Software Engineer | Business intelligence  </h3>
   
 I'm<strong> Ayoub Etoullali</strong>, a Computer Engineer specialized in Big Data and Cloud Computing at <a href="https://www.enset-media.ac.ma/">Enset Mohammedia</a>, with significant experience as a Data Scientist and Artificial Intelligence Engineer🔭<br>
