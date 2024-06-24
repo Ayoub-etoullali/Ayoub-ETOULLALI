@@ -36,11 +36,7 @@ I'm<strong> Ayoub Etoullali</strong>, a Computer Engineer specialized in Big Dat
   "studies": "Big Data & Cloud Computing",
   "profile": "Data Enthusiast",
   "interests": ["Competition & Hackathon","Problem Solving","Chess","Mind Game","Design"]
-  "speak": [
-    "Arabic",
-    "French"
-    "English"
-  ]
+  "speak": ["English","French","Arabic"]
   "gmail":"ayoub.etoullali2002@gmail.com"
   "linkedIn": "https://www.linkedin.com/in/ayoub-etoullali/",
   "Github": "https://github.com/Ayoub-etoullali",
