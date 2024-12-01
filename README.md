@@ -32,7 +32,7 @@ I'm<strong> Ayoub Etoullali</strong>, a Computer Engineer specialized in Big Dat
 ```json
 {
   "name": "Ayoub ETOULLALI",
-  "age": 22,
+  "age": 23,
   "studies": "Big Data & Cloud Computing",
   "profile": "Data Enthusiast",
   "interests": ["Competition & Hackathon","Problem Solving","Chess","Mind Game","Design"]
