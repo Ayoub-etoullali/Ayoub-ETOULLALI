@@ -150,14 +150,14 @@ I'm<strong> Ayoub Etoullali</strong>, a Computer Engineer specialized in Big Dat
     <img height="40" width="40" src="https://grafikart.fr/uploads/icons/css.svg">
     <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
     <img height="40" width="40" src="https://avatars.githubusercontent.com/u/70142?s=280&v=4">
-    <img height="40" width="40" src="https://static-00.iconduck.com/assets.00/file-type-angular-icon-1907x2048-tobdkjt1.png"/>
+    <img height="40" width="40" src="https://img.icons8.com/fluency/48/angularjs.png"/>
     
   **Back-End Technology**  
     <img height="40" width="40" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
     <img height="40" width="40" src="https://img.icons8.com/office/40/express-js.png" alt="express-js"/>
     <img height="40" width="40" src="https://avatars.githubusercontent.com/u/17219288?s=280&v=4">
     <img height="40" width="40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-shadow-tal-revivo.png"/>
-    <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg">
+    <img height="40" width="40" src="https://img.icons8.com/material-outlined/48/apache-kafka.png">
 
    **CMS Drupal**  
     <img height="40" width="40" src="https://drupalize.me/sites/default/files/page_images/wordmark2_blue_rgb.png">
@@ -186,7 +186,7 @@ I'm<strong> Ayoub Etoullali</strong>, a Computer Engineer specialized in Big Dat
     <img height="40" width="40" src="https://img.icons8.com/color/48/pycharm--v2.png" alt="pycharm--v2"/>
   
   **System Administration**  
-    <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png">
+    <img height="40" width="40" src="https://img.icons8.com/color/48/windows-10.png">
     <img height="40" width="40" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
     <img height="40" width="40" src="https://img.icons8.com/color/48/ubuntu.png" alt="ubuntu"/>
     <img height="40" width="40" src="https://img.icons8.com/plasticine/100/kali-linux.png" alt="kali-linux"/>
@@ -202,7 +202,7 @@ I'm<strong> Ayoub Etoullali</strong>, a Computer Engineer specialized in Big Dat
 
   <br>
 
-  <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"><img width="30" height="30" src="https://img.icons8.com/bubbles/50/github.png" alt="github"/>
+  <img height="30" width="30" src="https://img.icons8.com/color/48/git.png"><img width="30" height="30" src="https://img.icons8.com/bubbles/50/github.png" alt="github"/>
   
   <br>
 
