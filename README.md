@@ -7,8 +7,10 @@
 <div align='center'>
   
   [![Linkedin Badge](https://img.shields.io/badge/-ayoub.etoullali-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayoub-etoullali/) [![Mail Badge](https://img.shields.io/badge/-ayoub.etoullali-C70000?style=flat&labelColor=C70000&logo=gmail&logoColor=white)](https://ayoub.etoullali2002@gmail.com)
-  [![Facebook Badge](https://img.shields.io/badge/-ayoub.etoullali-001890?style=flat&labelColor=001890&logo=facebook&logoColor=white)](https://www.facebook.com/ayoub.etou) [![Mail Badge](https://img.shields.io/badge/-@ayoub.etoullali-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/ayoub_etoullali) [![Mail Badge](https://img.shields.io/badge/-ayoub.etoullali-408CE2?style=flat&labelColor=408CE2&logo=twitter&logoColor=white)](https://twitter.com/AEtoullali)
-</div> <br>
+<!-- 
+[![Facebook Badge](https://img.shields.io/badge/-ayoub.etoullali-001890?style=flat&labelColor=001890&logo=facebook&logoColor=white)](https://www.facebook.com/ayoub.etou) [![Mail Badge](https://img.shields.io/badge/-@ayoub.etoullali-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/ayoub_etoullali) [![Mail Badge](https://img.shields.io/badge/-ayoub.etoullali-408CE2?style=flat&labelColor=408CE2&logo=twitter&logoColor=white)](https://twitter.com/AEtoullali)
+-->
+</div> <br> 
 
 <img align="right" height="250" width="400" alt="GIF" src="GIF/code1.gif"/>
 <h3 align="center">Data Scientist & AI | Big Data | Cloud Computing</h3>
@@ -72,7 +74,7 @@ I'm<strong> Ayoub Etoullali</strong>, a Computer Engineer specialized in Big Dat
     <img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png">
     <img height="40" width="40" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
     <img height="40" width="40" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
-    <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/800px-PHP-logo.svg.png">
+    <img height="40" width="40" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/800px-PHP-logo.svg.png](https://img.icons8.com/external-those-icons-flat-those-icons/48/external-PHP-programming-and-development-those-icons-flat-those-icons.png)">
     <img height="40" width="40" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
     <img height="40" width="40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-scala-a-general-purpose-programming-language-with-strong-static-type-system-logo-shadow-tal-revivo.png" alt="external-scala-a-general-purpose-programming-language-with-strong-static-type-system-logo-shadow-tal-revivo"/>
     <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
