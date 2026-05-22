@@ -169,7 +169,7 @@ I'm<strong> Ayoub Etoullali</strong>, a Computer Engineer specialized in Big Dat
     <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">
 
   **Desktop Development**  
-    <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/en/c/cc/JavaFX_Logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original">
+    <img height="40" width="60" src="https://upload.wikimedia.org/wikipedia/en/c/cc/JavaFX_Logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original">
 
   **Project Management**  
     <img height="40" width="40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-trello-a-web-based-list-making-application-for-multi-platform-logo-shadow-tal-revivo.png" alt="external-trello-a-web-based-list-making-application-for-multi-platform-logo-shadow-tal-revivo"/>
