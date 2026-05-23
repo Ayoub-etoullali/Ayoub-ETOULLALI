@@ -10,8 +10,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ayoub--etoullali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayoub-etoullali/)
@@ -21,8 +19,6 @@
 [![Calendly](https://img.shields.io/badge/Calendly-Book%20a%20Meeting-006BFF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/ayoub-etoullali/career-discussion)
 
 </div>
-
----
 
 ## 🧠 About Me
 
@@ -51,8 +47,6 @@ class AyoubEtoullali:
         print("Thanks for stopping by! Let's build something intelligent. 🚀")
 ```
 
----
-
 ## 🚀 What I Build
 
 | 🤖 AI Engineering | 📊 Data Science | ⚙️ Automation |
@@ -79,8 +73,6 @@ class AyoubEtoullali:
 
 **Specializations:** `Agentic RAG` `MCP` `Function/Tool Calling` `Fine-Tuning` `Prompt Engineering` `Context Engineering` `RLHF` `Sentiment Analysis` `NLP / NLU / NLG` `LLM Security (Prompt Injection, Guardrails)`
 
----
-
 ### 📊 Data Science & Analytics
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -90,8 +82,6 @@ class AyoubEtoullali:
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
----
-
 ### ⚙️ Automation, QA & Scraping
 ![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
@@ -99,8 +89,6 @@ class AyoubEtoullali:
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
----
 
 ### 🗄️ Databases & Infrastructure
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -112,8 +100,6 @@ class AyoubEtoullali:
 
 **Also:** `Vector Databases (ChromaDB)` `HBase` `Cassandra` `Apache Kafka` `Spark` `HDFS`
 
----
-
 ### ☁️ Cloud & Deployment
 ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE?style=flat-square&logo=ibmcloud&logoColor=white)
@@ -121,8 +107,6 @@ class AyoubEtoullali:
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-
----
 
 ### 🖥️ Languages & Frameworks
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -133,16 +117,7 @@ class AyoubEtoullali:
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
----
-
 ## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ayoub-etoullali&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoub-etoullali&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
-
-</div>
 
 <div align="center">
 
@@ -156,16 +131,12 @@ class AyoubEtoullali:
 
 </div>
 
----
-
 ## 🏆 Highlights
 
 - 🥇 **MEGA Pan-African Hackathon** — Built an Athletic Performance Optimization System
 - 🏅 **ENSIAS Problem-Solving Challenge** — Ranked **20th / 130 teams**
 - 📊 **Kaggle** — Active ML competitor with top-percentile rankings
 - ♟️ **Chess Club Tournament** — 3rd Place
-
----
 
 ## 🤝 Let's Collaborate
 
@@ -174,7 +145,7 @@ class AyoubEtoullali:
 <div align="center">
 
 [![Book a Meeting](https://img.shields.io/badge/📅%20Book%20a%20Meeting-Calendly-006BFF?style=for-the-badge)](https://calendly.com/ayoub-etoullali/career-discussion)
-[![Hire on Fiverr](https://img.shields.io/badge/💼%20Hire%20Me-Fiverr-1DBF73?style=for-the-badge)](https://www.fiverr.com/ayoub_etoullali)
+[![Hire on Fiverr](https://img.shields.io/badge/💼%20Hire%20Me-Fiverr-1DBF73?style=for-the-badge)](https://www.fiverr.com/aetoullali)
 [![GitHub](https://img.shields.io/badge/⭐%20Follow%20on-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Ayoub-etoullali)
 
 </div>
