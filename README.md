@@ -17,7 +17,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ayoub--etoullali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayoub-etoullali/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ayoub--etoullali-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white)](https://ayoub-etoullali.netlify.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-ayoub.etoullali2002-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayoub.etoullali2002@gmail.com)
-[![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/ayoub_etoullali)
+[![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/aetoullali)
 [![Calendly](https://img.shields.io/badge/Calendly-Book%20a%20Meeting-006BFF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/ayoub-etoullali/career-discussion)
 
 </div>
