@@ -1,212 +1,190 @@
-<h1 align="center">
-  <img src="GIF/Earth.gif" width="24px">
-  𝐇i, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
-  <img src="GIF/Hi.gif" width="40px" />
-</h1>
+<div align="center">
 
-<div align='center'>
-  
-  [![Linkedin Badge](https://img.shields.io/badge/-ayoub.etoullali-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayoub-etoullali/) [![Mail Badge](https://img.shields.io/badge/-ayoub.etoullali-C70000?style=flat&labelColor=C70000&logo=gmail&logoColor=white)](https://ayoub.etoullali2002@gmail.com)
-<!-- 
-[![Facebook Badge](https://img.shields.io/badge/-ayoub.etoullali-001890?style=flat&labelColor=001890&logo=facebook&logoColor=white)](https://www.facebook.com/ayoub.etou) [![Mail Badge](https://img.shields.io/badge/-@ayoub.etoullali-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/ayoub_etoullali) [![Mail Badge](https://img.shields.io/badge/-ayoub.etoullali-408CE2?style=flat&labelColor=408CE2&logo=twitter&logoColor=white)](https://twitter.com/AEtoullali)
--->
-</div> <br> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Ayoub%20ETOULLALI&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20Automation%20Architect&descAlignY=58&descColor=8b949e" />
 
-<img align="right" height="250" width="400" alt="GIF" src="GIF/code1.gif"/>
-<h3 align="center">Data Scientist & AI | Big Data | Cloud Computing</h3>
-  
-I'm<strong> Ayoub Etoullali</strong>, a Computer Engineer specialized in Big Data and Cloud Computing at <a href="https://www.enset-media.ac.ma/">Enset Mohammedia</a>, with significant experience as a Data Scientist and Artificial Intelligence Engineer🔭<br>
-  
-  👯 I love to meet new people <br>
-  💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 computer science & mathematics [here](https://www.linkedin.com/in/ayoub-etoullali/) ! <br>
-      𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙. <br>
-  ⚡ I’m currently working on myself <br>
-  👯 I am the type of person who enjoys solving problems using technology tools in order to make human lives easier and valuable.
-  
-  Immensely passionate about the field of computer science & mathematics and related technologies, and I aim to use my skills to enhance and improve the lives of people.<br/>
-  I am a coding enthusiast, and I love to tinker with tech.
-  <!-- I believe in the power of knowledge sharing and exchanging, this why I am contributing to this amazing community. -->
+</div>
 
-  <br>
-    
-  <div align='center'> <kbd>Me as a JSON object</kbd> </div>
-  
-```json
-{
-  "name": "Ayoub ETOULLALI",
-  "age": 23,
-  "studies": "Big Data & Cloud Computing",
-  "profile": "Data Enthusiast",
-  "interests": ["Competition & Hackathon","Problem Solving","Chess","Mind Game","Design"]
-  "speak": ["English","French","Arabic"]
-  "gmail":"ayoub.etoullali2002@gmail.com"
-  "linkedIn": "https://www.linkedin.com/in/ayoub-etoullali/",
-  "Github": "https://github.com/Ayoub-etoullali",
-  "Portfolio": "https://ayoub-etoullali.netlify.app/"
-}
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI+that+works+in+the+real+world.;Agentic+RAG+%7C+LLMs+%7C+MCP+%7C+Automation;Data+Scientist+%26+AI+Engineer+%7C+3%2B+Years;Turning+Data+into+Decisions+🚀)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ayoub--etoullali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayoub-etoullali/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ayoub--etoullali-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white)](https://ayoub-etoullali.netlify.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-ayoub.etoullali2002-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayoub.etoullali2002@gmail.com)
+[![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/ayoub_etoullali)
+[![Calendly](https://img.shields.io/badge/Calendly-Book%20a%20Meeting-006BFF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/ayoub-etoullali/career-discussion)
+
+</div>
+
+---
+
+## 🧠 About Me
+
+```python
+class AyoubEtoullali:
+    name       = "Ayoub ETOULLALI"
+    role       = "Data Scientist & AI Automation Engineer"
+    education  = "Engineering — Big Data & Cloud Computing (ENSET Mohammedia)"
+    experience = "3+ years"
+    location   = "Worldwide 🌍"
+
+    expertise = [
+        "Agentic RAG & LLM Engineering",
+        "AI Workflow Automation (Make, n8n)",
+        "QA Automation (Playwright)",
+        "Advanced Web Scraping & Anti-Bot Bypass",
+        "Time-Series Forecasting & EDA",
+        "MCP-Integrated AI Systems"
+    ]
+
+    languages  = ["Arabic 🇲🇦 (C2)", "French 🇫🇷 (B2)", "English 🇬🇧 (B2)"]
+    interests  = ["Chess ♟️", "Hackathons 🏆", "Problem Solving 🔍", "Design 🎨"]
+    contact    = "ayoub.etoullali2002@gmail.com"
+
+    def say_hi(self):
+        print("Thanks for stopping by! Let's build something intelligent. 🚀")
 ```
 
-  <br/>
-  
-  <!--
-  
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayoub-etoullali&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Ayoub-etoullali" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayoub-etoullali&show_icons=true&locale=en" alt="Ayoub-etoullali" /> |
-  |---|---|
+---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayoub-etoullali" alt="Ayoub-etoullali" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub-etoullali" alt="Ayoub-etoullali" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayoub-etoullali" alt="ayoub-etoullali" /> |   
-  |---|---|---|
-  -->
+## 🚀 What I Build
 
-  <p align="center"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=Ayoub-etoullali&theme=flat" alt="Ayoub-etoullali" />
-    </a> 
-  </p>
-  
-  <h1 align="center">
-  Top &lt;Technologies/&gt;
-  <img src="https://i.gifer.com/origin/a9/a9176696b8740c402d84b55374ea0107_w200.gif" alt="gif" height="30" width="30"/>
-  </h1>
+| 🤖 AI Engineering | 📊 Data Science | ⚙️ Automation |
+|---|---|---|
+| Agentic RAG Chatbots | Predictive ML Models | Make & n8n Workflows |
+| LLM Fine-Tuning & Prompt Engineering | Time-Series Forecasting | Playwright QA Pipelines |
+| MCP-Integrated Assistants | EDA & BI Dashboards | Web Scraping at Scale |
+| Rasa + LLM Hybrid Agents | Recommendation Systems | AI-Driven Content Pipelines |
+| Conversational AI (FastAPI, Redis) | Power BI & Grafana | B2B Lead Generation |
 
-    
-  **Programming Language**  
-    <img height="40" width="40" src="https://cms-informatic.com/wp-content/uploads/2020/01/logo-langage-C-300x300.png">
-    <img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png">
-    <img height="40" width="40" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
-    <img height="40" width="40" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
-    <img height="40" width="40" src="https://img.icons8.com/external-those-icons-flat-those-icons/48/external-PHP-programming-and-development-those-icons-flat-those-icons.png">
-    <img height="40" width="40" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
-    <img height="40" width="40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-scala-a-general-purpose-programming-language-with-strong-static-type-system-logo-shadow-tal-revivo.png" alt="external-scala-a-general-purpose-programming-language-with-strong-static-type-system-logo-shadow-tal-revivo"/>
-    <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-    <!-- 
-    <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">
-    <img height="30" width="30" src="https://smartgraphe.com/wp-content/uploads/2017/02/java_ee.jpg"> 
-     -->
+---
 
-  **Data Science** <img width="20" height="20" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-data-science-data-analytics-flaticons-lineal-color-flat-icons-5.png" alt="external-data-science-data-analytics-flaticons-lineal-color-flat-icons-5"/>  
-  *Data Manipulation :*
-    <kbd>NumPy</kbd> <kbd>Scipy</kbd> <kbd>Pandas</kbd> <kbd>Plotly</kbd> <kbd>Scikit-learn</kbd> <kbd>XGBoost</kbd>  
-  *Data Visualization :*
-    <img width="20" height="20" src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"/>
-    <img width="20" height="20" src="https://img.icons8.com/fluency/48/grafana.png" alt="grafana"/>
-    <kbd>Matplotlib</kbd> <kbd>Seaborn</kbd>
-    
-  **Artificial Intelligence** <img width="20" height="20" src="https://img.icons8.com/external-itim2101-fill-itim2101/64/228BE6/external-artificial-intelligence-artificial-intelligence-itim2101-fill-itim2101-3.png" alt="external-artificial-intelligence-artificial-intelligence-itim2101-fill-itim2101-3"/>  
-  <kbd>AI & Multi-agent Systems</kbd> <kbd>Artificial Neural Networks (ANNs)</kbd> <kbd>Recurrent Neural Networks (RNNs)</kbd> <kbd>Natural Language Processing (NLP)</kbd>
-  
-  **Machine learning** <img width="20" height="20" src="https://img.icons8.com/cotton/64/brain-3.png" alt="brain-3"/>  
-  *Supervised :*
-  <kbd>Linear and logistic regressions</kbd> <kbd>Singular value decomposition (SVD)</kbd> <kbd>Decision tree</kbd> <kbd>Random Forest</kbd> <kbd>Neural networks</kbd> <kbd>K-nearest neighbors (KNN)</kbd>  
-  *Unsupervised :*
-  <kbd>K-means</kbd> <kbd>Principal Component Analysis (PCA)</kbd> <kbd>Self-organizing map (SOM, Kohonen)</kbd>
-  
-  **Modeling** <img width="20" height="20" src="https://img.icons8.com/stickers/100/static-view-level2.png" alt="static-view-level2"/>  
-  <kbd>Merise</kbd> <kbd>UML</kbd> <kbd>Figma</kbd>
+## 🛠️ Tech Stack
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoub-etoullali&layout=compact&theme=vision-friendly-dark" alt="Ayoub-etoullali" />
+### 🧬 AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Rasa](https://img.shields.io/badge/Rasa-5A17EE?style=flat-square&logo=rasa&logoColor=white)
 
-  **DevOps – MLOps**  
-    <img height="40" width="40" src="https://img.icons8.com/color/48/docker.png" alt="docker"/>
-    <img height="40" width="40" src="https://img.icons8.com/color/48/kubernetes.png" alt="kubernetes"/>
-    <img height="40" width="40" src="https://img.icons8.com/color/48/jenkins.png" alt="jenkins"/>
-  
-  **API Testing**  
-    <img height="40" width="40" src="https://www.svgrepo.com/show/354202/postman-icon.svg"/>
-    <img height="40" width="40" src="https://img.icons8.com/color/48/000000/cloud-function.png" alt="cloud-function"/>
-    <img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg"/>
-  
-  **Cloud Computing**  
-    <img height="40" width="40" src="https://img.icons8.com/color/48/ibm.png" alt="ibm"/>
-    <img width="50" height="40" src="https://img.icons8.com/color/48/oracle-logo.png" alt="oracle-logo"/>
+**Specializations:** `Agentic RAG` `MCP` `Function/Tool Calling` `Fine-Tuning` `Prompt Engineering` `Context Engineering` `RLHF` `Sentiment Analysis` `NLP / NLU / NLG` `LLM Security (Prompt Injection, Guardrails)`
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Ayoub-etoullali&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Ayoub-etoullali" />
-  
-  **Big Data Technology**  
-    <img height="40" width="40" src="https://img.icons8.com/color/48/hadoop-distributed-file-system.png" alt="hadoop-distributed-file-system"/>
-    <img height="40" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_nifi_logo_icon_168614.png"/>
-    <img height="40" width="40" src="https://hive.apache.org/images/hive.svg"/>
-    <img height="40" width="40" src="https://lh3.googleusercontent.com/P-RLru4O6beYhy-pzomD5Ujry9oCSNhdMNGyDV09SENhFKTGqBns8M0UJaM1tklpWzQm1KlTgmIFjVYaZCLoMA"/>
-    <img width="70" height="40" src="https://miro.medium.com/v2/resize:fit:603/0*IMPTG6_iKbQVPVA5.png"/>
- 
-  **Databases (SQL, SGBD)**  
-    <img height="40" width="40" src="https://kinsta.com/wp-content/uploads/2019/04/mysql-logo-1.svg">
-    <img height="40" width="40" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
-    <img height="40" width="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo"/>
-    <img height="40" width="40" src="https://img.icons8.com/color/48/redis--v1.png" alt="redis--v1"/>
-    <img height="40" width="40" src="https://img.icons8.com/emoji/48/shark-emoji.png" alt="shark-emoji"/>
-    <img height="40" width="40" src="https://img.icons8.com/external-bright-fill-juicy-fish/42/external-data-science-data-science-bright-fill-bright-fill-juicy-fish-4.png"/>
+---
 
-  **Ethics and Confidentiality of Data**  
-    <img height="40" width="40" src="https://img.icons8.com/ios-filled/50/12B886/security-shield-green.png" alt="security-shield-green"/>
+### 📊 Data Science & Analytics
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
-  **Architecture JEE**  
-    <img height="40" width="40" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>
-    <img height="40" width="40" src="https://miro.medium.com/v2/resize:fit:933/1*nOj3vVVLRDoBeyshUt2dlw.png"/>
-    <img height="40" width="40" src="https://www.svgrepo.com/show/448216/consul.svg"/>
-    <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Keycloak_Logo.png"/>
-  
-  **Front-End Technology**   
-    <img height="40" width="40" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-    <img height="40" width="40" src="https://grafikart.fr/uploads/icons/css.svg">
-    <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
-    <img height="40" width="40" src="https://avatars.githubusercontent.com/u/70142?s=280&v=4">
-    <img height="40" width="40" src="https://img.icons8.com/fluency/48/angularjs.png"/>
-    
-  **Back-End Technology**  
-    <img height="40" width="40" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
-    <img height="40" width="40" src="https://img.icons8.com/office/40/express-js.png" alt="express-js"/>
-    <img height="40" width="40" src="https://avatars.githubusercontent.com/u/17219288?s=280&v=4">
-    <img height="40" width="40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-shadow-tal-revivo.png"/>
-    <img height="40" width="40" src="https://img.icons8.com/material-outlined/48/apache-kafka.png">
+---
 
-   **CMS Drupal**  
-    <img height="40" width="40" src="https://drupalize.me/sites/default/files/page_images/wordmark2_blue_rgb.png">
-    
-  **XML & Semantic Web**  
-    <img height="40" width="40" src="https://www.ggctools.com/assets/image/img/xml1.png">
-  
-  **Mobile Development**  
-    <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">
+### ⚙️ Automation, QA & Scraping
+![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-  **Desktop Development**  
-    <img height="40" width="60" src="https://upload.wikimedia.org/wikipedia/en/c/cc/JavaFX_Logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original">
+---
 
-  **Project Management**  
-    <img height="40" width="40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-trello-a-web-based-list-making-application-for-multi-platform-logo-shadow-tal-revivo.png" alt="external-trello-a-web-based-list-making-application-for-multi-platform-logo-shadow-tal-revivo"/>
-    <img height="40" width="40" src="https://img.icons8.com/color/48/jira.png" alt="jira"/>
-    <img height="40" width="40" src="https://img.icons8.com/color/48/slack-new.png" alt="slack-new"/>
-    <img height="40" width="40" src="https://img.icons8.com/color-glass/48/microsoft-teams.png" alt="microsoft-teams"/>
-  
-  **Development Environment**  
-    <img height="40" width="40" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1633506130698/ww0vXStHe.png"/>
-    <img height="40" width="40" src="https://img.icons8.com/fluency/48/intellij-idea.png" alt="intellij-idea"/>
-    <img height="40" width="40" src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter"/>
-    <img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/notepad--1.svg"/>
-    <img height="40" width="40" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
-    <img height="40" width="40" src="https://img.icons8.com/color/48/pycharm--v2.png" alt="pycharm--v2"/>
-  
-  **System Administration**  
-    <img height="40" width="40" src="https://img.icons8.com/color/48/windows-10.png">
-    <img height="40" width="40" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
-    <img height="40" width="40" src="https://img.icons8.com/color/48/ubuntu.png" alt="ubuntu"/>
-    <img height="40" width="40" src="https://img.icons8.com/plasticine/100/kali-linux.png" alt="kali-linux"/>
+### 🗄️ Databases & Infrastructure
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-  **Computer Networks and Telecommunications** <img width="20" height="20" src="https://www.icontower.com/wp-content/uploads/2022/12/Icon_tower.png"/>
-  
-  **Internet of Things** <img width="20" height="20" src="https://cdn-icons-png.flaticon.com/512/6119/6119533.png"/>
-  
-  **Computer Architecture and Assembler** <img width="20" height="20" src="https://cdn.icon-icons.com/icons2/1738/PNG/512/iconfinder-technologymachineelectronicdevice25-4026435_113356.png"/>
-  
-  **MATLAB**  
-    <img width="40" height="40" src="https://img.icons8.com/fluency/48/matlab.png" alt="matlab"/>
+**Also:** `Vector Databases (ChromaDB)` `HBase` `Cassandra` `Apache Kafka` `Spark` `HDFS`
 
-  <br>
+---
 
-  <img height="30" width="30" src="https://img.icons8.com/color/48/git.png"><img width="30" height="30" src="https://img.icons8.com/bubbles/50/github.png" alt="github"/>
-  
-  <br>
+### ☁️ Cloud & Deployment
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE?style=flat-square&logo=ibmcloud&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 
-### “First, solve the problem. Then, write the code.” – John Johnson
+---
 
-##
-  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+### 🖥️ Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ayoub-etoullali&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoub-etoullali&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ayoub-etoullali&theme=github-dark-blue&border=30363d&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Ayoub-etoullali&theme=algolia&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🏆 Highlights
+
+- 🥇 **MEGA Pan-African Hackathon** — Built an Athletic Performance Optimization System
+- 🏅 **ENSIAS Problem-Solving Challenge** — Ranked **20th / 130 teams**
+- 📊 **Kaggle** — Active ML competitor with top-percentile rankings
+- ♟️ **Chess Club Tournament** — 3rd Place
+
+---
+
+## 🤝 Let's Collaborate
+
+> 💡 *Have a project that needs AI, automation, or data intelligence? Let's talk.*
+
+<div align="center">
+
+[![Book a Meeting](https://img.shields.io/badge/📅%20Book%20a%20Meeting-Calendly-006BFF?style=for-the-badge)](https://calendly.com/ayoub-etoullali/career-discussion)
+[![Hire on Fiverr](https://img.shields.io/badge/💼%20Hire%20Me-Fiverr-1DBF73?style=for-the-badge)](https://www.fiverr.com/ayoub_etoullali)
+[![GitHub](https://img.shields.io/badge/⭐%20Follow%20on-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Ayoub-etoullali)
+
+</div>
+
+<br>
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" />
+
+</div>
