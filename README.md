@@ -57,8 +57,6 @@ class AyoubEtoullali:
 | Rasa + LLM Hybrid Agents | Recommendation Systems | AI-Driven Content Pipelines |
 | Conversational AI (FastAPI, Redis) | Power BI & Grafana | B2B Lead Generation |
 
----
-
 ## 🛠️ Tech Stack
 
 ### 🧬 AI & Machine Learning
